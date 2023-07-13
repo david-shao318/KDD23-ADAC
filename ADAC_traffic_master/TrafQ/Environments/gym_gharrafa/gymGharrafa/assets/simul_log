@@ -1,0 +1,943 @@
+***Starting server on port 53741 ***
+Loading net-file from 'gharrafa.net.xml' ... done (25ms).
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G N' for tl-index 21 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G N BY S' for tl-index 21 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G NS' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G S' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G S BY N' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G W' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from ALL RED to G W BY E' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from ALL RED to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to ALL RED' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to ALL RED' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G E' for tl-index 6.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G N BY S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G NS' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G S BY N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E BY W to G W' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G W' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E BY W to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to ALL RED' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to ALL RED' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G EW' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G N BY S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G NS' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G S BY N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G W' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G E to G W BY E' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G E to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to ALL RED' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G E' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G E' for tl-index 6.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G N BY S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G NS' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G S' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G S BY N' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G EW to G W' for tl-index 6 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G W' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G EW to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to ALL RED' for tl-index 24 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G EW' for tl-index 6.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G N' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G S' for tl-index 24 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G S' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G W' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N BY S to G W BY E' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N BY S to G W BY E' for tl-index 18.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to ALL RED' for tl-index 24 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G EW' for tl-index 6.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G NS' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G S' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G S BY N' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G W' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G N to G W BY E' for tl-index 15 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G N to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to ALL RED' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G N' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G N' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G S' for tl-index 24 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G S' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G W' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G NS to G W BY E' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G NS to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to ALL RED' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G N' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G N' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G N BY S' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G NS' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G W' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S BY N to G W BY E' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S BY N to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to ALL RED' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G N' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G N BY S' for tl-index 21 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G NS' for tl-index 21 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G NS' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G S BY N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G W' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G W' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G S to G W BY E' for tl-index 12 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G S to G W BY E' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to ALL RED' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to ALL RED' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G E' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G E' for tl-index 9.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G E BY W' for tl-index 9.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G EW' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G N' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G N' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G N BY S' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G N BY S' for tl-index 15.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G NS' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G NS' for tl-index 12.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G S' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G S' for tl-index 12.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W BY E to G S BY N' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G S BY N' for tl-index 12.
+Warning: Missing green phase in tlLogic '6317', program 'from G W BY E to G W' for tl-index 9.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to ALL RED' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to ALL RED' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G E' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G E' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G E BY W' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G E BY W' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G EW' for tl-index 0 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G EW' for tl-index 6.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G N' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G N' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G N BY S' for tl-index 18 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G N BY S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G NS' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G NS' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G S' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G S' for tl-index 0.
+Warning: Missing yellow phase in tlLogic '6317', program 'from G W to G S BY N' for tl-index 9 when switching to phase 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G S BY N' for tl-index 0.
+Warning: Missing green phase in tlLogic '6317', program 'from G W to G W BY E' for tl-index 9.
+Loading additional-files from 'e1test.xml' ... done (14ms).
+Loading done.
+Simulation started with time: 25200.00.
+Warning: Vehicle '6728' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25260.00.
+Warning: Vehicle '8771' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25263.00.
+Warning: Vehicle '4873' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25264.00.
+Warning: Vehicle '3852' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25279.00.
+Warning: Vehicle '8817' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25287.00.
+Warning: Vehicle '1150' performs emergency braking on lane ':7252_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25292.00.
+Warning: Vehicle '3650' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25304.00.
+Warning: Vehicle '5523' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25305.00.
+Warning: Vehicle '3624' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25312.00.
+Warning: Vehicle '6201' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25319.00.
+Warning: Vehicle '3641' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25327.00.
+Warning: Vehicle '3344' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25336.00.
+Warning: Vehicle '8620' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25340.00.
+Warning: Vehicle '9023' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25352.00.
+Warning: Vehicle '4978' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25353.00.
+Warning: Vehicle '5480' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=25370.00.
+Warning: Vehicle '8188' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25376.00.
+Warning: Vehicle '3917' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25380.00.
+Warning: Vehicle '3871' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25382.00.
+Warning: Vehicle '4446' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25384.00.
+Warning: Vehicle '8974' performs emergency braking on lane '7523_0' with decel=9.00, wished=4.50, severity=1.00, time=25388.00.
+Warning: Vehicle '2954' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25389.00.
+Warning: Vehicle '3871' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25395.00.
+Warning: Vehicle '8794' performs emergency braking on lane ':7734_0_1' with decel=9.00, wished=4.50, severity=1.00, time=25408.00.
+Warning: Teleporting vehicle '5214'; collision with vehicle '8903', lane='7539_1', gap=-6.86, time=25411.00 stage=move.
+Warning: Vehicle '5214' ends teleporting on edge '6511', time=25411.00.
+Warning: Vehicle '8850' performs emergency braking on lane ':6404_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25413.00.
+Warning: Vehicle '5729' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25427.00.
+Warning: Vehicle '8850' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25434.00.
+Warning: Vehicle '4597' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25436.00.
+Warning: Vehicle '8817' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25439.00.
+Warning: Vehicle '8375' performs emergency braking on lane ':7734_0_1' with decel=9.00, wished=4.50, severity=1.00, time=25442.00.
+Warning: Vehicle '1819' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25442.00.
+Warning: Vehicle '6467' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=25443.00.
+Warning: Vehicle '4578' performs emergency braking on lane '6039_0' with decel=9.00, wished=4.50, severity=1.00, time=25444.00.
+Warning: Vehicle '1058' performs emergency braking on lane ':7252_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25449.00.
+Warning: Vehicle '68' performs emergency braking on lane ':7252_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25453.00.
+Warning: Vehicle '4753' performs emergency braking on lane ':7734_4_1' with decel=9.00, wished=4.50, severity=1.00, time=25454.00.
+Warning: Vehicle '8375' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25456.00.
+Warning: Vehicle '8377' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=25464.00.
+Warning: Vehicle '8682' performs emergency braking on lane ':7734_0_1' with decel=9.00, wished=4.50, severity=1.00, time=25464.00.
+Warning: Vehicle '2504' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25471.00.
+Warning: Vehicle '7376' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=25488.00.
+Warning: Vehicle '5160' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25500.00.
+Warning: Vehicle '4452' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25503.00.
+Warning: Vehicle '3029' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25504.00.
+Warning: Vehicle '3685' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=25511.00.
+Warning: Vehicle '3791' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25511.00.
+Warning: Vehicle '8658' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25514.00.
+Warning: Vehicle '9180' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25519.00.
+Warning: Vehicle '4928' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25521.00.
+Warning: Vehicle '7677' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25523.00.
+Warning: Vehicle '5996' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25524.00.
+Warning: Vehicle '4416' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=25541.00.
+Warning: Vehicle '8836' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25548.00.
+Warning: Vehicle '4245' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25550.00.
+Warning: Vehicle '6343' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25551.00.
+Warning: Teleporting vehicle '9035'; collision with vehicle '3664', lane='7580_0', gap=-5.27, time=25554.00 stage=move.
+Warning: Vehicle '9035' ends teleporting on edge '7581', time=25556.00.
+Warning: Vehicle '3650' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25565.00.
+Warning: Vehicle '8697' performs emergency braking on lane '7523_0' with decel=9.00, wished=4.50, severity=1.00, time=25588.00.
+Warning: Vehicle '3823' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25598.00.
+Warning: Vehicle '5691' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25610.00.
+Warning: Vehicle '4438' performs emergency braking on lane ':7734_4_1' with decel=9.00, wished=4.50, severity=1.00, time=25613.00.
+Warning: Teleporting vehicle '5263'; junction collision with vehicle '4438', lane=':7734_4_1', gap=-1.67, time=25613.00 stage=move.
+Warning: Vehicle '5263' ends teleporting on edge '7539', time=25613.00.
+Warning: Vehicle '1055' performs emergency braking on lane '6046_0' with decel=9.00, wished=4.50, severity=1.00, time=25616.00.
+Warning: Vehicle '9027' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25635.00.
+Warning: Vehicle '4419' performs emergency braking on lane ':7253_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25636.00.
+Warning: Vehicle '49' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=25645.00.
+Warning: Vehicle '4278' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25658.00.
+Warning: Vehicle '4523' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25664.00.
+Warning: Vehicle '2704' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25672.00.
+Warning: Vehicle '5659' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25683.00.
+Warning: Vehicle '567' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25689.00.
+Warning: Vehicle '4632' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25693.00.
+Warning: Vehicle '8913' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25709.00.
+Warning: Teleporting vehicle '9125'; collision with vehicle '4502', lane='7580_0', gap=-2.44, time=25717.00 stage=move.
+Warning: Vehicle '9125' ends teleporting on edge '7591', time=25717.00.
+Warning: Vehicle '8798' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=25727.00.
+Warning: Vehicle '1451' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=25729.00.
+Warning: Vehicle '4502' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=25730.00.
+Warning: Vehicle '403' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25736.00.
+Warning: Vehicle '8941' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25742.00.
+Warning: Vehicle '619' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25749.00.
+Warning: Vehicle '3624' performs emergency braking on lane ':7250_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25759.00.
+Warning: Vehicle '3992' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25761.00.
+Warning: Vehicle '9023' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=25764.00.
+Warning: Vehicle '4278' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25765.00.
+Warning: Vehicle '8462' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25781.00.
+Warning: Vehicle '4522' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25782.00.
+Warning: Vehicle '9091' performs emergency braking on lane '7588_0' with decel=9.00, wished=4.50, severity=1.00, time=25789.00.
+Warning: Vehicle '8584' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25810.00.
+Warning: Vehicle '643' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=25811.00.
+Warning: Vehicle '1997' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25814.00.
+Warning: Vehicle '2367' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25818.00.
+Warning: Vehicle '8825' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25831.00.
+Warning: Vehicle '7247' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25832.00.
+Warning: Vehicle '378' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25838.00.
+Warning: Vehicle '3632' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25843.00.
+Warning: Vehicle '6471' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25864.00.
+Warning: Vehicle '8695' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25896.00.
+Warning: Vehicle '4323' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25897.00.
+Warning: Vehicle '1459' performs emergency braking on lane ':7250_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25899.00.
+Warning: Vehicle '1484' performs emergency braking on lane ':7250_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25902.00.
+Warning: Vehicle '8676' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25911.00.
+Warning: Vehicle '5370' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25912.00.
+Warning: Vehicle '8324' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25916.00.
+Warning: Vehicle '1870' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25926.00.
+Warning: Vehicle '4495' performs emergency braking on lane ':7250_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25927.00.
+Warning: Vehicle '8834' performs emergency braking on lane ':6404_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25928.00.
+Warning: Vehicle '4639' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25933.00.
+Warning: Vehicle '3742' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=25934.00.
+Warning: Vehicle '3820' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25943.00.
+Warning: Vehicle '8825' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25950.00.
+Warning: Vehicle '735' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=25967.00.
+Warning: Vehicle '689' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=25984.00.
+Warning: Vehicle '3143' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25986.00.
+Warning: Vehicle '400' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26003.00.
+Warning: Vehicle '561' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26025.00.
+Warning: Vehicle '3633' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26025.00.
+Warning: Vehicle '1432' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=26033.00.
+Warning: Vehicle '6040' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26076.00.
+Warning: Vehicle '422' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26081.00.
+Warning: Vehicle '7188' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26083.00.
+Warning: Vehicle '9131' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26133.00.
+Warning: Vehicle '3632' performs emergency braking on lane '7592_0' with decel=9.00, wished=4.50, severity=1.00, time=26134.00.
+Warning: Vehicle '197' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26164.00.
+Warning: Vehicle '8728' performs emergency braking on lane ':7734_0_1' with decel=9.00, wished=4.50, severity=1.00, time=26171.00.
+Warning: Teleporting vehicle '8728'; collision with vehicle '6209', lane='7539_0', gap=-0.08, time=26171.00 stage=move.
+Warning: Vehicle '3638' performs emergency braking on lane ':7734_0_1' with decel=9.00, wished=4.50, severity=1.00, time=26180.00.
+Warning: Vehicle '4491' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26181.00.
+Warning: Vehicle '8728' ends teleporting on edge '6511', time=26191.00.
+Warning: Vehicle '1448' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=26192.00.
+Warning: Vehicle '426' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26199.00.
+Warning: Vehicle '4909' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26209.00.
+Warning: Teleporting vehicle '3246'; waited too long (yield), lane='12527_1', time=26265.00.
+Warning: Vehicle '3246' ends teleporting on edge '7680', time=26268.00.
+Warning: Vehicle '3832' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26272.00.
+Warning: Vehicle '3556' performs emergency braking on lane ':2410__3_0' with decel=9.00, wished=4.50, severity=1.00, time=26316.00.
+Warning: Vehicle '3844' performs emergency braking on lane ':7746_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26320.00.
+Warning: Vehicle '404' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26375.00.
+Warning: Vehicle '7041' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26384.00.
+Warning: Teleporting vehicle '3491'; waited too long (yield), lane='7690_0', time=26394.00.
+Warning: Vehicle '3491' ends teleporting on edge '7682', time=26395.00.
+Warning: Vehicle '2016' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26456.00.
+Warning: Vehicle '2331' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26460.00.
+Warning: Teleporting vehicle '3368'; waited too long (yield), lane='12527_2', time=26471.00.
+Warning: Vehicle '3368' ends teleporting on edge '7680', time=26471.00.
+Warning: Vehicle '3001' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26514.00.
+Warning: Vehicle '4836' performs emergency braking on lane ':7746_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26557.00.
+Warning: Vehicle '1471' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=26568.00.
+Warning: Teleporting vehicle '3012'; waited too long (yield), lane='12527_1', time=26570.00.
+Warning: Vehicle '8784' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26570.00.
+Warning: Vehicle '3012' ends teleporting on edge '7680', time=26570.00.
+Warning: Teleporting vehicle '3153'; waited too long (yield), lane='12527_1', time=26574.00.
+Warning: Vehicle '3153' ends teleporting on edge '7680', time=26574.00.
+Warning: Teleporting vehicle '3166'; waited too long (yield), lane='12527_1', time=26581.00.
+Warning: Vehicle '3166' ends teleporting on edge '7680', time=26581.00.
+Warning: Teleporting vehicle '3280'; waited too long (yield), lane='12527_1', time=26583.00.
+Warning: Vehicle '3280' ends teleporting on edge '7680', time=26583.00.
+Warning: Teleporting vehicle '3299'; waited too long (yield), lane='12527_1', time=26588.00.
+Warning: Vehicle '3299' ends teleporting on edge '7680', time=26588.00.
+Warning: Teleporting vehicle '3288'; waited too long (yield), lane='12527_1', time=26589.00.
+Warning: Teleporting vehicle '3071'; waited too long (yield), lane='12527_1', time=26590.00.
+Warning: Vehicle '3288' ends teleporting on edge '7680', time=26590.00.
+Warning: Teleporting vehicle '3164'; waited too long (yield), lane='12527_1', time=26591.00.
+Warning: Vehicle '3071' ends teleporting on edge '7680', time=26592.00.
+Warning: Vehicle '3164' ends teleporting on edge '7680', time=26594.00.
+Warning: Teleporting vehicle '3015'; waited too long (yield), lane='12527_0', time=26622.00.
+Warning: Vehicle '3015' ends teleporting on edge '7680', time=26622.00.
+Warning: Teleporting vehicle '3332'; waited too long (yield), lane='12527_0', time=26623.00.
+Warning: Vehicle '3332' ends teleporting on edge '7680', time=26623.00.
+Warning: Vehicle '173' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26641.00.
+Warning: Vehicle '2259' performs emergency braking on lane ':7253_2_0' with decel=9.00, wished=4.50, severity=1.00, time=26667.00.
+Warning: Vehicle '4505' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=26708.00.
+Warning: Teleporting vehicle '9185'; collision with vehicle '8720', lane='7580_0', gap=-6.80, time=26712.00 stage=move.
+Warning: Vehicle '9185' ends teleporting on edge '7581', time=26712.00.
+Warning: Vehicle '9185' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=26716.00.
+Warning: Vehicle '220' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26723.00.
+Warning: Vehicle '2926' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26727.00.
+Warning: Vehicle '4343' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26745.00.
+Warning: Teleporting vehicle '2844'; waited too long (yield), lane='7675_2', time=26760.00.
+Warning: Vehicle '2844' ends teleporting on edge '7687', time=26762.00.
+Warning: Vehicle '5248' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26773.00.
+Warning: Teleporting vehicle '3227'; waited too long (yield), lane='12527_2', time=26776.00.
+Warning: Vehicle '3227' ends teleporting on edge '7680', time=26777.00.
+Warning: Teleporting vehicle '1627'; waited too long (yield), lane=':7800_4_0', time=26780.00.
+Warning: Vehicle '1627' ends teleporting on edge '7688', time=26780.00.
+Warning: Teleporting vehicle '3549'; waited too long (yield), lane='7690_0', time=26788.00.
+Warning: Vehicle '3549' ends teleporting on edge '7682', time=26788.00.
+Warning: Vehicle '3494' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26793.00.
+Warning: Vehicle '309' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26803.00.
+Warning: Vehicle '2131' performs emergency braking on lane ':2410__6_0' with decel=9.00, wished=4.50, severity=1.00, time=26810.00.
+Warning: Teleporting vehicle '2081'; waited too long (yield), lane=':7800_2_0', time=26818.00.
+Warning: Vehicle '2081' ends teleporting on edge '7688', time=26818.00.
+Warning: Teleporting vehicle '691'; waited too long (jam), lane=':6306_4_0', time=26832.00.
+Warning: Vehicle '691' ends teleporting on edge '7674', time=26832.00.
+Warning: Vehicle '5071' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26862.00.
+Warning: Vehicle '631' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26866.00.
+Warning: Vehicle '8834' performs emergency braking on lane ':7250_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26866.00.
+Warning: Vehicle '171' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26871.00.
+Warning: Vehicle '9102' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26938.00.
+Warning: Vehicle '377' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=26945.00.
+Warning: Vehicle '332' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26968.00.
+Warning: Vehicle '2261' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=26980.00.
+Warning: Vehicle '5484' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26994.00.
+Warning: Vehicle '9182' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26997.00.
+Warning: Teleporting vehicle '3146'; waited too long (yield), lane='12527_1', time=27029.00.
+Warning: Vehicle '3146' ends teleporting on edge '7680', time=27029.00.
+Warning: Vehicle '491' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=27032.00.
+Warning: Vehicle '8035' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=27034.00.
+Warning: Vehicle '9036' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=27056.00.
+Warning: Teleporting vehicle '1428'; waited too long (yield), lane='7594_0', time=27057.00.
+Warning: Teleporting vehicle '3068'; waited too long (yield), lane='12527_1', time=27057.00.
+Warning: Vehicle '3068' ends teleporting on edge '7680', time=27057.00.
+Warning: Teleporting vehicle '4971'; waited too long (yield), lane='7535_1', time=27059.00.
+Warning: Vehicle '4971' ends teleporting on edge '6123', time=27059.00.
+Warning: Teleporting vehicle '2888'; waited too long (yield), lane='7675_2', time=27064.00.
+Warning: Vehicle '5396' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=27064.00.
+Warning: Vehicle '2888' ends teleporting on edge '7687', time=27066.00.
+Warning: Teleporting vehicle '3047'; waited too long (yield), lane='12527_1', time=27069.00.
+Warning: Vehicle '3047' ends teleporting on edge '7680', time=27069.00.
+Warning: Teleporting vehicle '3089'; waited too long (yield), lane='12527_2', time=27080.00.
+Warning: Vehicle '3089' ends teleporting on edge '7680', time=27080.00.
+Warning: Teleporting vehicle '3416'; waited too long (yield), lane='7690_0', time=27093.00.
+Warning: Vehicle '3416' ends teleporting on edge '7682', time=27093.00.
+Warning: Vehicle '784' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=27100.00.
+Warning: Teleporting vehicle '3106'; waited too long (yield), lane='12527_0', time=27104.00.
+Warning: Vehicle '3106' ends teleporting on edge '7680', time=27104.00.
+Warning: Vehicle '2660' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=27106.00.
+Warning: Teleporting vehicle '2069'; waited too long (yield), lane=':7800_2_0', time=27126.00.
+Warning: Vehicle '2069' ends teleporting on edge '7688', time=27126.00.
+Warning: Vehicle '1428' ends teleporting on edge '7574', time=27136.00.
+Warning: Teleporting vehicle '4456'; waited too long (wrong lane), lane='7542_1', time=27139.00.
+Warning: Vehicle '4456' ends teleporting on edge '7558', time=27139.00.
+Warning: Teleporting vehicle '8528'; waited too long (jam), lane='7542_1', time=27143.00.
+Warning: Vehicle '8528' ends teleporting on edge '7547', time=27143.00.
+Warning: Teleporting vehicle '3730'; waited too long (jam), lane=':7735_1_1', time=27159.00.
+Warning: Vehicle '3730' ends teleporting on edge '7547', time=27159.00.
+Warning: Vehicle '204' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=27165.00.
+Warning: Vehicle '7709' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=27169.00.
+Warning: Teleporting vehicle '3788'; waited too long (jam), lane=':7735_0_0', time=27169.00.
+Warning: Vehicle '3788' ends teleporting on edge '7558', time=27169.00.
+Warning: Vehicle '4456' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=27175.00.
+Warning: Teleporting vehicle '2782'; waited too long (yield), lane='7675_0', time=27178.00.
+Warning: Teleporting vehicle '3905'; waited too long (yield), lane='6123_1', time=27180.00.
+Warning: Teleporting vehicle '8782'; waited too long (wrong lane), lane='7537_0', time=27182.00.
+Warning: Teleporting vehicle '4010'; waited too long (yield), lane='6539_1', time=27182.00.
+Warning: Vehicle '4010' ends teleporting on edge '6123', time=27182.00.
+Warning: Vehicle '8782' ends teleporting on edge '7540', time=27182.00.
+Warning: Teleporting vehicle '8936'; waited too long (wrong lane), lane='7537_0', time=27185.00.
+Warning: Vehicle '8936' ends teleporting on edge '7540', time=27185.00.
+Warning: Vehicle '5949' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=27191.00.
+Warning: Vehicle '2782' ends teleporting on edge '7689', time=27192.00.
+Warning: Teleporting vehicle '3665'; waited too long (jam), lane='7538_1', time=27226.00.
+Warning: Vehicle '3665' ends teleporting on edge '5323', time=27226.00.
+Warning: Vehicle '3905' ends teleporting on edge '7540', time=27234.00.
+Warning: Vehicle '32' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=27256.00.
+Warning: Teleporting vehicle '8883'; waited too long (yield), lane='6513_0', time=27259.00.
+Warning: Vehicle '2280' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=27265.00.
+Warning: Teleporting vehicle '8560'; waited too long (jam), lane='7542_1', time=27281.00.
+Warning: Vehicle '8560' ends teleporting on edge '7547', time=27281.00.
+Warning: Teleporting vehicle '3745'; waited too long (jam), lane='7542_1', time=27292.00.
+Warning: Vehicle '3745' ends teleporting on edge '7547', time=27292.00.
+Warning: Teleporting vehicle '4483'; waited too long (wrong lane), lane='7542_1', time=27297.00.
+Warning: Vehicle '4483' ends teleporting on edge '7558', time=27297.00.
+Warning: Teleporting vehicle '8494'; waited too long (jam), lane='7542_1', time=27300.00.
+Warning: Vehicle '8494' ends teleporting on edge '7547', time=27300.00.
+Warning: Teleporting vehicle '3654'; waited too long (jam), lane='6511_0', time=27303.00.
+Warning: Teleporting vehicle '4558'; waited too long (jam), lane='6511_0', time=27335.00.
+Warning: Vehicle '4483' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=27339.00.
+Warning: Vehicle '506' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=27344.00.
+Warning: Teleporting vehicle '8909'; waited too long (jam), lane='6513_1', time=27353.00.
+Warning: Vehicle '4467' performs emergency braking on lane '6039_0' with decel=9.00, wished=4.50, severity=1.00, time=27366.00.
+Warning: Teleporting vehicle '8847'; waited too long (jam), lane='7546_0', time=27366.00.
+Warning: Vehicle '8909' ends teleporting on edge '7546', time=27366.00.
+Warning: Vehicle '8847' ends teleporting on edge '6511', time=27366.00.
+Warning: Teleporting vehicle '8716'; waited too long (jam), lane='5323_0', time=27369.00.
+Warning: Teleporting vehicle '2854'; waited too long (yield), lane='7675_2', time=27369.00.
+Warning: Vehicle '8716' ends teleporting on edge '6513', time=27369.00.
+Warning: Vehicle '2854' ends teleporting on edge '7689', time=27375.00.
+Warning: Teleporting vehicle '8700'; waited too long (jam), lane=':6411_0_0', time=27379.00.
+Warning: Teleporting vehicle '4019'; waited too long (jam), lane='7546_0', time=27381.00.
+Warning: Teleporting vehicle '1116'; waited too long (yield), lane='7594_0', time=27386.00.
+Warning: Teleporting vehicle '3216'; waited too long (yield), lane='12527_2', time=27386.00.
+Warning: Vehicle '3216' ends teleporting on edge '7680', time=27386.00.
+Warning: Teleporting vehicle '1199'; waited too long (yield), lane='7594_0', time=27387.00.
+Warning: Teleporting vehicle '1355'; waited too long (yield), lane='7594_0', time=27388.00.
+Warning: Vehicle '4019' ends teleporting on edge '6511', time=27388.00.
+Warning: Vehicle '8700' ends teleporting on edge '6511', time=27388.00.
+Warning: Vehicle '3654' ends teleporting on edge '7542', time=27389.00.
+Warning: Teleporting vehicle '2947'; waited too long (yield), lane='12527_0', time=27409.00.
+Warning: Vehicle '2947' ends teleporting on edge '7680', time=27409.00.
+Warning: Teleporting vehicle '3279'; waited too long (yield), lane='12527_0', time=27414.00.
+Warning: Teleporting vehicle '3130'; waited too long (yield), lane='12527_1', time=27415.00.
+Warning: Vehicle '3130' ends teleporting on edge '7680', time=27415.00.
+Warning: Teleporting vehicle '3148'; waited too long (yield), lane='12527_1', time=27417.00.
+Warning: Vehicle '3148' ends teleporting on edge '7680', time=27417.00.
+Warning: Vehicle '3279' ends teleporting on edge '7689', time=27420.00.
+Warning: Vehicle '1116' ends teleporting on edge '7574', time=27439.00.
+Warning: Vehicle '1199' ends teleporting on edge '7574', time=27446.00.
+Warning: Teleporting vehicle '688'; waited too long (jam), lane=':7252_2_1', time=27450.00.
+Warning: Vehicle '1355' ends teleporting on edge '7574', time=27455.00.
+Warning: Teleporting vehicle '1398'; waited too long (yield), lane='7594_0', time=27494.00.
+Warning: Vehicle '4558' ends teleporting on edge '7558', time=27516.00.
+Warning: Teleporting vehicle '3843'; waited too long (yield), lane='6539_1', time=27526.00.
+Warning: Vehicle '3843' ends teleporting on edge '6123', time=27526.00.
+Warning: Teleporting vehicle '3934'; waited too long (yield), lane='6123_1', time=27572.00.
+Warning: Vehicle '3934' ends teleporting on edge '7537', time=27572.00.
+Warning: Teleporting vehicle '3850'; waited too long (jam), lane=':6404_1_1', time=27574.00.
+Warning: Teleporting vehicle '2561'; waited too long (yield), lane='7675_1', time=27574.00.
+Warning: Teleporting vehicle '8929'; waited too long (jam), lane='7523_0', time=27574.00.
+Warning: Vehicle '3850' ends teleporting on edge '7537', time=27574.00.
+Warning: Vehicle '8929' ends teleporting on edge '7537', time=27576.00.
+Warning: Vehicle '2561' ends teleporting on edge '7680', time=27577.00.
+Warning: Teleporting vehicle '611'; waited too long (jam), lane=':7252_2_3', time=27578.00.
+Warning: Teleporting vehicle '8125'; waited too long (yield), lane='7535_1', time=27578.00.
+Warning: Vehicle '8125' ends teleporting on edge '6123', time=27578.00.
+Warning: Teleporting vehicle '8937'; waited too long (wrong lane), lane='7537_0', time=27583.00.
+Warning: Vehicle '8937' ends teleporting on edge '7540', time=27583.00.
+Warning: Teleporting vehicle '8927'; waited too long (wrong lane), lane='7537_0', time=27584.00.
+Warning: Vehicle '8927' ends teleporting on edge '7540', time=27584.00.
+Warning: Vehicle '5464' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=27592.00.
+Warning: Teleporting vehicle '865'; waited too long (jam), lane=':7252_2_4', time=27597.00.
+Warning: Vehicle '1398' ends teleporting on edge '7574', time=27597.00.
+Warning: Vehicle '611' ends teleporting on edge '7594', time=27600.00.
+Warning: Vehicle '688' ends teleporting on edge '7594', time=27600.00.
+Warning: Teleporting vehicle '1426'; waited too long (jam), lane=':7252_1_0', time=27602.00.
+Warning: Vehicle '9037' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27603.00.
+Warning: Vehicle '865' ends teleporting on edge '7594', time=27603.00.
+Warning: Vehicle '1426' ends teleporting on edge '7594', time=27603.00.
+Warning: Teleporting vehicle '32'; waited too long (jam), lane='7603_0', time=27606.00.
+Warning: Vehicle '32' ends teleporting on edge '7593', time=27606.00.
+Warning: Teleporting vehicle '646'; waited too long (jam), lane='7603_1', time=27620.00.
+Warning: Vehicle '646' ends teleporting on edge '7593', time=27620.00.
+Warning: Teleporting vehicle '2763'; waited too long (yield), lane='11597_0', time=27632.00.
+Warning: Vehicle '8540' performs emergency braking on lane ':7734_4_1' with decel=9.00, wished=4.50, severity=1.00, time=27645.00.
+Warning: Vehicle '7700' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=27647.00.
+Warning: Vehicle '600' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=27648.00.
+Warning: Vehicle '1429' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=27662.00.
+Warning: Vehicle '554' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=27666.00.
+Warning: Teleporting vehicle '2864'; waited too long (yield), lane='7675_2', time=27675.00.
+Warning: Vehicle '8883' ends teleporting on edge '7542', time=27678.00.
+Warning: Vehicle '2864' ends teleporting on edge '7680', time=27678.00.
+Warning: Vehicle '2763' ends teleporting on edge '7675', time=27678.00.
+Warning: Teleporting vehicle '2988'; waited too long (yield), lane='12527_2', time=27692.00.
+Warning: Vehicle '2988' ends teleporting on edge '7680', time=27692.00.
+Warning: Teleporting vehicle '3397'; waited too long (yield), lane='7690_0', time=27707.00.
+Warning: Vehicle '3397' ends teleporting on edge '7682', time=27707.00.
+Warning: Teleporting vehicle '45'; waited too long (jam), lane='6040_1', time=27713.00.
+Warning: Vehicle '45' ends teleporting on edge '7593', time=27713.00.
+Warning: Teleporting vehicle '3236'; waited too long (yield), lane='12527_1', time=27722.00.
+Warning: Vehicle '3236' ends teleporting on edge '7680', time=27722.00.
+Warning: Teleporting vehicle '3258'; waited too long (yield), lane='12527_1', time=27724.00.
+Warning: Vehicle '3258' ends teleporting on edge '7680', time=27724.00.
+Warning: Vehicle '4281' performs emergency braking on lane ':6315_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27736.00.
+Warning: Vehicle '824' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=27738.00.
+Warning: Vehicle '8753' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27744.00.
+Warning: Vehicle '1838' performs emergency braking on lane ':7253_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27773.00.
+Warning: Vehicle '3368' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=27783.00.
+Warning: Teleporting vehicle '1356'; waited too long (yield), lane='7594_0', time=27795.00.
+Warning: Teleporting vehicle '1283'; waited too long (yield), lane='7594_0', time=27796.00.
+Warning: Teleporting vehicle '948'; waited too long (yield), lane='7594_0', time=27797.00.
+Warning: Vehicle '948' ends teleporting on edge '7566', time=27797.00.
+Warning: Teleporting vehicle '1311'; waited too long (yield), lane='7594_0', time=27798.00.
+Warning: Teleporting vehicle '1193'; waited too long (yield), lane='7594_0', time=27799.00.
+Warning: Teleporting vehicle '964'; waited too long (yield), lane='7594_0', time=27800.00.
+Warning: Vehicle '964' ends teleporting on edge '7566', time=27800.00.
+Warning: Teleporting vehicle '1401'; waited too long (yield), lane='7594_0', time=27801.00.
+Warning: Teleporting vehicle '1312'; waited too long (yield), lane='7594_0', time=27802.00.
+Warning: Teleporting vehicle '1069'; waited too long (yield), lane='7594_0', time=27803.00.
+Warning: Vehicle '1069' ends teleporting on edge '7566', time=27803.00.
+Warning: Teleporting vehicle '1307'; waited too long (yield), lane='7594_0', time=27804.00.
+Warning: Teleporting vehicle '1079'; waited too long (yield), lane='7594_0', time=27805.00.
+Warning: Vehicle '1079' ends teleporting on edge '7566', time=27805.00.
+Warning: Teleporting vehicle '1303'; waited too long (yield), lane='7594_0', time=27806.00.
+Warning: Teleporting vehicle '1301'; waited too long (yield), lane='7594_0', time=27807.00.
+Warning: Teleporting vehicle '1316'; waited too long (yield), lane='7594_0', time=27808.00.
+Warning: Teleporting vehicle '1278'; waited too long (yield), lane='7594_0', time=27809.00.
+Warning: Teleporting vehicle '1109'; waited too long (yield), lane='7594_0', time=27810.00.
+Warning: Vehicle '1109' ends teleporting on edge '7566', time=27810.00.
+Warning: Teleporting vehicle '1281'; waited too long (yield), lane='7594_0', time=27811.00.
+Warning: Teleporting vehicle '1126'; waited too long (yield), lane='7594_0', time=27812.00.
+Warning: Teleporting vehicle '1365'; waited too long (yield), lane='7594_0', time=27813.00.
+Warning: Vehicle '1473' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=27814.00.
+Warning: Teleporting vehicle '1010'; waited too long (yield), lane='7594_0', time=27814.00.
+Warning: Vehicle '1010' ends teleporting on edge '7566', time=27814.00.
+Warning: Teleporting vehicle '1080'; waited too long (yield), lane='7594_0', time=27815.00.
+Warning: Vehicle '1080' ends teleporting on edge '7566', time=27815.00.
+Warning: Teleporting vehicle '1169'; waited too long (yield), lane='7594_0', time=27816.00.
+Warning: Teleporting vehicle '1358'; waited too long (yield), lane='7594_0', time=27817.00.
+Warning: Teleporting vehicle '1266'; waited too long (yield), lane='7594_0', time=27818.00.
+Warning: Teleporting vehicle '1215'; waited too long (yield), lane='7594_0', time=27819.00.
+Warning: Teleporting vehicle '1251'; waited too long (yield), lane='7594_0', time=27820.00.
+Warning: Teleporting vehicle '1299'; waited too long (yield), lane='7594_0', time=27821.00.
+Warning: Teleporting vehicle '1324'; waited too long (yield), lane='7594_0', time=27822.00.
+Warning: Teleporting vehicle '1202'; waited too long (yield), lane='7594_0', time=27823.00.
+Warning: Teleporting vehicle '963'; waited too long (yield), lane='7594_0', time=27824.00.
+Warning: Vehicle '963' ends teleporting on edge '7566', time=27824.00.
+Warning: Teleporting vehicle '1013'; waited too long (yield), lane='7594_0', time=27825.00.
+Warning: Vehicle '1013' ends teleporting on edge '7566', time=27825.00.
+Warning: Vehicle '1631' performs emergency braking on lane ':2410__1_0' with decel=9.00, wished=4.50, severity=1.00, time=27877.00.
+Warning: Teleporting vehicle '5503'; waited too long (yield), lane='7535_1', time=27884.00.
+Warning: Vehicle '5503' ends teleporting on edge '6123', time=27884.00.
+Warning: Teleporting vehicle '3988'; waited too long (jam), lane='6483_0', time=27899.00.
+Warning: Teleporting vehicle '3977'; waited too long (jam), lane='5323_1', time=27901.00.
+Warning: Vehicle '3977' ends teleporting on edge '6513', time=27901.00.
+Warning: Vehicle '3988' ends teleporting on edge '6123', time=27907.00.
+Warning: Vehicle '9201' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=27908.00.
+Warning: Teleporting vehicle '48'; waited too long (yield), lane='7603_0', time=27911.00.
+Warning: Vehicle '48' ends teleporting on edge '7593', time=27911.00.
+Warning: Teleporting vehicle '4000'; waited too long (jam), lane='6483_0', time=27912.00.
+Warning: Teleporting vehicle '3780'; waited too long (jam), lane='6483_0', time=27913.00.
+Warning: Vehicle '481' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=27918.00.
+Warning: Teleporting vehicle '8710'; waited too long (jam), lane='7537_0', time=27919.00.
+Warning: Vehicle '8710' ends teleporting on edge '7538', time=27919.00.
+Warning: Vehicle '9201' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27920.00.
+Warning: Teleporting vehicle '7906'; waited too long (yield), lane='6123_1', time=27921.00.
+Warning: Vehicle '7906' ends teleporting on edge '7537', time=27921.00.
+Warning: Vehicle '163' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=27924.00.
+Warning: Teleporting vehicle '8923'; waited too long (jam), lane='7523_0', time=27924.00.
+Warning: Vehicle '4000' ends teleporting on edge '6123', time=27932.00.
+Warning: Vehicle '1356' ends teleporting on edge '7550', time=27940.00.
+Warning: Vehicle '1283' ends teleporting on edge '7550', time=27941.00.
+Warning: Vehicle '3780' ends teleporting on edge '6123', time=27942.00.
+Warning: Vehicle '1311' ends teleporting on edge '7550', time=27943.00.
+Warning: Vehicle '1193' ends teleporting on edge '7550', time=27944.00.
+Warning: Vehicle '1401' ends teleporting on edge '7550', time=27946.00.
+Warning: Vehicle '1312' ends teleporting on edge '7550', time=27947.00.
+Warning: Teleporting vehicle '2784'; waited too long (yield), lane='11597_0', time=27949.00.
+Warning: Vehicle '1307' ends teleporting on edge '7550', time=27949.00.
+Warning: Vehicle '1303' ends teleporting on edge '7550', time=27951.00.
+Warning: Vehicle '1301' ends teleporting on edge '7550', time=27953.00.
+Warning: Vehicle '1316' ends teleporting on edge '7550', time=27958.00.
+Warning: Vehicle '1278' ends teleporting on edge '7550', time=27958.00.
+Warning: Vehicle '1281' ends teleporting on edge '7550', time=27959.00.
+Warning: Vehicle '4462' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27963.00.
+Warning: Vehicle '1126' ends teleporting on edge '7550', time=27963.00.
+Warning: Teleporting vehicle '8848'; waited too long (wrong lane), lane='5349_1', time=27964.00.
+Warning: Teleporting vehicle '8915'; waited too long (wrong lane), lane='5349_1', time=27965.00.
+Warning: Vehicle '1365' ends teleporting on edge '7550', time=27965.00.
+Warning: Vehicle '1169' ends teleporting on edge '7550', time=27965.00.
+Warning: Vehicle '1358' ends teleporting on edge '7550', time=27967.00.
+Warning: Vehicle '1266' ends teleporting on edge '7550', time=27969.00.
+Warning: Vehicle '455' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=27970.00.
+Warning: Teleporting vehicle '8945'; waited too long (wrong lane), lane='5349_2', time=27971.00.
+Warning: Vehicle '1215' ends teleporting on edge '7550', time=27971.00.
+Warning: Vehicle '1251' ends teleporting on edge '7550', time=27972.00.
+Warning: Vehicle '1299' ends teleporting on edge '7550', time=27975.00.
+Warning: Teleporting vehicle '3644'; waited too long (yield), lane='6539_1', time=27977.00.
+Warning: Vehicle '3644' ends teleporting on edge '6123', time=27977.00.
+Warning: Vehicle '8923' ends teleporting on edge '7540', time=27978.00.
+Warning: Teleporting vehicle '8822'; waited too long (yield), lane='6513_0', time=27980.00.
+Warning: Teleporting vehicle '2675'; waited too long (yield), lane='7675_2', time=27980.00.
+Warning: Teleporting vehicle '8721'; waited too long (wrong lane), lane='5349_2', time=27981.00.
+Warning: Vehicle '1202' ends teleporting on edge '7550', time=27981.00.
+Warning: Vehicle '2675' ends teleporting on edge '7680', time=27983.00.
+Warning: Vehicle '2784' ends teleporting on edge '7675', time=27984.00.
+Warning: Vehicle '8822' ends teleporting on edge '6511', time=27988.00.
+Warning: Vehicle '1324' ends teleporting on edge '7550', time=27989.00.
+Warning: Teleporting vehicle '8839'; waited too long (wrong lane), lane='5349_2', time=27992.00.
+Warning: Teleporting vehicle '2949'; waited too long (yield), lane='12527_2', time=27997.00.
+Warning: Vehicle '2949' ends teleporting on edge '7680', time=27997.00.
+Warning: Vehicle '8848' ends teleporting on edge '7537', time=28024.00.
+Warning: Vehicle '8915' ends teleporting on edge '7537', time=28024.00.
+Warning: Vehicle '8945' ends teleporting on edge '7537', time=28026.00.
+Warning: Vehicle '8839' ends teleporting on edge '7537', time=28028.00.
+Warning: Vehicle '8721' ends teleporting on edge '7537', time=28029.00.
+Warning: Teleporting vehicle '3377'; waited too long (yield), lane='12527_1', time=28031.00.
+Warning: Vehicle '3377' ends teleporting on edge '7680', time=28031.00.
+Warning: Vehicle '230' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28046.00.
+Warning: Teleporting vehicle '3692'; waited too long (jam), lane='6483_0', time=28052.00.
+Warning: Vehicle '185' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=28059.00.
+Warning: Vehicle '3692' ends teleporting on edge '6123', time=28065.00.
+Warning: Teleporting vehicle '8715'; waited too long (wrong lane), lane='5349_1', time=28069.00.
+Warning: Teleporting vehicle '8962'; waited too long (wrong lane), lane='5349_1', time=28070.00.
+Warning: Teleporting vehicle '8860'; waited too long (wrong lane), lane='5349_2', time=28071.00.
+Warning: Teleporting vehicle '9012'; waited too long (wrong lane), lane='5349_2', time=28072.00.
+Warning: Teleporting vehicle '9019'; waited too long (wrong lane), lane='5349_2', time=28073.00.
+Warning: Teleporting vehicle '8987'; waited too long (wrong lane), lane='5349_2', time=28078.00.
+Warning: Vehicle '294' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28080.00.
+Warning: Teleporting vehicle '449'; waited too long (jam), lane='7603_0', time=28087.00.
+Warning: Vehicle '449' ends teleporting on edge '7593', time=28087.00.
+Warning: Teleporting vehicle '8911'; waited too long (wrong lane), lane='5349_2', time=28089.00.
+Warning: Teleporting vehicle '8886'; waited too long (wrong lane), lane='5349_2', time=28106.00.
+Warning: Teleporting vehicle '8702'; waited too long (wrong lane), lane='5349_2', time=28113.00.
+Warning: Vehicle '8715' ends teleporting on edge '7537', time=28114.00.
+Warning: Teleporting vehicle '2632'; waited too long (yield), lane='11597_0', time=28115.00.
+Warning: Vehicle '8860' ends teleporting on edge '7537', time=28116.00.
+Warning: Vehicle '9019' ends teleporting on edge '7537', time=28118.00.
+Warning: Vehicle '155' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28125.00.
+Warning: Vehicle '8962' ends teleporting on edge '7537', time=28132.00.
+Warning: Vehicle '8911' ends teleporting on edge '7537', time=28134.00.
+Warning: Vehicle '8886' ends teleporting on edge '7537', time=28151.00.
+Warning: Vehicle '7625' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=28154.00.
+Warning: Teleporting vehicle '8689'; waited too long (wrong lane), lane='5349_2', time=28155.00.
+Warning: Vehicle '448' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28158.00.
+Warning: Vehicle '8702' ends teleporting on edge '7537', time=28158.00.
+Warning: Vehicle '1301' performs emergency braking on lane ':2410__1_0' with decel=9.00, wished=4.50, severity=1.00, time=28160.00.
+Warning: Vehicle '9012' ends teleporting on edge '7540', time=28161.00.
+Warning: Vehicle '8987' ends teleporting on edge '7540', time=28167.00.
+Warning: Teleporting vehicle '8765'; waited too long (wrong lane), lane='5349_2', time=28168.00.
+Warning: Vehicle '2632' ends teleporting on edge '7680', time=28183.00.
+Warning: Teleporting vehicle '8831'; waited too long (wrong lane), lane='5349_2', time=28184.00.
+Warning: Vehicle '8689' ends teleporting on edge '7537', time=28200.00.
+Warning: Teleporting vehicle '6377'; waited too long (yield), lane='8112_0', time=28202.00.
+Warning: Vehicle '6377' ends teleporting on edge '7535', time=28202.00.
+Warning: Vehicle '8765' ends teleporting on edge '7537', time=28213.00.
+Warning: Teleporting vehicle '348'; waited too long (yield), lane='7603_1', time=28216.00.
+Warning: Vehicle '348' ends teleporting on edge '7593', time=28216.00.
+Warning: Teleporting vehicle '8762'; waited too long (wrong lane), lane='5349_2', time=28217.00.
+Warning: Teleporting vehicle '8910'; waited too long (wrong lane), lane='5349_2', time=28229.00.
+Warning: Teleporting vehicle '8374'; waited too long (yield), lane='7535_1', time=28232.00.
+Warning: Vehicle '8374' ends teleporting on edge '6123', time=28232.00.
+Warning: Teleporting vehicle '2634'; waited too long (yield), lane='11597_0', time=28263.00.
+Warning: Teleporting vehicle '8686'; waited too long (wrong lane), lane='5349_2', time=28270.00.
+Warning: Vehicle '8831' ends teleporting on edge '7540', time=28273.00.
+Warning: Vehicle '3401' performs emergency braking on lane ':7253_2_0' with decel=9.00, wished=4.50, severity=1.00, time=28282.00.
+Warning: Teleporting vehicle '1326'; waited too long (jam), lane=':7252_1_0', time=28295.00.
+Warning: Vehicle '1326' ends teleporting on edge '7594', time=28296.00.
+Warning: Teleporting vehicle '3043'; waited too long (yield), lane='12527_2', time=28303.00.
+Warning: Vehicle '3043' ends teleporting on edge '7680', time=28303.00.
+Warning: Vehicle '8762' ends teleporting on edge '7538', time=28306.00.
+Warning: Vehicle '1882' performs emergency braking on lane '6039_0' with decel=9.00, wished=4.50, severity=1.00, time=28316.00.
+Warning: Vehicle '8910' ends teleporting on edge '7538', time=28318.00.
+Warning: Teleporting vehicle '34'; waited too long (yield), lane='6040_1', time=28324.00.
+Warning: Vehicle '34' ends teleporting on edge '7593', time=28324.00.
+Warning: Teleporting vehicle '3752'; waited too long (yield), lane='6123_1', time=28328.00.
+Warning: Teleporting vehicle '8694'; waited too long (wrong lane), lane='5349_2', time=28331.00.
+Warning: Vehicle '2634' ends teleporting on edge '7680', time=28331.00.
+Warning: Teleporting vehicle '878'; waited too long (jam), lane='6040_1', time=28336.00.
+Warning: Vehicle '878' ends teleporting on edge '7593', time=28336.00.
+Warning: Teleporting vehicle '3345'; waited too long (yield), lane='12527_1', time=28337.00.
+Warning: Vehicle '3345' ends teleporting on edge '7680', time=28337.00.
+Warning: Teleporting vehicle '3644'; waited too long (jam), lane='6123_0', time=28341.00.
+Warning: Teleporting vehicle '8856'; waited too long (jam), lane='6511_0', time=28342.00.
+Warning: Vehicle '8856' ends teleporting on edge '7542', time=28342.00.
+Warning: Vehicle '9071' performs emergency braking on lane '6039_0' with decel=9.00, wished=4.50, severity=1.00, time=28347.00.
+Warning: Teleporting vehicle '3847'; waited too long (jam), lane='6483_0', time=28354.00.
+Warning: Teleporting vehicle '3000'; waited too long (yield), lane='12527_1', time=28359.00.
+Warning: Vehicle '3000' ends teleporting on edge '7680', time=28359.00.
+Warning: Vehicle '8686' ends teleporting on edge '7538', time=28359.00.
+Warning: Teleporting vehicle '8838'; waited too long (wrong lane), lane='5349_2', time=28362.00.
+Warning: Vehicle '3847' ends teleporting on edge '6123', time=28362.00.
+Warning: Teleporting vehicle '3692'; waited too long (jam), lane='6123_0', time=28370.00.
+Warning: Vehicle '3752' ends teleporting on edge '7538', time=28382.00.
+Warning: Teleporting vehicle '8730'; waited too long (wrong lane), lane='5349_1', time=28395.00.
+Warning: Vehicle '3644' ends teleporting on edge '7538', time=28395.00.
+Warning: Teleporting vehicle '3840'; waited too long (jam), lane='6483_0', time=28397.00.
+Warning: Teleporting vehicle '1248'; waited too long (jam), lane='10324_0', time=28413.00.
+Warning: Vehicle '1248' ends teleporting on edge '7574', time=28413.00.
+Warning: Teleporting vehicle '8820'; waited too long (wrong lane), lane='5349_2', time=28414.00.
+Warning: Vehicle '8694' ends teleporting on edge '7540', time=28420.00.
+Warning: Teleporting vehicle '3834'; waited too long (jam), lane='6483_0', time=28424.00.
+Warning: Vehicle '3692' ends teleporting on edge '7538', time=28424.00.
+Warning: Vehicle '172' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28425.00.
+Warning: Vehicle '3840' ends teleporting on edge '6123', time=28426.00.
+Warning: Teleporting vehicle '8793'; waited too long (jam), lane='5323_0', time=28430.00.
+Warning: Teleporting vehicle '8727'; waited too long (jam), lane='5323_0', time=28431.00.
+Warning: Teleporting vehicle '4251'; waited too long (jam), lane='5323_1', time=28433.00.
+Warning: Teleporting vehicle '253'; waited too long (jam), lane='7593_0', time=28434.00.
+Warning: Vehicle '253' ends teleporting on edge '7594', time=28435.00.
+Warning: Teleporting vehicle '8805'; waited too long (jam), lane='7523_0', time=28439.00.
+Warning: Vehicle '8730' ends teleporting on edge '7523', time=28439.00.
+Warning: Teleporting vehicle '8884'; waited too long (jam), lane='7537_0', time=28440.00.
+Warning: Vehicle '8805' ends teleporting on edge '7537', time=28440.00.
+Warning: Vehicle '8884' ends teleporting on edge '7538', time=28440.00.
+Warning: Vehicle '8838' ends teleporting on edge '7537', time=28441.00.
+Warning: Vehicle '476' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=28445.00.
+Warning: Vehicle '5658' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=28446.00.
+Warning: Teleporting vehicle '4253'; waited too long (jam), lane='6483_0', time=28456.00.
+Warning: Vehicle '3724' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=28459.00.
+Warning: Vehicle '3834' ends teleporting on edge '7537', time=28460.00.
+Warning: Vehicle '8820' ends teleporting on edge '7540', time=28472.00.
+Warning: Teleporting vehicle '8729'; waited too long (wrong lane), lane='5349_1', time=28477.00.
+Warning: Teleporting vehicle '5238'; waited too long (jam), lane='7538_1', time=28479.00.
+Warning: Vehicle '5238' ends teleporting on edge '5323', time=28479.00.
+Warning: Teleporting vehicle '2157'; waited too long (yield), lane='7621_0', time=28504.00.
+Warning: Teleporting vehicle '5252'; waited too long (yield), lane='8112_0', time=28506.00.
+Warning: Vehicle '5252' ends teleporting on edge '7535', time=28506.00.
+Warning: Teleporting vehicle '6377'; waited too long (yield), lane='7535_0', time=28508.00.
+Warning: Teleporting vehicle '58'; waited too long (jam), lane=':7252_2_1', time=28538.00.
+Warning: Teleporting vehicle '5715'; waited too long (jam), lane='7535_1', time=28538.00.
+Warning: Vehicle '58' ends teleporting on edge '7594', time=28538.00.
+Warning: Vehicle '6377' ends teleporting on edge '7537', time=28539.00.
+Warning: Vehicle '2157' ends teleporting on edge '6124', time=28540.00.
+Warning: Vehicle '4253' ends teleporting on edge '7540', time=28543.00.
+Warning: Vehicle '9196' performs emergency braking on lane '7581_0' with decel=9.00, wished=4.50, severity=1.00, time=28556.00.
+Warning: Vehicle '8729' ends teleporting on edge '7540', time=28566.00.
+Warning: Vehicle '3590' performs emergency braking on lane '7588_0' with decel=9.00, wished=4.50, severity=1.00, time=28574.00.
+Warning: Vehicle '5715' ends teleporting on edge '7540', time=28599.00.
+Warning: Teleporting vehicle '1046'; waited too long (jam), lane=':7252_1_0', time=28603.00.
+Warning: Vehicle '1046' ends teleporting on edge '7594', time=28603.00.
+Warning: Teleporting vehicle '3298'; waited too long (yield), lane='12527_2', time=28608.00.
+Warning: Vehicle '3298' ends teleporting on edge '7680', time=28608.00.
+Warning: Teleporting vehicle '3865'; waited too long (yield), lane='6123_1', time=28633.00.
+Warning: Vehicle '3865' ends teleporting on edge '7537', time=28633.00.
+Warning: Teleporting vehicle '3961'; waited too long (yield), lane='6539_1', time=28638.00.
+Warning: Teleporting vehicle '4497'; waited too long (jam), lane='6511_0', time=28647.00.
+Warning: Vehicle '4497' ends teleporting on edge '7542', time=28659.00.
+Warning: Teleporting vehicle '1384'; waited too long (yield), lane='7594_0', time=28660.00.
+Warning: Teleporting vehicle '1148'; waited too long (yield), lane='7594_0', time=28661.00.
+Warning: Vehicle '4251' ends teleporting on edge '7542', time=28663.00.
+Warning: Teleporting vehicle '1136'; waited too long (wrong lane), lane='10342.0_1', time=28670.00.
+Warning: Vehicle '8793' ends teleporting on edge '7542', time=28670.00.
+Warning: Vehicle '1136' ends teleporting on edge '10423', time=28672.00.
+Warning: Teleporting vehicle '1158'; waited too long (wrong lane), lane='10342.0_1', time=28674.00.
+Warning: Teleporting vehicle '1231'; waited too long (wrong lane), lane='10342.0_1', time=28681.00.
+Warning: Teleporting vehicle '1113'; waited too long (jam), lane='10342.0_0', time=28697.00.
+Warning: Teleporting vehicle '252'; waited too long (jam), lane='6040_0', time=28699.00.
+Warning: Vehicle '3961' ends teleporting on edge '7540', time=28699.00.
+Warning: Teleporting vehicle '837'; waited too long (jam), lane='6040_0', time=28700.00.
+Warning: Vehicle '252' ends teleporting on edge '7593', time=28700.00.
+Warning: Teleporting vehicle '314'; waited too long (jam), lane=':7251_1_0', time=28702.00.
+Warning: Vehicle '314' ends teleporting on edge '6040', time=28702.00.
+Warning: Teleporting vehicle '669'; waited too long (jam), lane=':7251_1_0', time=28703.00.
+Warning: Vehicle '1384' ends teleporting on edge '7574', time=28704.00.
+Warning: Vehicle '669' ends teleporting on edge '6040', time=28704.00.
+Warning: Vehicle '1148' ends teleporting on edge '7574', time=28706.00.
+Warning: Teleporting vehicle '2776'; waited too long (yield), lane='7675_0', time=28722.00.
+Warning: Vehicle '303' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28723.00.
+Warning: Teleporting vehicle '3840'; waited too long (jam), lane='6123_0', time=28730.00.
+Warning: Vehicle '3840' ends teleporting on edge '7537', time=28730.00.
+Warning: Teleporting vehicle '8374'; waited too long (jam), lane='6123_0', time=28731.00.
+Warning: Teleporting vehicle '3948'; waited too long (jam), lane='6483_0', time=28731.00.
+Warning: Teleporting vehicle '3759'; waited too long (jam), lane='6483_0', time=28732.00.
+Warning: Vehicle '2776' ends teleporting on edge '7689', time=28734.00.
+Warning: Teleporting vehicle '8860'; waited too long (jam), lane='5323_0', time=28739.00.
+Warning: Teleporting vehicle '9019'; waited too long (jam), lane='5323_0', time=28740.00.
+Warning: Teleporting vehicle '3780'; waited too long (yield), lane='6513_0', time=28740.00.
+Warning: Teleporting vehicle '829'; waited too long (jam), lane='7603_0', time=28740.00.
+Warning: Vehicle '8860' ends teleporting on edge '6513', time=28740.00.
+Warning: Teleporting vehicle '8993'; waited too long (jam), lane='5323_0', time=28741.00.
+Warning: Vehicle '8993' ends teleporting on edge '6513', time=28741.00.
+Warning: Vehicle '9019' ends teleporting on edge '6513', time=28741.00.
+Warning: Teleporting vehicle '8911'; waited too long (jam), lane='5323_0', time=28742.00.
+Warning: Teleporting vehicle '5736'; waited too long (yield), lane='8111_2', time=28742.00.
+Warning: Vehicle '5736' ends teleporting on edge '7539', time=28742.00.
+Warning: Vehicle '8911' ends teleporting on edge '6513', time=28742.00.
+Warning: Teleporting vehicle '8984'; waited too long (jam), lane='5323_0', time=28743.00.
+Warning: Vehicle '8984' ends teleporting on edge '6513', time=28743.00.
+Warning: Vehicle '829' ends teleporting on edge '7593', time=28743.00.
+Warning: Teleporting vehicle '8886'; waited too long (jam), lane='5323_0', time=28744.00.
+Warning: Teleporting vehicle '4946'; waited too long (yield), lane='8111_2', time=28744.00.
+Warning: Vehicle '4946' ends teleporting on edge '7539', time=28744.00.
+Warning: Teleporting vehicle '8702'; waited too long (jam), lane='5323_0', time=28745.00.
+Warning: Vehicle '8886' ends teleporting on edge '6513', time=28745.00.
+Warning: Teleporting vehicle '8689'; waited too long (jam), lane='5323_0', time=28746.00.
+Warning: Vehicle '837' ends teleporting on edge '7593', time=28746.00.
+Warning: Teleporting vehicle '8765'; waited too long (jam), lane='5323_0', time=28747.00.
+Warning: Vehicle '8702' ends teleporting on edge '6513', time=28747.00.
+Warning: Teleporting vehicle '8762'; waited too long (jam), lane='5323_0', time=28748.00.
+Warning: Teleporting vehicle '8910'; waited too long (jam), lane='5323_0', time=28749.00.
+Warning: Vehicle '3780' ends teleporting on edge '6511', time=28749.00.
+Warning: Vehicle '8689' ends teleporting on edge '6513', time=28749.00.
+Warning: Teleporting vehicle '8686'; waited too long (jam), lane='5323_0', time=28750.00.
+Warning: Teleporting vehicle '3752'; waited too long (jam), lane='5323_0', time=28751.00.
+Warning: Vehicle '3752' ends teleporting on edge '6513', time=28751.00.
+Warning: Teleporting vehicle '3644'; waited too long (jam), lane='5323_0', time=28752.00.
+Warning: Teleporting vehicle '3692'; waited too long (jam), lane='5323_0', time=28753.00.
+Warning: Vehicle '3644' ends teleporting on edge '6513', time=28754.00.
+Warning: Teleporting vehicle '8956'; waited too long (wrong lane), lane='7537_0', time=28755.00.
+Warning: Vehicle '8956' ends teleporting on edge '7540', time=28755.00.
+Warning: Vehicle '3692' ends teleporting on edge '6513', time=28756.00.
+Warning: Teleporting vehicle '8884'; waited too long (jam), lane='5323_0', time=28757.00.
+Warning: Teleporting vehicle '8719'; waited too long (jam), lane='7523_0', time=28757.00.
+Warning: Vehicle '8719' ends teleporting on edge '7537', time=28757.00.
+Warning: Teleporting vehicle '4083'; waited too long (jam), lane=':6521_1_0', time=28759.00.
+Warning: Vehicle '4083' ends teleporting on edge '6539', time=28759.00.
+Warning: Teleporting vehicle '3952'; waited too long (jam), lane='6483_0', time=28760.00.
+Warning: Vehicle '3948' ends teleporting on edge '6123', time=28760.00.
+Warning: Teleporting vehicle '8838'; waited too long (jam), lane='5323_0', time=28761.00.
+Warning: Vehicle '8374' ends teleporting on edge '7537', time=28761.00.
+Warning: Vehicle '4461' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=28762.00.
+Warning: Teleporting vehicle '4461'; collision with vehicle '9166', lane='7580_0', gap=-1.85, time=28762.00 stage=move.
+Warning: Vehicle '3759' ends teleporting on edge '6123', time=28763.00.
+Warning: Teleporting vehicle '8805'; waited too long (jam), lane='5323_0', time=28766.00.
+Warning: Vehicle '4461' ends teleporting on edge '7581', time=28766.00.
+Warning: Teleporting vehicle '8730'; waited too long (jam), lane='5323_0', time=28767.00.
+Warning: Teleporting vehicle '8674'; waited too long (jam), lane='5323_0', time=28768.00.
+Warning: Vehicle '8805' ends teleporting on edge '6513', time=28770.00.
+Warning: Teleporting vehicle '2709'; waited too long (yield), lane='7675_2', time=28777.00.
+Warning: Vehicle '8674' ends teleporting on edge '6513', time=28777.00.
+Warning: Teleporting vehicle '3834'; waited too long (jam), lane='5323_0', time=28778.00.
+Warning: Vehicle '2709' ends teleporting on edge '7680', time=28780.00.
+Warning: Teleporting vehicle '8855'; waited too long (jam), lane='5349_0', time=28782.00.
+Warning: Teleporting vehicle '2910'; waited too long (yield), lane='7675_1', time=28783.00.
+Warning: Teleporting vehicle '8973'; waited too long (wrong lane), lane='5349_1', time=28786.00.
+Warning: Vehicle '2910' ends teleporting on edge '7680', time=28786.00.
+Warning: Teleporting vehicle '8823'; waited too long (wrong lane), lane='5349_1', time=28787.00.
+Warning: Teleporting vehicle '8703'; waited too long (wrong lane), lane='5349_2', time=28788.00.
+Warning: Vehicle '5786' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=28789.00.
+Warning: Vehicle '3952' ends teleporting on edge '6123', time=28789.00.
+Warning: Vehicle '6626' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=28798.00.
+Warning: Teleporting vehicle '911'; waited too long (yield), lane='6040_1', time=28803.00.
+Warning: Vehicle '911' ends teleporting on edge '7593', time=28803.00.
+Warning: Vehicle '8765' ends teleporting on edge '7546', time=28803.00.
+Warning: Teleporting vehicle '3258'; waited too long (yield), lane='7621_0', time=28810.00.
+Warning: Vehicle '8873' performs emergency braking on lane ':6315_0_0' with decel=9.00, wished=4.50, severity=1.00, time=28811.00.
+Warning: Teleporting vehicle '5656'; waited too long (yield), lane='8112_0', time=28813.00.
+Warning: Teleporting vehicle '5252'; waited too long (jam), lane='7535_1', time=28813.00.
+Warning: Vehicle '5252' ends teleporting on edge '6123', time=28813.00.
+Warning: Vehicle '5656' ends teleporting on edge '7535', time=28813.00.
+Warning: Teleporting vehicle '7114'; waited too long (yield), lane='8112_0', time=28814.00.
+Warning: Teleporting vehicle '7869'; waited too long (yield), lane='8112_0', time=28815.00.
+Warning: Vehicle '7114' ends teleporting on edge '7535', time=28815.00.
+Warning: Vehicle '7869' ends teleporting on edge '7535', time=28817.00.
+Warning: Vehicle '8727' ends teleporting on edge '7542', time=28835.00.
+Warning: Vehicle '3258' ends teleporting on edge '6124', time=28838.00.
+Warning: Teleporting vehicle '199'; waited too long (yield), lane='7618_1', time=28855.00.
+Warning: Vehicle '199' ends teleporting on edge '6045', time=28855.00.
+Warning: Vehicle '8855' ends teleporting on edge '7538', time=28871.00.
+Warning: Vehicle '8973' ends teleporting on edge '7538', time=28875.00.
+Warning: Vehicle '8823' ends teleporting on edge '7538', time=28876.00.
+Warning: Vehicle '8703' ends teleporting on edge '7538', time=28877.00.
+Warning: Vehicle '559' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28882.00.
+Warning: Vehicle '6527' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=28890.00.
+Warning: Vehicle '161' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=28906.00.
+Warning: Vehicle '8910' ends teleporting on edge '6511', time=28906.00.
+Warning: Teleporting vehicle '1182'; waited too long (jam), lane=':7252_1_0', time=28910.00.
+Warning: Vehicle '1182' ends teleporting on edge '7594', time=28910.00.
+Warning: Teleporting vehicle '3385'; waited too long (yield), lane='12527_2', time=28913.00.
+Warning: Vehicle '3385' ends teleporting on edge '7680', time=28913.00.
+Warning: Vehicle '8884' ends teleporting on edge '7546', time=28928.00.
+Simulation ended at time: 28930.00
+Reason: The final simulation step has been reached.
+Performance: 
+ Duration: 76.10s
+ TraCI-Duration: 0.85s
+ Real time factor: 49.0132
+ UPS: 75854.221965
+Vehicles: 
+ Inserted: 6544 (Loaded: 9224)
+ Running: 2316
+ Waiting: 2680
+ Teleports: 258 (Collisions: 7, Jam: 90, Yield: 123, Wrong Lane: 38)
+

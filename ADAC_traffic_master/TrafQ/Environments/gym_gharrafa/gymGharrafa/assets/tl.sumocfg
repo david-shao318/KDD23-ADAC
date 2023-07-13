@@ -1,0 +1,17 @@
+<configuration>
+    <input>
+        <net-file value="./SIMULATION/gharrafa.net.xml"/>
+        <route-files value="./MATOD/gha_tripsH24_jun2021.rou.xml"/>
+        <gui-settings-file value="./SIMULATION/gui.settings.xml"/>
+	    <additional-files value="e1test.xml"/>
+
+    </input>
+    <time>
+        <begin value="21600"/>
+        <end value="25200"/>
+    </time>
+    <traci_server>
+  	<remote-port value="8813"/>
+    </traci_server>
+
+  </configuration>

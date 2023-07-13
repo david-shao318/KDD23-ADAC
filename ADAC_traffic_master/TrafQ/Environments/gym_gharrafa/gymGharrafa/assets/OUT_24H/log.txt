@@ -1,0 +1,607 @@
+***Starting server on port 53660 ***
+Loading net-file from '/Users/d.shao/Downloads/ADAC/KDD23-ADAC/TrafQ/Environments/gym-gharrafa/gymGharrafa/assets/SIMULATION/gharrafa.net.xml' ... done (28ms).
+Loading additional-files from '/Users/d.shao/Downloads/ADAC/KDD23-ADAC/TrafQ/Environments/gym-gharrafa/gymGharrafa/assets/e1test.xml' ... done (19ms).
+Loading done.
+Simulation started with time: 25200.00.
+Warning: Removing junction collision participants: vehicle '18820', vehicle '15420', lane=':7734_0_0', gap=-1.00, time=25283.50 stage=move.
+Warning: Vehicle '11139' performs emergency braking on lane ':7252_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25289.00.
+Warning: Removing collision participants: vehicle '14581', vehicle '14031', lane='7539_0', gap=-2.59, time=25290.00 stage=move.
+Warning: Vehicle '10065' performs emergency braking on lane ':7252_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25295.50.
+Warning: Vehicle '17822' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25318.00.
+Warning: Removing collision participants: vehicle '17822', vehicle '15819', lane='7539_1', gap=-0.10, time=25318.00 stage=move.
+Warning: Vehicle '15430' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25321.00.
+Warning: Removing junction collision participants: vehicle '16115', vehicle '18895', lane=':7734_4_1', gap=-1.00, time=25338.00 stage=move.
+Warning: Vehicle '14999' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25340.00.
+Warning: Vehicle '18020' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25346.50.
+Warning: Removing junction collision participants: vehicle '14525', vehicle '17313', lane=':7734_0_0', gap=-1.00, time=25349.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15990', vehicle '18287', lane=':7734_4_1', gap=-1.00, time=25355.50 stage=move.
+Warning: Vehicle '19019' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25361.00.
+Warning: Vehicle '10430' performs emergency braking on lane ':6318_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25363.00.
+Warning: Vehicle '18141' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25369.50.
+Warning: Vehicle '14282' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25370.00.
+Warning: Vehicle '18539' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25370.50.
+Warning: Vehicle '13722' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25372.00.
+Warning: Vehicle '10680' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25374.00.
+Warning: Vehicle '13992' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25376.00.
+Warning: Removing junction collision participants: vehicle '13992', vehicle '17565', lane=':7734_0_0', gap=-1.00, time=25376.00 stage=move.
+Warning: Vehicle '10365' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25380.50.
+Warning: Vehicle '18900' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25384.00.
+Warning: Removing junction collision participants: vehicle '17734', vehicle '18932', lane=':7734_4_1', gap=-1.00, time=25387.00 stage=move.
+Warning: Vehicle '18795' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25388.50.
+Warning: Vehicle '17728' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25391.50.
+Warning: Removing collision participants: vehicle '18642', vehicle '13766', lane='7539_0', gap=-4.10, time=25394.50 stage=move.
+Warning: Removing collision participants: vehicle '15918', vehicle '18854', lane='7539_0', gap=-2.30, time=25398.50 stage=move.
+Warning: Vehicle '18922' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25399.00.
+Warning: Removing junction collision participants: vehicle '10682', vehicle '18922', lane=':7746_0_2', gap=-1.00, time=25402.50 stage=move.
+Warning: Vehicle '18918' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25403.50.
+Warning: Vehicle '15166' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25406.00.
+Warning: Vehicle '17283' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25408.50.
+Warning: Removing junction collision participants: vehicle '15348', vehicle '17283', lane=':7734_4_1', gap=-1.00, time=25409.50 stage=move.
+Warning: Vehicle '17458' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25413.50.
+Warning: Vehicle '16852' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25414.50.
+Warning: Vehicle '14559' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25417.00.
+Warning: Vehicle '17062' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25429.00.
+Warning: Removing junction collision participants: vehicle '18949', vehicle '14352', lane=':7734_0_0', gap=-1.00, time=25432.50 stage=move.
+Warning: Removing junction collision participants: vehicle '16812', vehicle '14533', lane=':7734_0_0', gap=-1.00, time=25436.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16442', vehicle '18073', lane=':7734_4_1', gap=-1.00, time=25437.50 stage=move.
+Warning: Vehicle '13856' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25461.00.
+Warning: Vehicle '14873' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25462.00.
+Warning: Vehicle '18918' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25462.50.
+Warning: Removing junction collision participants: vehicle '14357', vehicle '18931', lane=':7734_4_1', gap=-1.00, time=25467.00 stage=move.
+Warning: Vehicle '13896' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25468.00.
+Warning: Vehicle '11618' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25469.50.
+Warning: Vehicle '13683' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25473.50.
+Warning: Vehicle '13624' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25478.00.
+Warning: Vehicle '15281' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25481.50.
+Warning: Vehicle '14292' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25484.50.
+Warning: Vehicle '16436' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25488.00.
+Warning: Vehicle '18903' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25490.50.
+Warning: Removing junction collision participants: vehicle '18903', vehicle '17119', lane=':7734_0_2', gap=-1.00, time=25490.50 stage=move.
+Warning: Vehicle '10771' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=25492.00.
+Warning: Vehicle '12663' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25493.50.
+Warning: Vehicle '13811' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25493.50.
+Warning: Vehicle '13939' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25500.00.
+Warning: Removing junction collision participants: vehicle '13939', vehicle '17258', lane=':7734_0_0', gap=-1.00, time=25500.00 stage=move.
+Warning: Vehicle '16420' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25502.50.
+Warning: Vehicle '12012' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25503.00.
+Warning: Removing junction collision participants: vehicle '12012', vehicle '16420', lane=':7746_0_2', gap=-1.00, time=25503.50 stage=move.
+Warning: Vehicle '15217' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25504.00.
+Warning: Vehicle '15491' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25507.00.
+Warning: Vehicle '16923' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25508.00.
+Warning: Vehicle '12864' performs emergency braking on lane ':6307_3_2' with decel=9.00, wished=4.50, severity=1.00, time=25513.00.
+Warning: Removing junction collision participants: vehicle '19014', vehicle '17736', lane=':7734_0_0', gap=-1.00, time=25515.00 stage=move.
+Warning: Vehicle '10719' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25516.00.
+Warning: Removing junction collision participants: vehicle '15330', vehicle '18942', lane=':7734_4_1', gap=-1.00, time=25517.00 stage=move.
+Warning: Vehicle '10684' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25518.50.
+Warning: Vehicle '18695' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25520.50.
+Warning: Removing junction collision participants: vehicle '14974', vehicle '18695', lane=':7734_4_0', gap=-1.00, time=25521.50 stage=move.
+Warning: Vehicle '15603' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25525.50.
+Warning: Vehicle '18195' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25529.00.
+Warning: Vehicle '19165' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=25529.50.
+Warning: Vehicle '13621' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=25534.00.
+Warning: Vehicle '10619' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25534.00.
+Warning: Removing collision participants: vehicle '13621', vehicle '19071', lane='7580_0', gap=-4.03, time=25534.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14292', vehicle '18494', lane=':7735_0_0', gap=-1.00, time=25541.50 stage=move.
+Warning: Removing collision participants: vehicle '13667', vehicle '18425', lane='7539_0', gap=-3.78, time=25547.50 stage=move.
+Warning: Vehicle '11229' performs emergency braking on lane ':7744_3_6' with decel=9.00, wished=4.50, severity=1.00, time=25548.50.
+Warning: Vehicle '14269' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25549.50.
+Warning: Removing collision participants: vehicle '14448', vehicle '13954', lane='7539_0', gap=-3.07, time=25552.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14502', vehicle '14005', lane=':7735_0_0', gap=-1.00, time=25556.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12457', vehicle '12178', lane=':6316_0_0', gap=-1.00, time=25557.50 stage=move.
+Warning: Vehicle '17067' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25559.00.
+Warning: Removing junction collision participants: vehicle '16151', vehicle '18905', lane=':7734_4_1', gap=-1.00, time=25560.50 stage=move.
+Warning: Vehicle '16575' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25562.50.
+Warning: Removing collision participants: vehicle '19016', vehicle '14479', lane='7539_0', gap=-4.91, time=25562.50 stage=move.
+Warning: Removing collision participants: vehicle '18609', vehicle '19000', lane='7539_0', gap=-2.48, time=25564.00 stage=move.
+Warning: Vehicle '14284' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25565.50.
+Warning: Removing collision participants: vehicle '14277', vehicle '18118', lane='7539_0', gap=-1.29, time=25565.50 stage=move.
+Warning: Removing junction collision participants: vehicle '13642', vehicle '14317', lane=':7734_0_0', gap=-1.00, time=25567.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14542', vehicle '18377', lane=':7735_0_0', gap=-1.00, time=25568.50 stage=move.
+Warning: Vehicle '13659' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25569.00.
+Warning: Removing junction collision participants: vehicle '12864', vehicle '13591', lane=':6316_0_0', gap=-1.00, time=25569.50 stage=move.
+Warning: Vehicle '13811' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25570.00.
+Warning: Vehicle '14036' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25570.50.
+Warning: Vehicle '14374' performs emergency braking on lane ':7735_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25571.50.
+Warning: Vehicle '19115' performs emergency braking on lane '7585_0' with decel=9.00, wished=4.50, severity=1.00, time=25574.00.
+Warning: Vehicle '13749' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=25574.50.
+Warning: Vehicle '15823' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25576.50.
+Warning: Vehicle '13843' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25577.00.
+Warning: Vehicle '19209' performs emergency braking on lane '7585_0' with decel=9.00, wished=4.50, severity=1.00, time=25581.00.
+Warning: Vehicle '18653' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=25581.50.
+Warning: Vehicle '18817' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25585.50.
+Warning: Vehicle '14833' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25586.50.
+Warning: Removing junction collision participants: vehicle '19004', vehicle '16472', lane=':7734_0_0', gap=-1.00, time=25591.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12821', vehicle '13584', lane=':6316_0_0', gap=-1.00, time=25591.50 stage=move.
+Warning: Removing junction collision participants: vehicle '16468', vehicle '13645', lane=':7734_4_0', gap=-1.00, time=25593.00 stage=move.
+Warning: Vehicle '10142' performs emergency braking on lane '5652_0' with decel=9.00, wished=4.50, severity=1.00, time=25594.50.
+Warning: Vehicle '13892' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25595.00.
+Warning: Removing junction collision participants: vehicle '12796', vehicle '12910', lane=':6316_0_0', gap=-1.00, time=25595.00 stage=move.
+Warning: Removing collision participants: vehicle '13892', vehicle '16867', lane='7539_0', gap=-1.15, time=25595.00 stage=move.
+Warning: Vehicle '14273' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25596.50.
+Warning: Removing collision participants: vehicle '14273', vehicle '14492', lane='7539_0', gap=-0.76, time=25596.50 stage=move.
+Warning: Vehicle '17129' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25597.00.
+Warning: Vehicle '16319' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25598.00.
+Warning: Removing collision participants: vehicle '18610', vehicle '18848', lane='7539_0', gap=-4.86, time=25599.00 stage=move.
+Warning: Vehicle '18846' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25601.00.
+Warning: Vehicle '18584' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25601.50.
+Warning: Removing junction collision participants: vehicle '15403', vehicle '17582', lane=':7734_0_2', gap=-1.00, time=25607.50 stage=move.
+Warning: Vehicle '18713' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25609.50.
+Warning: Removing junction collision participants: vehicle '15105', vehicle '18713', lane=':7734_4_0', gap=-1.00, time=25610.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15565', vehicle '18829', lane=':7734_4_0', gap=-1.00, time=25612.00 stage=move.
+Warning: Vehicle '17205' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25614.50.
+Warning: Vehicle '15219' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25617.50.
+Warning: Vehicle '18814' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25634.00.
+Warning: Vehicle '13834' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25637.50.
+Warning: Removing junction collision participants: vehicle '15017', vehicle '13637', lane=':7734_4_0', gap=-1.00, time=25641.50 stage=move.
+Warning: Removing collision participants: vehicle '18804', vehicle '16209', lane='7539_0', gap=-3.25, time=25643.50 stage=move.
+Warning: Vehicle '10152' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=25644.50.
+Warning: Vehicle '11883' performs emergency braking on lane '7592_0' with decel=9.00, wished=4.50, severity=1.00, time=25645.50.
+Warning: Vehicle '13409' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25646.00.
+Warning: Vehicle '10170' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=25647.00.
+Warning: Vehicle '14438' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25647.50.
+Warning: Vehicle '18697' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25649.50.
+Warning: Vehicle '16694' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25650.00.
+Warning: Vehicle '18957' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25651.50.
+Warning: Vehicle '13968' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25654.00.
+Warning: Removing junction collision participants: vehicle '13968', vehicle '17173', lane=':7734_0_0', gap=-1.00, time=25654.00 stage=move.
+Warning: Vehicle '12934' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25654.50.
+Warning: Vehicle '15839' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25659.00.
+Warning: Vehicle '13655' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25659.50.
+Warning: Vehicle '13688' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25663.50.
+Warning: Removing junction collision participants: vehicle '18813', vehicle '17571', lane=':7734_0_0', gap=-1.00, time=25666.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10100', vehicle '10811', lane=':7749_4_0', gap=-1.00, time=25668.00 stage=move.
+Warning: Vehicle '18817' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25669.50.
+Warning: Vehicle '13891' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25670.00.
+Warning: Removing junction collision participants: vehicle '18177', vehicle '13891', lane=':7734_4_0', gap=-1.00, time=25670.50 stage=move.
+Warning: Vehicle '18690' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=25671.50.
+Warning: Vehicle '12915' performs emergency braking on lane ':6307_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25672.50.
+Warning: Vehicle '14451' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25673.50.
+Warning: Vehicle '18892' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25676.00.
+Warning: Vehicle '18937' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25676.50.
+Warning: Removing junction collision participants: vehicle '15289', vehicle '18892', lane=':7734_4_0', gap=-1.00, time=25677.00 stage=move.
+Warning: Removing collision participants: vehicle '18937', vehicle '16009', lane='7539_1', gap=-0.15, time=25677.00 stage=move.
+Warning: Vehicle '12522' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25678.00.
+Warning: Removing junction collision participants: vehicle '11137', vehicle '10970', lane=':7749_4_0', gap=-1.00, time=25680.50 stage=move.
+Warning: Vehicle '13835' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25682.00.
+Warning: Vehicle '14991' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25688.00.
+Warning: Removing collision participants: vehicle '18783', vehicle '14771', lane='7539_0', gap=-3.91, time=25688.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13841', vehicle '14427', lane=':7734_0_0', gap=-1.00, time=25692.00 stage=move.
+Warning: Vehicle '16579' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25693.00.
+Warning: Removing junction collision participants: vehicle '17845', vehicle '16579', lane=':7734_4_1', gap=-1.00, time=25694.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18601', vehicle '14665', lane=':7734_0_0', gap=-1.00, time=25695.00 stage=move.
+Warning: Vehicle '15117' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25696.00.
+Warning: Removing junction collision participants: vehicle '12834', vehicle '13414', lane=':6316_0_0', gap=-1.00, time=25700.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11971', vehicle '12573', lane=':6307_0_2', gap=-1.00, time=25700.50 stage=move.
+Warning: Removing junction collision participants: vehicle '17164', vehicle '18977', lane=':7734_4_0', gap=-1.00, time=25702.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12164', vehicle '12562', lane=':6316_0_0', gap=-1.00, time=25703.50 stage=move.
+Warning: Vehicle '10550' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=25704.00.
+Warning: Removing collision participants: vehicle '18744', vehicle '15285', lane='7539_0', gap=-4.02, time=25704.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18885', vehicle '17820', lane=':7734_0_0', gap=-1.00, time=25705.50 stage=move.
+Warning: Vehicle '10372' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25706.00.
+Warning: Vehicle '18999' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25707.50.
+Warning: Vehicle '17560' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25708.00.
+Warning: Vehicle '15450' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25709.50.
+Warning: Vehicle '14987' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25710.00.
+Warning: Vehicle '12712' performs emergency braking on lane ':6307_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25711.50.
+Warning: Vehicle '10478' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25715.00.
+Warning: Removing junction collision participants: vehicle '14391', vehicle '18913', lane=':7734_4_1', gap=-1.00, time=25718.50 stage=move.
+Warning: Vehicle '18696' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25720.00.
+Warning: Removing junction collision participants: vehicle '12652', vehicle '11904', lane=':6307_3_2', gap=-1.00, time=25721.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11010', vehicle '10857', lane=':7749_4_0', gap=-1.00, time=25721.00 stage=move.
+Warning: Vehicle '19023' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25728.00.
+Warning: Vehicle '13757' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25729.00.
+Warning: Vehicle '18488' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25729.00.
+Warning: Removing junction collision participants: vehicle '18488', vehicle '19023', lane=':7734_4_0', gap=-1.00, time=25729.00 stage=move.
+Warning: Vehicle '16559' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25729.50.
+Warning: Vehicle '13695' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25733.50.
+Warning: Removing junction collision participants: vehicle '12561', vehicle '11891', lane=':6307_3_2', gap=-1.00, time=25733.50 stage=move.
+Warning: Vehicle '15119' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25734.00.
+Warning: Removing collision participants: vehicle '18772', vehicle '14901', lane='7539_0', gap=-3.00, time=25737.00 stage=move.
+Warning: Vehicle '19013' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25739.00.
+Warning: Removing junction collision participants: vehicle '13681', vehicle '16065', lane=':7734_0_0', gap=-1.00, time=25742.00 stage=move.
+Warning: Vehicle '14261' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25745.50.
+Warning: Vehicle '15521' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25746.00.
+Warning: Vehicle '13999' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25747.00.
+Warning: Removing junction collision participants: vehicle '13224', vehicle '13179', lane=':6316_0_0', gap=-1.00, time=25747.50 stage=move.
+Warning: Vehicle '18216' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25748.50.
+Warning: Removing junction collision participants: vehicle '18216', vehicle '13999', lane=':7734_4_0', gap=-1.00, time=25748.50 stage=move.
+Warning: Removing junction collision participants: vehicle '13822', vehicle '15878', lane=':7734_0_0', gap=-1.00, time=25750.00 stage=move.
+Warning: Vehicle '13839' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25753.50.
+Warning: Removing junction collision participants: vehicle '15023', vehicle '13853', lane=':7734_4_0', gap=-1.00, time=25756.00 stage=move.
+Warning: Removing collision participants: vehicle '13760', vehicle '15452', lane='7539_0', gap=-4.28, time=25758.00 stage=move.
+Warning: Vehicle '18817' performs emergency braking on lane ':7250_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25761.50.
+Warning: Vehicle '19164' performs emergency braking on lane ':7751_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25762.50.
+Warning: Vehicle '16950' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25773.50.
+Warning: Removing junction collision participants: vehicle '16950', vehicle '14747', lane=':7734_0_2', gap=-1.00, time=25773.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14433', vehicle '15708', lane=':7734_0_0', gap=-1.00, time=25774.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12296', vehicle '12877', lane=':6307_0_2', gap=-1.00, time=25774.00 stage=move.
+Warning: Vehicle '16083' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25775.50.
+Warning: Removing junction collision participants: vehicle '11060', vehicle '11351', lane=':7749_4_0', gap=-1.00, time=25778.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10152', vehicle '11388', lane=':7749_4_0', gap=-1.00, time=25789.50 stage=move.
+Warning: Vehicle '15092' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25791.00.
+Warning: Vehicle '17708' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25797.50.
+Warning: Vehicle '12971' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25800.00.
+Warning: Vehicle '12971' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25801.50.
+Warning: Removing junction collision participants: vehicle '10170', vehicle '11449', lane=':7749_4_0', gap=-1.00, time=25801.50 stage=move.
+Warning: Vehicle '19013' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25805.50.
+Warning: Removing junction collision participants: vehicle '13248', vehicle '13479', lane=':6281_1_0', gap=-1.00, time=25810.00 stage=move.
+Warning: Vehicle '11881' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25811.50.
+Warning: Removing junction collision participants: vehicle '11120', vehicle '11391', lane=':7749_4_0', gap=-1.00, time=25813.00 stage=move.
+Warning: Vehicle '18933' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25813.50.
+Warning: Removing junction collision participants: vehicle '16781', vehicle '18924', lane=':7734_4_1', gap=-1.00, time=25815.50 stage=move.
+Warning: Vehicle '14270' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25819.50.
+Warning: Vehicle '15411' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25820.50.
+Warning: Vehicle '18334' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25821.00.
+Warning: Vehicle '14283' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25821.50.
+Warning: Removing collision participants: vehicle '15793', vehicle '14283', lane='7539_0', gap=-4.52, time=25823.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11035', vehicle '19152', lane=':7749_4_0', gap=-1.00, time=25824.00 stage=move.
+Warning: Removing junction collision participants: vehicle '19150', vehicle '11289', lane=':7749_4_0', gap=-1.00, time=25824.50 stage=move.
+Warning: Vehicle '15496' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25825.00.
+Warning: Vehicle '13476' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25825.50.
+Warning: Removing junction collision participants: vehicle '12477', vehicle '13436', lane=':6281_1_0', gap=-1.00, time=25830.00 stage=move.
+Warning: Vehicle '10711' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25831.50.
+Warning: Vehicle '14288' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25832.00.
+Warning: Vehicle '17515' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25833.50.
+Warning: Removing junction collision participants: vehicle '11062', vehicle '11190', lane=':7749_4_0', gap=-1.00, time=25839.50 stage=move.
+Warning: Vehicle '10691' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25841.00.
+Warning: Vehicle '16447' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25841.50.
+Warning: Vehicle '10691' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25842.00.
+Warning: Vehicle '10542' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25842.50.
+Warning: Removing junction collision participants: vehicle '11026', vehicle '10627', lane=':7749_4_0', gap=-1.00, time=25843.00 stage=move.
+Warning: Vehicle '16701' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25843.50.
+Warning: Removing junction collision participants: vehicle '14280', vehicle '15701', lane=':7734_0_0', gap=-1.00, time=25844.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10078', vehicle '10836', lane=':7749_4_0', gap=-1.00, time=25845.50 stage=move.
+Warning: Vehicle '18754' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25846.50.
+Warning: Vehicle '14601' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25847.50.
+Warning: Vehicle '18686' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25851.00.
+Warning: Vehicle '11339' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25851.50.
+Warning: Vehicle '15507' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25852.00.
+Warning: Vehicle '18980' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25853.00.
+Warning: Vehicle '18582' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25854.50.
+Warning: Removing collision participants: vehicle '19198', vehicle '14320', lane='7580_0', gap=-1.98, time=25854.50 stage=move.
+Warning: Vehicle '10523' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=25859.00.
+Warning: Removing junction collision participants: vehicle '17968', vehicle '17733', lane=':7734_4_1', gap=-1.00, time=25862.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10124', vehicle '11440', lane=':7749_4_0', gap=-1.00, time=25862.00 stage=move.
+Warning: Vehicle '15417' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25864.00.
+Warning: Vehicle '11399' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25865.00.
+Warning: Vehicle '10230' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25866.50.
+Warning: Vehicle '18864' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25867.50.
+Warning: Removing junction collision participants: vehicle '10061', vehicle '10783', lane=':7749_4_0', gap=-1.00, time=25868.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15444', vehicle '13759', lane=':7734_4_0', gap=-1.00, time=25869.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14727', vehicle '17163', lane=':7734_0_2', gap=-1.00, time=25869.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14321', vehicle '17648', lane=':7734_0_0', gap=-1.00, time=25871.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16362', vehicle '17931', lane=':7734_4_1', gap=-1.00, time=25871.50 stage=move.
+Warning: Vehicle '18271' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25873.50.
+Warning: Removing collision participants: vehicle '18271', vehicle '17231', lane='7539_1', gap=-2.86, time=25873.50 stage=move.
+Warning: Vehicle '18819' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25881.00.
+Warning: Removing junction collision participants: vehicle '18819', vehicle '16240', lane=':7734_0_0', gap=-1.00, time=25882.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12443', vehicle '13583', lane=':6316_0_0', gap=-1.00, time=25882.50 stage=move.
+Warning: Vehicle '16900' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25886.50.
+Warning: Vehicle '10470' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25887.50.
+Warning: Removing junction collision participants: vehicle '17719', vehicle '18967', lane=':7734_4_0', gap=-1.00, time=25895.00 stage=move.
+Warning: Vehicle '12019' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25898.50.
+Warning: Vehicle '18933' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25899.50.
+Warning: Vehicle '12010' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25901.00.
+Warning: Vehicle '13745' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25912.00.
+Warning: Vehicle '16654' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25913.00.
+Warning: Removing junction collision participants: vehicle '16654', vehicle '13745', lane=':7734_4_0', gap=-1.00, time=25913.00 stage=move.
+Warning: Removing collision participants: vehicle '15931', vehicle '13772', lane='7539_0', gap=-3.27, time=25914.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10171', vehicle '10839', lane=':7749_4_0', gap=-1.00, time=25915.50 stage=move.
+Warning: Removing collision participants: vehicle '16456', vehicle '13662', lane='7539_0', gap=-4.30, time=25916.00 stage=move.
+Warning: Removing collision participants: vehicle '14399', vehicle '13897', lane='7539_0', gap=-2.35, time=25917.50 stage=move.
+Warning: Vehicle '13908' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25919.50.
+Warning: Vehicle '13729' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25921.00.
+Warning: Vehicle '15669' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25922.50.
+Warning: Removing junction collision participants: vehicle '10084', vehicle '10846', lane=':7749_4_0', gap=-1.00, time=25928.00 stage=move.
+Warning: Vehicle '13738' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25928.50.
+Warning: Removing junction collision participants: vehicle '12623', vehicle '12148', lane=':6307_3_2', gap=-1.00, time=25929.50 stage=move.
+Warning: Removing junction collision participants: vehicle '16496', vehicle '13693', lane=':7734_4_0', gap=-1.00, time=25934.50 stage=move.
+Warning: Vehicle '11879' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25936.50.
+Warning: Vehicle '13806' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25937.00.
+Warning: Vehicle '16712' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25938.50.
+Warning: Vehicle '11589' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25945.00.
+Warning: Removing junction collision participants: vehicle '17954', vehicle '18675', lane=':7734_4_0', gap=-1.00, time=25945.00 stage=move.
+Warning: Vehicle '15783' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25947.50.
+Warning: Vehicle '17457' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25948.50.
+Warning: Vehicle '16953' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25952.00.
+Warning: Removing collision participants: vehicle '19206', vehicle '18686', lane='7580_0', gap=-1.52, time=25953.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18688', vehicle '14363', lane=':7734_0_0', gap=-1.00, time=25956.50 stage=move.
+Warning: Vehicle '18212' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25959.00.
+Warning: Removing collision participants: vehicle '18732', vehicle '18160', lane='7539_0', gap=-0.14, time=25961.00 stage=move.
+Warning: Vehicle '11339' performs emergency braking on lane '7763_0' with decel=9.00, wished=4.50, severity=1.00, time=25967.00.
+Warning: Vehicle '18981' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25968.50.
+Warning: Vehicle '12699' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25975.00.
+Warning: Removing junction collision participants: vehicle '18752', vehicle '15116', lane=':7734_0_0', gap=-1.00, time=25979.00 stage=move.
+Warning: Vehicle '16462' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25982.50.
+Warning: Vehicle '10390' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=25986.50.
+Warning: Vehicle '16275' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25986.50.
+Warning: Removing collision participants: vehicle '16275', vehicle '19020', lane='7539_0', gap=-0.23, time=25986.50 stage=move.
+Warning: Vehicle '19167' performs emergency braking on lane ':6318_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25994.50.
+Warning: Vehicle '10633' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25998.00.
+Warning: Vehicle '18674' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26003.50.
+Warning: Vehicle '10253' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=26004.50.
+Warning: Vehicle '13694' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26005.00.
+Warning: Removing junction collision participants: vehicle '13587', vehicle '13406', lane=':7253_2_0', gap=-1.00, time=26005.50 stage=move.
+Warning: Vehicle '14285' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26009.00.
+Warning: Removing junction collision participants: vehicle '11443', vehicle '11313', lane=':7749_1_0', gap=-1.00, time=26009.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12260', vehicle '14558', lane=':7253_2_0', gap=-1.00, time=26012.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12783', vehicle '13570', lane=':6316_0_0', gap=-1.00, time=26013.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14795', vehicle '18907', lane=':7734_4_1', gap=-1.00, time=26014.00 stage=move.
+Warning: Vehicle '10504' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26014.50.
+Warning: Vehicle '17218' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26015.50.
+Warning: Vehicle '15560' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26016.00.
+Warning: Removing junction collision participants: vehicle '12787', vehicle '13426', lane=':6316_0_0', gap=-1.00, time=26016.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15560', vehicle '19007', lane=':7734_4_0', gap=-1.00, time=26017.50 stage=move.
+Warning: Vehicle '10210' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26019.50.
+Warning: Vehicle '10468' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=26019.50.
+Warning: Vehicle '18947' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26020.00.
+Warning: Removing junction collision participants: vehicle '13381', vehicle '14424', lane=':7253_2_0', gap=-1.00, time=26021.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11241', vehicle '10813', lane=':7749_1_0', gap=-1.00, time=26021.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11070', vehicle '11252', lane=':7749_4_0', gap=-1.00, time=26023.00 stage=move.
+Warning: Vehicle '13738' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26026.00.
+Warning: Removing junction collision participants: vehicle '18805', vehicle '15479', lane=':7734_0_0', gap=-1.00, time=26027.00 stage=move.
+Warning: Vehicle '18722' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26029.00.
+Warning: Vehicle '18759' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26031.00.
+Warning: Vehicle '13854' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26033.50.
+Warning: Removing junction collision participants: vehicle '13854', vehicle '17353', lane=':7734_0_0', gap=-1.00, time=26033.50 stage=move.
+Warning: Vehicle '14933' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26035.00.
+Warning: Vehicle '13921' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26035.50.
+Warning: Removing junction collision participants: vehicle '11442', vehicle '10848', lane=':7749_1_0', gap=-1.00, time=26035.50 stage=move.
+Warning: Removing junction collision participants: vehicle '13610', vehicle '13404', lane=':7253_2_0', gap=-1.00, time=26036.50 stage=move.
+Warning: Vehicle '14291' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26037.50.
+Warning: Removing junction collision participants: vehicle '19185', vehicle '13010', lane=':7253_2_0', gap=-1.00, time=26040.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12923', vehicle '14605', lane=':7253_2_0', gap=-1.00, time=26042.50 stage=move.
+Warning: Removing junction collision participants: vehicle '11173', vehicle '10305', lane=':7749_1_0', gap=-1.00, time=26044.00 stage=move.
+Warning: Vehicle '15732' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26045.50.
+Warning: Vehicle '13673' performs emergency braking on lane ':7751_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26047.00.
+Warning: Removing collision participants: vehicle '13673', vehicle '19199', lane='7580_0', gap=-3.74, time=26047.00 stage=move.
+Warning: Vehicle '18927' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26048.50.
+Warning: Removing junction collision participants: vehicle '18927', vehicle '15362', lane=':7734_0_2', gap=-1.00, time=26048.50 stage=move.
+Warning: Vehicle '18043' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26052.00.
+Warning: Removing junction collision participants: vehicle '17419', vehicle '18951', lane=':7734_4_0', gap=-1.00, time=26053.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11464', vehicle '18463', lane=':7739_3_1', gap=-1.00, time=26053.00 stage=move.
+Warning: Vehicle '16574' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=26054.50.
+Warning: Removing junction collision participants: vehicle '16574', vehicle '18043', lane=':7734_4_1', gap=-1.00, time=26054.50 stage=move.
+Warning: Vehicle '18886' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26055.00.
+Warning: Vehicle '18896' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26056.50.
+Warning: Removing junction collision participants: vehicle '13317', vehicle '13420', lane=':6316_0_0', gap=-1.00, time=26057.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15659', vehicle '18896', lane=':7734_4_1', gap=-1.00, time=26058.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18781', vehicle '16697', lane=':7734_0_0', gap=-1.00, time=26059.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13902', vehicle '14129', lane=':6521_0_0', gap=-1.00, time=26059.50 stage=move.
+Warning: Vehicle '17913' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26061.50.
+Warning: Removing junction collision participants: vehicle '11287', vehicle '11007', lane=':7749_1_0', gap=-1.00, time=26063.00 stage=move.
+Warning: Vehicle '18005' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26066.50.
+Warning: Removing junction collision participants: vehicle '18005', vehicle '17952', lane=':7734_0_2', gap=-1.00, time=26068.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11371', vehicle '11382', lane=':7749_1_0', gap=-1.00, time=26078.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12438', vehicle '12898', lane=':6316_0_0', gap=-1.00, time=26079.50 stage=move.
+Warning: Removing junction collision participants: vehicle '11365', vehicle '10774', lane=':7749_1_0', gap=-1.00, time=26080.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12130', vehicle '12946', lane=':6316_0_0', gap=-1.00, time=26083.00 stage=move.
+Warning: Vehicle '13922' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26085.00.
+Warning: Removing junction collision participants: vehicle '12128', vehicle '12557', lane=':6316_0_0', gap=-1.00, time=26086.00 stage=move.
+Warning: Removing collision participants: vehicle '14773', vehicle '13922', lane='7539_0', gap=-4.32, time=26086.00 stage=move.
+Warning: Vehicle '11859' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=26090.50.
+Warning: Removing collision participants: vehicle '13862', vehicle '14914', lane='7539_0', gap=-2.93, time=26090.50 stage=move.
+Warning: Vehicle '14285' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26091.50.
+Warning: Vehicle '13646' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26092.50.
+Warning: Vehicle '18314' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26093.50.
+Warning: Vehicle '18961' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26096.00.
+Warning: Vehicle '18961' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26097.50.
+Warning: Vehicle '14337' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26113.00.
+Warning: Vehicle '12927' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26115.00.
+Warning: Vehicle '13641' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26117.00.
+Warning: Vehicle '18868' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26118.50.
+Warning: Vehicle '16514' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26119.00.
+Warning: Vehicle '13747' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26120.00.
+Warning: Vehicle '15805' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26121.50.
+Warning: Removing junction collision participants: vehicle '15805', vehicle '13747', lane=':7734_4_0', gap=-1.00, time=26121.50 stage=move.
+Warning: Removing junction collision participants: vehicle '13983', vehicle '15292', lane=':7734_0_0', gap=-1.00, time=26123.00 stage=move.
+Warning: Vehicle '13588' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=26124.00.
+Warning: Vehicle '13863' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26125.00.
+Warning: Vehicle '14485' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26125.00.
+Warning: Vehicle '16707' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26125.50.
+Warning: Vehicle '15830' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26127.50.
+Warning: Vehicle '12515' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26128.50.
+Warning: Vehicle '12712' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26129.50.
+Warning: Vehicle '18062' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26129.50.
+Warning: Vehicle '16678' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26131.50.
+Warning: Removing junction collision participants: vehicle '18747', vehicle '14611', lane=':7734_0_0', gap=-1.00, time=26133.50 stage=move.
+Warning: Vehicle '11884' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26134.50.
+Warning: Vehicle '10869' performs emergency braking on lane '6045_1' with decel=9.00, wished=4.50, severity=1.00, time=26136.00.
+Warning: Vehicle '11884' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26136.50.
+Warning: Vehicle '16013' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26138.50.
+Warning: Vehicle '16635' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26140.00.
+Warning: Vehicle '11884' performs emergency braking on lane ':7254_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26142.00.
+Warning: Vehicle '18651' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26144.50.
+Warning: Removing junction collision participants: vehicle '18651', vehicle '15816', lane=':7734_0_0', gap=-1.00, time=26145.50 stage=move.
+Warning: Vehicle '14485' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26150.50.
+Warning: Removing collision participants: vehicle '14485', vehicle '19097', lane='7580_0', gap=-4.96, time=26150.50 stage=move.
+Warning: Removing junction collision participants: vehicle '18995', vehicle '14781', lane=':7734_0_0', gap=-1.00, time=26151.00 stage=move.
+Warning: Vehicle '10678' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=26151.50.
+Warning: Removing collision participants: vehicle '18691', vehicle '17953', lane='7539_0', gap=-2.49, time=26152.50 stage=move.
+Warning: Vehicle '15353' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26153.00.
+Warning: Vehicle '13581' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26153.50.
+Warning: Removing collision participants: vehicle '13581', vehicle '19178', lane='7580_0', gap=-0.80, time=26153.50 stage=move.
+Warning: Removing junction collision participants: vehicle '12199', vehicle '13457', lane=':6281_1_0', gap=-1.00, time=26158.50 stage=move.
+Warning: Removing junction collision participants: vehicle '11273', vehicle '11465', lane=':7749_1_0', gap=-1.00, time=26160.50 stage=move.
+Warning: Vehicle '16453' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26162.50.
+Warning: Removing junction collision participants: vehicle '11368', vehicle '18505', lane=':7749_1_0', gap=-1.00, time=26163.50 stage=move.
+Warning: Vehicle '10317' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26164.50.
+Warning: Removing junction collision participants: vehicle '11117', vehicle '10829', lane=':7749_4_0', gap=-1.00, time=26165.50 stage=move.
+Warning: Vehicle '18702' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26169.00.
+Warning: Vehicle '16983' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26170.00.
+Warning: Removing junction collision participants: vehicle '11042', vehicle '11134', lane=':7749_4_0', gap=-1.00, time=26170.00 stage=move.
+Warning: Vehicle '18988' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26171.00.
+Warning: Removing junction collision participants: vehicle '11061', vehicle '11282', lane=':7749_4_0', gap=-1.00, time=26172.50 stage=move.
+Warning: Vehicle '10329' performs emergency braking on lane '7574_2' with decel=9.00, wished=4.50, severity=1.00, time=26173.00.
+Warning: Removing junction collision participants: vehicle '10562', vehicle '14714', lane=':7746_0_2', gap=-1.00, time=26174.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11262', vehicle '10751', lane=':7749_1_0', gap=-1.00, time=26174.50 stage=move.
+Warning: Vehicle '16279' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26176.00.
+Warning: Vehicle '14030' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26177.50.
+Warning: Removing collision participants: vehicle '14030', vehicle '14522', lane='7539_0', gap=-0.92, time=26178.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11057', vehicle '10968', lane=':7749_4_0', gap=-1.00, time=26179.50 stage=move.
+Warning: Vehicle '18210' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26180.50.
+Warning: Vehicle '11263' performs emergency braking on lane '10324_0' with decel=9.00, wished=4.50, severity=1.00, time=26181.00.
+Warning: Removing junction collision participants: vehicle '11123', vehicle '11263', lane=':7749_4_0', gap=-1.00, time=26185.00 stage=move.
+Warning: Vehicle '13869' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26186.00.
+Warning: Vehicle '13701' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26194.00.
+Warning: Vehicle '13775' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26196.50.
+Warning: Vehicle '13809' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26199.50.
+Warning: Removing junction collision participants: vehicle '17749', vehicle '18816', lane=':7734_4_0', gap=-1.00, time=26204.50 stage=move.
+Warning: Removing junction collision participants: vehicle '16760', vehicle '13654', lane=':7734_4_0', gap=-1.00, time=26213.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11448', vehicle '13866', lane=':7739_3_1', gap=-1.00, time=26214.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11385', vehicle '10733', lane=':7749_1_0', gap=-1.00, time=26216.50 stage=move.
+Warning: Vehicle '13894' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26217.00.
+Warning: Removing junction collision participants: vehicle '13894', vehicle '15776', lane=':7734_0_0', gap=-1.00, time=26217.00 stage=move.
+Warning: Vehicle '16031' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26219.50.
+Warning: Vehicle '13743' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26220.00.
+Warning: Removing junction collision participants: vehicle '18415', vehicle '11274', lane=':7749_5_1', gap=-1.00, time=26220.00 stage=move.
+Warning: Vehicle '18273' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=26220.50.
+Warning: Removing junction collision participants: vehicle '13743', vehicle '17308', lane=':7734_0_0', gap=-1.00, time=26221.50 stage=move.
+Warning: Removing junction collision participants: vehicle '16615', vehicle '17090', lane=':7734_4_1', gap=-1.00, time=26223.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18715', vehicle '16101', lane=':7734_0_0', gap=-1.00, time=26223.50 stage=move.
+Warning: Vehicle '15741' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26229.00.
+Warning: Removing junction collision participants: vehicle '11517', vehicle '18480', lane=':7739_3_1', gap=-1.00, time=26229.00 stage=move.
+Warning: Removing collision participants: vehicle '15741', vehicle '18887', lane='7539_0', gap=-2.54, time=26229.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10938', vehicle '10175', lane=':7749_5_0', gap=-1.00, time=26232.50 stage=laneChange.
+Warning: Removing junction collision participants: vehicle '18171', vehicle '15820', lane=':7734_4_1', gap=-1.00, time=26238.00 stage=move.
+Warning: Vehicle '11534' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=26241.00.
+Warning: Removing junction collision participants: vehicle '10164', vehicle '10776', lane=':7749_4_0', gap=-1.00, time=26249.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10101', vehicle '10796', lane=':7749_4_0', gap=-1.00, time=26253.00 stage=move.
+Warning: Removing collision participants: vehicle '15772', vehicle '18857', lane='7539_0', gap=-4.75, time=26260.00 stage=move.
+Warning: Vehicle '17677' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26262.50.
+Warning: Vehicle '11602' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26269.50.
+Warning: Vehicle '15051' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26270.50.
+Warning: Removing junction collision participants: vehicle '10151', vehicle '10985', lane=':7749_4_0', gap=-1.00, time=26270.50 stage=move.
+Warning: Vehicle '11610' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26271.50.
+Warning: Vehicle '13858' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26274.50.
+Warning: Vehicle '17219' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26276.50.
+Warning: Removing junction collision participants: vehicle '10183', vehicle '10912', lane=':7749_4_0', gap=-1.00, time=26277.00 stage=move.
+Warning: Vehicle '13653' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26277.50.
+Warning: Vehicle '17340' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26278.50.
+Warning: Vehicle '18698' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26280.00.
+Warning: Vehicle '12231' performs emergency braking on lane ':7801_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26280.50.
+Warning: Removing junction collision participants: vehicle '10108', vehicle '10927', lane=':7749_4_0', gap=-1.00, time=26287.00 stage=move.
+Warning: Removing junction collision participants: vehicle '17654', vehicle '18891', lane=':7734_4_0', gap=-1.00, time=26292.50 stage=move.
+Warning: Vehicle '13763' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26296.50.
+Warning: Vehicle '17432' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26299.00.
+Warning: Removing junction collision participants: vehicle '14264', vehicle '18499', lane=':7734_0_0', gap=-1.00, time=26304.50 stage=move.
+Warning: Vehicle '17122' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26309.00.
+Warning: Removing junction collision participants: vehicle '14904', vehicle '16160', lane=':7734_4_1', gap=-1.00, time=26318.50 stage=move.
+Warning: Vehicle '17334' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26319.50.
+Warning: Vehicle '15113' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26320.00.
+Warning: Removing junction collision participants: vehicle '12377', vehicle '13402', lane=':6281_1_0', gap=-1.00, time=26321.00 stage=move.
+Warning: Vehicle '17640' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26321.50.
+Warning: Removing junction collision participants: vehicle '11415', vehicle '10819', lane=':7749_1_0', gap=-1.00, time=26321.50 stage=move.
+Warning: Removing junction collision participants: vehicle '10488', vehicle '14840', lane=':7746_0_2', gap=-1.00, time=26330.00 stage=move.
+Warning: Vehicle '15949' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26331.00.
+Warning: Removing junction collision participants: vehicle '11221', vehicle '10763', lane=':7749_1_0', gap=-1.00, time=26331.00 stage=move.
+Warning: Vehicle '10448' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26332.50.
+Warning: Vehicle '16984' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26333.50.
+Warning: Vehicle '17726' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26334.00.
+Warning: Removing junction collision participants: vehicle '11218', vehicle '13890', lane=':7749_1_0', gap=-1.00, time=26336.50 stage=move.
+Warning: Removing junction collision participants: vehicle '11244', vehicle '10595', lane=':7749_1_0', gap=-1.00, time=26338.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12460', vehicle '12294', lane=':6316_0_0', gap=-1.00, time=26341.50 stage=move.
+Warning: Vehicle '16554' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26342.00.
+Warning: Removing junction collision participants: vehicle '11256', vehicle '10840', lane=':7749_1_0', gap=-1.00, time=26343.00 stage=move.
+Warning: Vehicle '18855' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26343.50.
+Warning: Vehicle '18777' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26345.50.
+Warning: Vehicle '17636' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26347.50.
+Warning: Vehicle '16419' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26347.50.
+Warning: Removing junction collision participants: vehicle '16419', vehicle '18777', lane=':7734_4_0', gap=-1.00, time=26347.50 stage=move.
+Warning: Vehicle '18879' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26352.50.
+Warning: Removing junction collision participants: vehicle '11307', vehicle '10676', lane=':7749_1_0', gap=-1.00, time=26353.00 stage=move.
+Warning: Vehicle '18926' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26358.50.
+Warning: Vehicle '14324' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26359.00.
+Warning: Vehicle '13784' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26361.50.
+Warning: Vehicle '14491' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26362.50.
+Warning: Vehicle '13779' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26363.50.
+Warning: Vehicle '14018' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26366.50.
+Warning: Removing junction collision participants: vehicle '12182', vehicle '13577', lane=':6316_0_0', gap=-1.00, time=26367.00 stage=move.
+Warning: Vehicle '15002' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26368.00.
+Warning: Vehicle '16034' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26368.00.
+Warning: Removing junction collision participants: vehicle '10126', vehicle '11341', lane=':7749_4_0', gap=-1.00, time=26369.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12189', vehicle '13335', lane=':6316_0_0', gap=-1.00, time=26371.00 stage=move.
+Warning: Vehicle '18845' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26373.50.
+Warning: Vehicle '13750' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26376.00.
+Warning: Vehicle '18698' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26377.00.
+Warning: Vehicle '19196' performs emergency braking on lane '7585_0' with decel=9.00, wished=4.50, severity=1.00, time=26378.50.
+Warning: Removing junction collision participants: vehicle '12140', vehicle '13166', lane=':6316_0_0', gap=-1.00, time=26381.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16713', vehicle '13823', lane=':7734_4_0', gap=-1.00, time=26381.50 stage=move.
+Warning: Removing junction collision participants: vehicle '17768', vehicle '13767', lane=':7734_4_0', gap=-1.00, time=26383.50 stage=move.
+Warning: Removing junction collision participants: vehicle '15155', vehicle '14303', lane=':7734_4_0', gap=-1.00, time=26385.50 stage=move.
+Warning: Vehicle '14606' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26387.50.
+Warning: Removing junction collision participants: vehicle '11870', vehicle '18462', lane=':7739_3_1', gap=-1.00, time=26388.00 stage=move.
+Warning: Vehicle '18830' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26392.50.
+Warning: Vehicle '17616' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26393.50.
+Warning: Vehicle '13734' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26400.50.
+Warning: Vehicle '18392' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26401.50.
+Warning: Vehicle '14606' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26402.50.
+Warning: Vehicle '13657' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26402.50.
+Warning: Removing junction collision participants: vehicle '14606', vehicle '13913', lane=':6411_1_0', gap=-1.00, time=26402.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14394', vehicle '15361', lane=':7734_4_1', gap=-1.00, time=26404.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13657', vehicle '18398', lane=':7734_0_0', gap=-1.00, time=26404.00 stage=move.
+Warning: Removing collision participants: vehicle '17980', vehicle '15585', lane='7539_1', gap=-4.81, time=26406.00 stage=move.
+Warning: Vehicle '17395' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=26408.00.
+Warning: Vehicle '18745' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26410.00.
+Warning: Vehicle '11676' performs emergency braking on lane '7763_0' with decel=9.00, wished=4.50, severity=1.00, time=26411.50.
+Warning: Removing junction collision participants: vehicle '10168', vehicle '10648', lane=':7749_4_0', gap=-1.00, time=26411.50 stage=move.
+Warning: Vehicle '16219' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26417.50.
+Warning: Vehicle '18950' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26430.50.
+Warning: Vehicle '19146' performs emergency braking on lane ':7751_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26447.50.
+Warning: Vehicle '13781' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26449.00.
+Warning: Vehicle '18516' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26449.50.
+Warning: Vehicle '10422' performs emergency braking on lane ':7254_1_1' with decel=9.00, wished=4.50, severity=1.00, time=26453.50.
+Warning: Vehicle '13666' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26454.00.
+Warning: Vehicle '13794' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26456.50.
+Warning: Vehicle '12301' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26458.50.
+Warning: Vehicle '13803' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26464.00.
+Warning: Vehicle '13803' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26465.50.
+Warning: Removing junction collision participants: vehicle '13608', vehicle '13089', lane=':6281_0_0', gap=-1.00, time=26465.50 stage=move.
+Warning: Vehicle '13481' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26467.00.
+Warning: Removing collision participants: vehicle '13769', vehicle '14319', lane='7539_0', gap=-3.54, time=26468.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14025', vehicle '15027', lane=':7734_0_0', gap=-1.00, time=26470.00 stage=move.
+Warning: Vehicle '13742' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26473.00.
+Warning: Removing collision participants: vehicle '13742', vehicle '17942', lane='7539_0', gap=-2.18, time=26473.00 stage=move.
+Warning: Vehicle '13568' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26476.00.
+Warning: Vehicle '13820' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26476.00.
+Warning: Vehicle '13825' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26477.50.
+Warning: Vehicle '13935' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26478.00.
+Warning: Vehicle '17548' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26479.50.
+Warning: Removing junction collision participants: vehicle '17548', vehicle '13935', lane=':7734_4_0', gap=-1.00, time=26479.50 stage=move.
+Warning: Removing junction collision participants: vehicle '14309', vehicle '16737', lane=':7734_0_0', gap=-1.00, time=26481.00 stage=move.
+Warning: Vehicle '10420' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26484.50.
+Warning: Removing junction collision participants: vehicle '11254', vehicle '18493', lane=':7749_1_0', gap=-1.00, time=26484.50 stage=move.
+Warning: Vehicle '13790' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26486.00.
+Warning: Vehicle '15789' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26487.00.
+Warning: Vehicle '17199' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26494.00.
+Warning: Removing junction collision participants: vehicle '11302', vehicle '18555', lane=':7749_1_0', gap=-1.00, time=26495.00 stage=move.
+Warning: Vehicle '16282' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26496.00.
+Warning: Vehicle '14504' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26499.00.
+Warning: Vehicle '18590' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26502.00.
+Warning: Removing junction collision participants: vehicle '18590', vehicle '17618', lane=':7734_0_0', gap=-1.00, time=26502.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12944', vehicle '14340', lane=':7253_2_0', gap=-1.00, time=26502.00 stage=move.
+Warning: Vehicle '10374' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26502.50.
+Warning: Vehicle '18755' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26505.00.
+Warning: Vehicle '15758' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26506.50.
+Warning: Vehicle '18755' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26506.50.
+Warning: Removing junction collision participants: vehicle '18862', vehicle '14519', lane=':7734_0_0', gap=-1.00, time=26507.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14575', vehicle '18693', lane=':7734_4_0', gap=-1.00, time=26511.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11321', vehicle '19149', lane=':7749_1_0', gap=-1.00, time=26512.50 stage=move.
+Warning: Vehicle '16663' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26515.00.
+Warning: Removing junction collision participants: vehicle '11306', vehicle '10103', lane=':7749_1_0', gap=-1.00, time=26515.00 stage=move.
+Warning: Vehicle '18776' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26516.00.
+Warning: Vehicle '17598' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26517.00.
+Simulation ended at time: 26519.50
+Performance: 
+ Duration: 56.84s
+ TraCI-Duration: 34.43s
+ Real time factor: 23.2127
+ UPS: 31171.240588
+Vehicles: 
+ Inserted: 3181 (Loaded: 3608)
+ Running: 940
+ Waiting: 206
+ Teleports: 0 (Collisions: 232)
+
+DijkstraRouter answered 3833 queries and explored 55.08 edges on average.
+DijkstraRouter spent 0.05s answering queries (0.01ms on average).

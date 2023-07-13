@@ -1,0 +1,18 @@
+<configuration>
+    <input>
+        <net-file value="../gharrafa.net.xml"/>
+        <route-files value="../od_002.rou.xml"/>
+        <gui-settings-file value="../gui.settings.xml"/>
+	<additional-files value="../e1test.xml"/>
+
+    </input>
+    <time>
+        <begin value="25200"/>
+        <end value="28800"/>
+    </time>
+    <traci_server>
+  	<remote-port value="8813"/>
+    </traci_server>
+
+
+</configuration>

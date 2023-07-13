@@ -1,0 +1,1338 @@
+***Starting server on port 53722 ***
+Loading net-file from 'gharrafa.net.xml' ... done (29ms).
+Loading additional-files from 'gharrafa_taz.xml' ... done (1ms).
+Loading done.
+Simulation started with time: 25200.00.
+Warning: Vehicle '10677' performs emergency braking on lane ':7252_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25291.00.
+Warning: Vehicle '10619' performs emergency braking on lane '7593_0' with decel=9.00, wished=4.50, severity=1.00, time=25294.00.
+Warning: Removing collision participants: vehicle '18900', vehicle '18141', lane='7539_1', gap=-4.35, time=25324.00 stage=move.
+Warning: Teleporting vehicle '11509'; waited too long (yield), lane='7562_2', time=25325.00.
+Warning: Vehicle '11509' ends teleporting on edge '7553', time=25325.00.
+Warning: Removing junction collision participants: vehicle '18922', vehicle '15750', lane=':7734_0_2', gap=-1.00, time=25332.00 stage=move.
+Warning: Removing collision participants: vehicle '16987', vehicle '18895', lane='7539_1', gap=-4.62, time=25334.00 stage=move.
+Warning: Teleporting vehicle '14369'; waited too long (yield), lane='7547_0', time=25341.00.
+Warning: Removing collision participants: vehicle '14589', vehicle '18741', lane='7539_0', gap=-3.83, time=25341.00 stage=move.
+Warning: Vehicle '14369' ends teleporting on edge '7548', time=25341.00.
+Warning: Removing collision participants: vehicle '13757', vehicle '15348', lane='7539_0', gap=-3.87, time=25368.00 stage=move.
+Warning: Teleporting vehicle '14529'; waited too long (yield), lane='7547_1', time=25369.00.
+Warning: Vehicle '14529' ends teleporting on edge '7548', time=25369.00.
+Warning: Teleporting vehicle '19110'; waited too long (yield), lane='7591_0', time=25373.00.
+Warning: Vehicle '19110' ends teleporting on edge '6041', time=25373.00.
+Warning: Removing junction collision participants: vehicle '15962', vehicle '13711', lane=':7734_4_0', gap=-1.00, time=25376.00 stage=move.
+Warning: Teleporting vehicle '11618'; waited too long (yield), lane='7562_2', time=25391.00.
+Warning: Vehicle '11618' ends teleporting on edge '7553', time=25391.00.
+Warning: Teleporting vehicle '19106'; waited too long (yield), lane='7591_0', time=25400.00.
+Warning: Vehicle '19106' ends teleporting on edge '6041', time=25400.00.
+Warning: Vehicle '16835' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25401.00.
+Warning: Teleporting vehicle '10295'; waited too long (yield), lane='6040_0', time=25405.00.
+Warning: Teleporting vehicle '19045'; waited too long (yield), lane='6044_0', time=25405.00.
+Warning: Vehicle '19045' ends teleporting on edge '6039', time=25405.00.
+Warning: Vehicle '10295' ends teleporting on edge '7593', time=25405.00.
+Warning: Teleporting vehicle '10833'; waited too long (yield), lane='6040_2', time=25406.00.
+Warning: Teleporting vehicle '12485'; waited too long (yield), lane='7560_0', time=25406.00.
+Warning: Vehicle '12485' ends teleporting on edge '7555', time=25406.00.
+Warning: Vehicle '10833' ends teleporting on edge '7593', time=25406.00.
+Warning: Teleporting vehicle '10665'; waited too long (yield), lane='6040_1', time=25407.00.
+Warning: Vehicle '10665' ends teleporting on edge '7593', time=25407.00.
+Warning: Removing junction collision participants: vehicle '18918', vehicle '18114', lane=':7734_0_2', gap=-1.00, time=25409.00 stage=move.
+Warning: Removing junction collision participants: vehicle '15250', vehicle '16105', lane=':7734_0_2', gap=-1.00, time=25413.00 stage=move.
+Warning: Teleporting vehicle '10064'; waited too long (yield), lane='6040_0', time=25414.00.
+Warning: Vehicle '14332' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25414.00.
+Warning: Vehicle '10064' ends teleporting on edge '7593', time=25414.00.
+Warning: Teleporting vehicle '12288'; waited too long (yield), lane='7560_2', time=25415.00.
+Warning: Vehicle '12288' ends teleporting on edge '7555', time=25415.00.
+Warning: Teleporting vehicle '12371'; waited too long (yield), lane='7560_2', time=25417.00.
+Warning: Vehicle '12371' ends teleporting on edge '7555', time=25417.00.
+Warning: Removing junction collision participants: vehicle '15573', vehicle '15679', lane=':7734_4_1', gap=-1.00, time=25419.00 stage=move.
+Warning: Removing collision participants: vehicle '18199', vehicle '15852', lane='7539_1', gap=-3.47, time=25424.00 stage=move.
+Warning: Removing collision participants: vehicle '17473', vehicle '16372', lane='7539_1', gap=-3.96, time=25429.00 stage=move.
+Warning: Vehicle '16131' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25432.00.
+Warning: Removing collision participants: vehicle '16131', vehicle '17027', lane='7539_1', gap=-4.90, time=25433.00 stage=move.
+Warning: Removing collision participants: vehicle '18915', vehicle '15658', lane='7539_1', gap=-3.44, time=25435.00 stage=move.
+Warning: Removing collision participants: vehicle '15735', vehicle '16790', lane='7539_1', gap=-0.53, time=25440.00 stage=move.
+Warning: Vehicle '16268' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25444.00.
+Warning: Teleporting vehicle '11187'; waited too long (yield), lane='7574_0', time=25448.00.
+Warning: Vehicle '11187' ends teleporting on edge '7550', time=25448.00.
+Warning: Teleporting vehicle '10430'; waited too long (yield), lane='7574_0', time=25449.00.
+Warning: Vehicle '10430' ends teleporting on edge '7550', time=25449.00.
+Warning: Teleporting vehicle '10478'; waited too long (yield), lane='7574_2', time=25450.00.
+Warning: Vehicle '10478' ends teleporting on edge '7550', time=25450.00.
+Warning: Vehicle '12288' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=25452.00.
+Warning: Teleporting vehicle '18803'; waited too long (yield), lane='7547_1', time=25463.00.
+Warning: Vehicle '18803' ends teleporting on edge '7548', time=25463.00.
+Warning: Teleporting vehicle '14581'; waited too long (yield), lane='7547_0', time=25465.00.
+Warning: Vehicle '14581' ends teleporting on edge '7548', time=25465.00.
+Warning: Removing collision participants: vehicle '15281', vehicle '18931', lane='7539_1', gap=-3.69, time=25467.00 stage=move.
+Warning: Vehicle '10430' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25468.00.
+Warning: Teleporting vehicle '16302'; waited too long (yield), lane='7535_1', time=25469.00.
+Warning: Vehicle '16302' ends teleporting on edge '6123', time=25469.00.
+Warning: Vehicle '16302' performs emergency braking on lane '6123_0' with decel=9.00, wished=4.50, severity=1.00, time=25471.00.
+Warning: Teleporting vehicle '18364'; waited too long (yield), lane='7547_2', time=25471.00.
+Warning: Vehicle '18364' ends teleporting on edge '7548', time=25471.00.
+Warning: Vehicle '11566' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25477.00.
+Warning: Teleporting vehicle '13237'; waited too long (yield), lane='12527_1', time=25480.00.
+Warning: Vehicle '13237' ends teleporting on edge '7680', time=25480.00.
+Warning: Teleporting vehicle '11873'; waited too long (yield), lane='7562_2', time=25486.00.
+Warning: Vehicle '11873' ends teleporting on edge '7553', time=25486.00.
+Warning: Teleporting vehicle '11851'; waited too long (yield), lane='7562_2', time=25491.00.
+Warning: Vehicle '11851' ends teleporting on edge '7553', time=25491.00.
+Warning: Vehicle '15927' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25495.00.
+Warning: Teleporting vehicle '14653'; waited too long (yield), lane='7591_0', time=25508.00.
+Warning: Vehicle '14653' ends teleporting on edge '6041', time=25508.00.
+Warning: Vehicle '15245' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25522.00.
+Warning: Teleporting vehicle '12961'; waited too long (yield), lane='7560_1', time=25526.00.
+Warning: Removing junction collision participants: vehicle '12773', vehicle '12608', lane=':6316_0_0', gap=-1.00, time=25526.00 stage=move.
+Warning: Vehicle '12961' ends teleporting on edge '7555', time=25526.00.
+Warning: Teleporting vehicle '18653'; waited too long (yield), lane='7547_1', time=25527.00.
+Warning: Vehicle '18653' ends teleporting on edge '7548', time=25527.00.
+Warning: Teleporting vehicle '13682'; waited too long (yield), lane='7547_0', time=25529.00.
+Warning: Vehicle '13682' ends teleporting on edge '7548', time=25529.00.
+Warning: Teleporting vehicle '13343'; waited too long (yield), lane='7560_2', time=25530.00.
+Warning: Vehicle '13343' ends teleporting on edge '7555', time=25530.00.
+Warning: Teleporting vehicle '19127'; waited too long (yield), lane='7591_0', time=25534.00.
+Warning: Vehicle '19127' ends teleporting on edge '6041', time=25534.00.
+Warning: Teleporting vehicle '12288'; waited too long (yield), lane='6044_0', time=25536.00.
+Warning: Vehicle '12288' ends teleporting on edge '6039', time=25536.00.
+Warning: Vehicle '14284' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25550.00.
+Warning: Teleporting vehicle '13261'; waited too long (yield), lane='7560_0', time=25552.00.
+Warning: Vehicle '13261' ends teleporting on edge '7555', time=25552.00.
+Warning: Removing junction collision participants: vehicle '11656', vehicle '12209', lane=':7800_4_0', gap=-1.00, time=25556.00 stage=move.
+Warning: Teleporting vehicle '11883'; waited too long (yield), lane='7562_2', time=25557.00.
+Warning: Vehicle '11883' ends teleporting on edge '7553', time=25557.00.
+Warning: Teleporting vehicle '17837'; waited too long (yield), lane='7535_1', time=25559.00.
+Warning: Vehicle '17837' ends teleporting on edge '6123', time=25559.00.
+Warning: Removing junction collision participants: vehicle '13277', vehicle '13336', lane=':6316_0_0', gap=-1.00, time=25560.00 stage=move.
+Warning: Vehicle '14277' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25562.00.
+Warning: Vehicle '18690' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25563.00.
+Warning: Removing collision participants: vehicle '16267', vehicle '18905', lane='7539_1', gap=-3.60, time=25563.00 stage=move.
+Warning: Vehicle '14641' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25564.00.
+Warning: Teleporting vehicle '11565'; waited too long (jam), lane='7562_2', time=25565.00.
+Warning: Removing junction collision participants: vehicle '19016', vehicle '14641', lane=':7734_0_0', gap=-1.00, time=25565.00 stage=move.
+Warning: Vehicle '11565' ends teleporting on edge '7553', time=25565.00.
+Warning: Teleporting vehicle '13295'; waited too long (yield), lane='12527_1', time=25568.00.
+Warning: Vehicle '13295' ends teleporting on edge '7680', time=25568.00.
+Warning: Vehicle '18643' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25571.00.
+Warning: Teleporting vehicle '10831'; waited too long (yield), lane='6040_0', time=25573.00.
+Warning: Vehicle '10831' ends teleporting on edge '7593', time=25573.00.
+Warning: Removing junction collision participants: vehicle '13834', vehicle '18104', lane=':7734_0_0', gap=-1.00, time=25574.00 stage=move.
+Warning: Teleporting vehicle '10644'; waited too long (yield), lane='6040_1', time=25577.00.
+Warning: Vehicle '10644' ends teleporting on edge '7593', time=25577.00.
+Warning: Teleporting vehicle '10769'; waited too long (yield), lane='6040_0', time=25578.00.
+Warning: Vehicle '17571' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25578.00.
+Warning: Vehicle '10769' ends teleporting on edge '7593', time=25578.00.
+Warning: Teleporting vehicle '10152'; waited too long (yield), lane='6040_2', time=25580.00.
+Warning: Teleporting vehicle '13026'; waited too long (yield), lane='12527_2', time=25580.00.
+Warning: Removing junction collision participants: vehicle '17323', vehicle '14273', lane=':7734_4_0', gap=-1.00, time=25580.00 stage=move.
+Warning: Vehicle '13026' ends teleporting on edge '7680', time=25580.00.
+Warning: Vehicle '10152' ends teleporting on edge '7593', time=25580.00.
+Warning: Vehicle '17837' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25581.00.
+Warning: Vehicle '19209' performs emergency braking on lane '7580_0' with decel=9.00, wished=4.50, severity=1.00, time=25583.00.
+Warning: Teleporting vehicle '15606'; waited too long (yield), lane='8112_0', time=25583.00.
+Warning: Vehicle '15606' ends teleporting on edge '7535', time=25583.00.
+Warning: Removing junction collision participants: vehicle '13236', vehicle '13326', lane=':6316_0_0', gap=-1.00, time=25585.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18817', vehicle '15603', lane=':7734_0_0', gap=-1.00, time=25588.00 stage=move.
+Warning: Vehicle '18810' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25591.00.
+Warning: Vehicle '19004' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25592.00.
+Warning: Vehicle '14547' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25593.00.
+Warning: Teleporting vehicle '12012'; waited too long (yield), lane='7560_2', time=25594.00.
+Warning: Vehicle '12012' ends teleporting on edge '7555', time=25595.00.
+Warning: Teleporting vehicle '12604'; waited too long (yield), lane='7560_2', time=25596.00.
+Warning: Removing junction collision participants: vehicle '14547', vehicle '13637', lane=':7734_4_0', gap=-1.00, time=25596.00 stage=move.
+Warning: Vehicle '12604' ends teleporting on edge '7555', time=25596.00.
+Warning: Removing junction collision participants: vehicle '14610', vehicle '17402', lane=':7734_4_1', gap=-1.00, time=25598.00 stage=move.
+Warning: Teleporting vehicle '16154'; waited too long (yield), lane='8112_0', time=25600.00.
+Warning: Vehicle '16154' ends teleporting on edge '7535', time=25600.00.
+Warning: Teleporting vehicle '15273'; waited too long (yield), lane='8112_0', time=25601.00.
+Warning: Removing collision participants: vehicle '18846', vehicle '18195', lane='7539_0', gap=-4.48, time=25601.00 stage=move.
+Warning: Teleporting vehicle '17258'; waited too long (yield), lane='8112_0', time=25602.00.
+Warning: Vehicle '15273' ends teleporting on edge '7535', time=25602.00.
+Warning: Teleporting vehicle '17848'; waited too long (yield), lane='8112_0', time=25603.00.
+Warning: Removing junction collision participants: vehicle '13179', vehicle '13245', lane=':6316_1_0', gap=-1.00, time=25603.00 stage=move.
+Warning: Vehicle '17258' ends teleporting on edge '7535', time=25603.00.
+Warning: Teleporting vehicle '17429'; waited too long (yield), lane='8112_0', time=25604.00.
+Warning: Vehicle '17848' ends teleporting on edge '7535', time=25604.00.
+Warning: Teleporting vehicle '17077'; waited too long (yield), lane='8112_0', time=25605.00.
+Warning: Teleporting vehicle '11470'; waited too long (yield), lane='7574_0', time=25605.00.
+Warning: Vehicle '11470' ends teleporting on edge '7550', time=25605.00.
+Warning: Vehicle '15117' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25606.00.
+Warning: Teleporting vehicle '16552'; waited too long (yield), lane='8112_0', time=25606.00.
+Warning: Vehicle '17429' ends teleporting on edge '7535', time=25606.00.
+Warning: Vehicle '17077' ends teleporting on edge '7535', time=25608.00.
+Warning: Teleporting vehicle '10390'; waited too long (yield), lane='7574_2', time=25609.00.
+Warning: Vehicle '10390' ends teleporting on edge '7550', time=25609.00.
+Warning: Vehicle '15450' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25610.00.
+Warning: Teleporting vehicle '10833'; waited too long (yield), lane='7574_2', time=25610.00.
+Warning: Vehicle '10833' ends teleporting on edge '7550', time=25610.00.
+Warning: Teleporting vehicle '14329'; waited too long (yield), lane='8112_0', time=25612.00.
+Warning: Teleporting vehicle '17442'; waited too long (yield), lane='8112_0', time=25613.00.
+Warning: Removing junction collision participants: vehicle '17582', vehicle '15606', lane=':7734_4_1', gap=-1.00, time=25613.00 stage=move.
+Warning: Vehicle '18713' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25614.00.
+Warning: Vehicle '18829' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25615.00.
+Warning: Removing junction collision participants: vehicle '18829', vehicle '14448', lane=':7734_0_0', gap=-1.00, time=25615.00 stage=move.
+Warning: Vehicle '18617' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25619.00.
+Warning: Vehicle '16458' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25620.00.
+Warning: Vehicle '16232' performs emergency braking on lane ':7734_4_1' with decel=9.00, wished=4.50, severity=1.00, time=25621.00.
+Warning: Teleporting vehicle '12019'; waited too long (yield), lane='7544_2', time=25621.00.
+Warning: Vehicle '12019' ends teleporting on edge '7671', time=25621.00.
+Warning: Vehicle '16849' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25622.00.
+Warning: Teleporting vehicle '13640'; waited too long (yield), lane='7547_1', time=25624.00.
+Warning: Teleporting vehicle '19019'; waited too long (yield), lane='7547_0', time=25624.00.
+Warning: Vehicle '19019' ends teleporting on edge '7548', time=25624.00.
+Warning: Vehicle '13640' ends teleporting on edge '7548', time=25624.00.
+Warning: Vehicle '18814' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25635.00.
+Warning: Vehicle '16552' ends teleporting on edge '6123', time=25640.00.
+Warning: Removing junction collision participants: vehicle '18610', vehicle '13655', lane=':7734_4_0', gap=-1.00, time=25641.00 stage=move.
+Warning: Teleporting vehicle '18380'; waited too long (yield), lane='7547_2', time=25643.00.
+Warning: Vehicle '18380' ends teleporting on edge '7548', time=25643.00.
+Warning: Vehicle '12686' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25644.00.
+Warning: Removing collision participants: vehicle '16595', vehicle '13688', lane='7539_0', gap=-3.01, time=25645.00 stage=move.
+Warning: Teleporting vehicle '12116'; waited too long (yield), lane='7544_2', time=25646.00.
+Warning: Vehicle '15183' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25646.00.
+Warning: Vehicle '12116' ends teleporting on edge '7671', time=25646.00.
+Warning: Vehicle '13815' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25648.00.
+Warning: Removing collision participants: vehicle '18697', vehicle '15921', lane='7539_0', gap=-2.64, time=25651.00 stage=move.
+Warning: Vehicle '18804' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25653.00.
+Warning: Vehicle '12971' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25655.00.
+Warning: Removing junction collision participants: vehicle '18957', vehicle '15220', lane=':7734_0_0', gap=-1.00, time=25655.00 stage=move.
+Warning: Removing collision participants: vehicle '13866', vehicle '16437', lane='7539_0', gap=-4.88, time=25657.00 stage=move.
+Warning: Vehicle '14329' ends teleporting on edge '7535', time=25657.00.
+Warning: Vehicle '17442' ends teleporting on edge '7535', time=25661.00.
+Warning: Teleporting vehicle '11615'; waited too long (yield), lane='7562_2', time=25662.00.
+Warning: Removing collision participants: vehicle '16552', vehicle '17541', lane='7539_1', gap=-4.21, time=25662.00 stage=move.
+Warning: Vehicle '11615' ends teleporting on edge '7553', time=25662.00.
+Warning: Removing junction collision participants: vehicle '13835', vehicle '17969', lane=':7734_0_0', gap=-1.00, time=25663.00 stage=move.
+Warning: Vehicle '18813' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25666.00.
+Warning: Removing junction collision participants: vehicle '15219', vehicle '18813', lane=':7734_4_0', gap=-1.00, time=25666.00 stage=move.
+Warning: Teleporting vehicle '11488'; waited too long (yield), lane='6042_1', time=25670.00.
+Warning: Vehicle '11488' ends teleporting on edge '6045', time=25670.00.
+Warning: Vehicle '18810' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25671.00.
+Warning: Removing collision participants: vehicle '13841', vehicle '15544', lane='7539_0', gap=-0.71, time=25675.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13295', vehicle '12939', lane=':6316_0_0', gap=-1.00, time=25677.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10089', vehicle '10952', lane=':7749_4_0', gap=-1.00, time=25678.00 stage=move.
+Warning: Teleporting vehicle '17077'; waited too long (yield), lane='7535_0', time=25679.00.
+Warning: Vehicle '18937' performs emergency braking on lane '7539_1' with decel=9.00, wished=4.50, severity=1.00, time=25679.00.
+Warning: Vehicle '17077' ends teleporting on edge '6123', time=25679.00.
+Warning: Vehicle '10686' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=25682.00.
+Warning: Vehicle '18977' performs emergency braking on lane ':6404_0_0' with decel=9.00, wished=4.50, severity=1.00, time=25682.00.
+Warning: Vehicle '15983' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25683.00.
+Warning: Vehicle '10559' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25685.00.
+Warning: Removing junction collision participants: vehicle '17177', vehicle '17974', lane=':7734_4_1', gap=-1.00, time=25685.00 stage=move.
+Warning: Teleporting vehicle '12910'; waited too long (yield), lane='7560_1', time=25688.00.
+Warning: Vehicle '12910' ends teleporting on edge '7555', time=25688.00.
+Warning: Teleporting vehicle '14282'; waited too long (yield), lane='7547_0', time=25689.00.
+Warning: Vehicle '14282' ends teleporting on edge '7548', time=25689.00.
+Warning: Vehicle '16232' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25690.00.
+Warning: Teleporting vehicle '14584'; waited too long (yield), lane='7547_1', time=25690.00.
+Warning: Vehicle '14584' ends teleporting on edge '7548', time=25690.00.
+Warning: Vehicle '17442' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25691.00.
+Warning: Removing junction collision participants: vehicle '14614', vehicle '17442', lane=':7734_4_1', gap=-1.00, time=25692.00 stage=move.
+Warning: Removing collision participants: vehicle '16154', vehicle '16722', lane='7539_1', gap=-4.08, time=25694.00 stage=move.
+Warning: Teleporting vehicle '14533'; waited too long (yield), lane='6044_0', time=25695.00.
+Warning: Removing junction collision participants: vehicle '12834', vehicle '13514', lane=':6316_0_0', gap=-1.00, time=25695.00 stage=move.
+Warning: Vehicle '14533' ends teleporting on edge '6039', time=25695.00.
+Warning: Removing collision participants: vehicle '17558', vehicle '17163', lane='7539_1', gap=-1.82, time=25696.00 stage=move.
+Warning: Vehicle '14282' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25697.00.
+Warning: Teleporting vehicle '15137'; waited too long (yield), lane='8112_0', time=25697.00.
+Warning: Vehicle '15137' ends teleporting on edge '7535', time=25697.00.
+Warning: Teleporting vehicle '14374'; waited too long (yield), lane='8112_0', time=25698.00.
+Warning: Vehicle '18667' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=25698.00.
+Warning: Vehicle '14374' ends teleporting on edge '7535', time=25698.00.
+Warning: Vehicle '17678' performs emergency braking on lane '7539_1' with decel=9.00, wished=4.50, severity=1.00, time=25699.00.
+Warning: Teleporting vehicle '16967'; waited too long (yield), lane='8112_0', time=25699.00.
+Warning: Vehicle '16967' ends teleporting on edge '7535', time=25699.00.
+Warning: Vehicle '14584' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25700.00.
+Warning: Vehicle '18402' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25700.00.
+Warning: Teleporting vehicle '15839'; waited too long (yield), lane='8112_0', time=25700.00.
+Warning: Vehicle '15839' ends teleporting on edge '7535', time=25700.00.
+Warning: Removing collision participants: vehicle '17182', vehicle '17077', lane='7539_1', gap=-3.26, time=25701.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13521', vehicle '12573', lane=':6281_0_0', gap=-1.00, time=25706.00 stage=move.
+Warning: Removing collision participants: vehicle '18885', vehicle '14771', lane='7539_0', gap=-2.90, time=25711.00 stage=move.
+Warning: Teleporting vehicle '13843'; waited too long (yield), lane='7591_0', time=25712.00.
+Warning: Teleporting vehicle '12282'; waited too long (yield), lane='7560_2', time=25712.00.
+Warning: Teleporting vehicle '12164'; waited too long (yield), lane='7544_2', time=25712.00.
+Warning: Vehicle '12164' ends teleporting on edge '7671', time=25712.00.
+Warning: Vehicle '12282' ends teleporting on edge '7555', time=25712.00.
+Warning: Vehicle '13843' ends teleporting on edge '6041', time=25712.00.
+Warning: Vehicle '18999' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25713.00.
+Warning: Teleporting vehicle '13063'; waited too long (jam), lane=':6316_1_1', time=25715.00.
+Warning: Removing junction collision participants: vehicle '14423', vehicle '18756', lane=':7734_4_0', gap=-1.00, time=25715.00 stage=move.
+Warning: Teleporting vehicle '13591'; waited too long (yield), lane='7560_2', time=25716.00.
+Warning: Vehicle '13591' ends teleporting on edge '7555', time=25716.00.
+Warning: Teleporting vehicle '12654'; waited too long (jam), lane=':6316_1_2', time=25719.00.
+Warning: Removing junction collision participants: vehicle '18913', vehicle '15218', lane=':7734_0_2', gap=-1.00, time=25720.00 stage=move.
+Warning: Teleporting vehicle '12604'; waited too long (yield), lane='7591_1', time=25722.00.
+Warning: Vehicle '12604' ends teleporting on edge '6041', time=25722.00.
+Warning: Removing collision participants: vehicle '17150', vehicle '17917', lane='7539_1', gap=-4.09, time=25723.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13600', vehicle '18736', lane=':7253_2_0', gap=-1.00, time=25725.00 stage=move.
+Warning: Teleporting vehicle '10078'; waited too long (yield), lane='6040_0', time=25730.00.
+Warning: Vehicle '19023' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25730.00.
+Warning: Vehicle '10078' ends teleporting on edge '7593', time=25730.00.
+Warning: Vehicle '18329' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25732.00.
+Warning: Removing junction collision participants: vehicle '14901', vehicle '16070', lane=':7734_4_1', gap=-1.00, time=25735.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13695', vehicle '14747', lane=':7734_0_0', gap=-1.00, time=25735.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13399', vehicle '14438', lane=':7253_2_0', gap=-1.00, time=25735.00 stage=move.
+Warning: Teleporting vehicle '10250'; waited too long (yield), lane='6040_1', time=25736.00.
+Warning: Vehicle '10250' ends teleporting on edge '7593', time=25736.00.
+Warning: Removing collision participants: vehicle '18772', vehicle '14933', lane='7539_0', gap=-0.92, time=25737.00 stage=move.
+Warning: Vehicle '19013' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25739.00.
+Warning: Teleporting vehicle '10910'; waited too long (yield), lane='6040_0', time=25742.00.
+Warning: Vehicle '10910' ends teleporting on edge '7593', time=25742.00.
+Warning: Teleporting vehicle '10312'; waited too long (yield), lane='6040_3', time=25743.00.
+Warning: Removing collision participants: vehicle '13681', vehicle '16848', lane='7539_0', gap=-2.11, time=25743.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12777', vehicle '12872', lane=':6316_0_0', gap=-1.00, time=25743.00 stage=move.
+Warning: Vehicle '10312' ends teleporting on edge '7593', time=25743.00.
+Warning: Vehicle '10312' performs emergency braking on lane ':7252_2_0' with decel=9.00, wished=4.50, severity=1.00, time=25749.00.
+Warning: Vehicle '13063' ends teleporting on edge '7555', time=25750.00.
+Warning: Vehicle '12654' ends teleporting on edge '7555', time=25754.00.
+Warning: Removing junction collision participants: vehicle '16393', vehicle '13853', lane=':7734_4_0', gap=-1.00, time=25756.00 stage=move.
+Warning: Teleporting vehicle '11973'; waited too long (yield), lane='7560_2', time=25757.00.
+Warning: Vehicle '11973' ends teleporting on edge '7555', time=25757.00.
+Warning: Teleporting vehicle '13451'; waited too long (jam), lane='7560_2', time=25760.00.
+Warning: Teleporting vehicle '11328'; waited too long (yield), lane='7544_2', time=25760.00.
+Warning: Vehicle '11328' ends teleporting on edge '7671', time=25760.00.
+Warning: Vehicle '13451' ends teleporting on edge '7555', time=25760.00.
+Warning: Teleporting vehicle '16756'; waited too long (yield), lane='8112_0', time=25763.00.
+Warning: Vehicle '16756' ends teleporting on edge '7535', time=25763.00.
+Warning: Teleporting vehicle '11181'; waited too long (yield), lane='7574_2', time=25764.00.
+Warning: Vehicle '11181' ends teleporting on edge '7550', time=25764.00.
+Warning: Teleporting vehicle '10372'; waited too long (yield), lane='7574_1', time=25768.00.
+Warning: Removing junction collision participants: vehicle '12864', vehicle '12533', lane=':6316_0_0', gap=-1.00, time=25768.00 stage=move.
+Warning: Vehicle '10372' ends teleporting on edge '7550', time=25768.00.
+Warning: Vehicle '16045' performs emergency braking on lane '8111_1' with decel=9.00, wished=4.50, severity=1.00, time=25770.00.
+Warning: Teleporting vehicle '10711'; waited too long (yield), lane='7574_1', time=25774.00.
+Warning: Vehicle '10711' ends teleporting on edge '7550', time=25774.00.
+Warning: Vehicle '18601' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=25776.00.
+Warning: Removing collision participants: vehicle '14374', vehicle '14560', lane='7539_0', gap=-3.98, time=25779.00 stage=move.
+Warning: Teleporting vehicle '18642'; waited too long (yield), lane='7547_0', time=25782.00.
+Warning: Vehicle '18642' ends teleporting on edge '7548', time=25782.00.
+Warning: Removing junction collision participants: vehicle '16516', vehicle '15839', lane=':7734_4_1', gap=-1.00, time=25783.00 stage=move.
+Warning: Teleporting vehicle '14510'; waited too long (yield), lane='7547_1', time=25784.00.
+Warning: Vehicle '14510' ends teleporting on edge '7548', time=25784.00.
+Warning: Vehicle '13584' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=25786.00.
+Warning: Removing junction collision participants: vehicle '16967', vehicle '15751', lane=':7734_0_2', gap=-1.00, time=25787.00 stage=move.
+Warning: Teleporting vehicle '18949'; waited too long (yield), lane='7547_2', time=25789.00.
+Warning: Vehicle '18949' ends teleporting on edge '7548', time=25789.00.
+Warning: Removing collision participants: vehicle '18864', vehicle '16399', lane='7539_0', gap=-4.93, time=25792.00 stage=move.
+Warning: Teleporting vehicle '11494'; waited too long (yield), lane='6042_1', time=25795.00.
+Warning: Removing junction collision participants: vehicle '11058', vehicle '10773', lane=':7749_4_0', gap=-1.00, time=25795.00 stage=move.
+Warning: Vehicle '11494' ends teleporting on edge '6045', time=25795.00.
+Warning: Removing junction collision participants: vehicle '17429', vehicle '16942', lane=':7734_0_2', gap=-1.00, time=25797.00 stage=move.
+Warning: Teleporting vehicle '11881'; waited too long (yield), lane='7562_2', time=25799.00.
+Warning: Vehicle '11881' ends teleporting on edge '7553', time=25799.00.
+Warning: Teleporting vehicle '12438'; waited too long (yield), lane='7544_2', time=25801.00.
+Warning: Vehicle '12438' ends teleporting on edge '7671', time=25801.00.
+Warning: Teleporting vehicle '15591'; waited too long (yield), lane='8112_0', time=25811.00.
+Warning: Removing junction collision participants: vehicle '11060', vehicle '11351', lane=':7749_4_0', gap=-1.00, time=25811.00 stage=move.
+Warning: Vehicle '15591' ends teleporting on edge '7535', time=25811.00.
+Warning: Vehicle '12562' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25813.00.
+Warning: Vehicle '18933' performs emergency braking on lane ':7734_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25816.00.
+Warning: Removing junction collision participants: vehicle '15920', vehicle '18924', lane=':7734_4_1', gap=-1.00, time=25818.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12674', vehicle '13479', lane=':6281_1_0', gap=-1.00, time=25819.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12344', vehicle '11137', lane=':6876_2_0', gap=-1.00, time=25819.00 stage=laneChange.
+Warning: Vehicle '14270' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25821.00.
+Warning: Vehicle '17231' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25822.00.
+Warning: Removing junction collision participants: vehicle '17762', vehicle '14283', lane=':7734_4_0', gap=-1.00, time=25824.00 stage=move.
+Warning: Teleporting vehicle '19177'; waited too long (yield), lane='7591_2', time=25825.00.
+Warning: Vehicle '19177' ends teleporting on edge '7593', time=25825.00.
+Warning: Teleporting vehicle '19137'; waited too long (yield), lane='7591_0', time=25826.00.
+Warning: Removing collision participants: vehicle '14424', vehicle '13765', lane='7539_0', gap=-2.44, time=25826.00 stage=move.
+Warning: Vehicle '19137' ends teleporting on edge '6041', time=25826.00.
+Warning: Removing junction collision participants: vehicle '14288', vehicle '17128', lane=':7734_0_0', gap=-1.00, time=25827.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11120', vehicle '11391', lane=':7749_4_0', gap=-1.00, time=25827.00 stage=move.
+Warning: Removing collision participants: vehicle '13797', vehicle '18290', lane='7539_0', gap=-3.69, time=25829.00 stage=move.
+Warning: Teleporting vehicle '12515'; waited too long (yield), lane='7544_2', time=25831.00.
+Warning: Vehicle '12515' ends teleporting on edge '7671', time=25831.00.
+Warning: Teleporting vehicle '11543'; waited too long (yield), lane='7562_2', time=25832.00.
+Warning: Vehicle '11543' ends teleporting on edge '7553', time=25832.00.
+Warning: Removing collision participants: vehicle '14517', vehicle '14280', lane='7539_0', gap=-4.45, time=25833.00 stage=move.
+Warning: Vehicle '13650' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25845.00.
+Warning: Teleporting vehicle '18623'; waited too long (yield), lane='7547_0', time=25847.00.
+Warning: Vehicle '18623' ends teleporting on edge '7548', time=25847.00.
+Warning: Removing collision participants: vehicle '18754', vehicle '15775', lane='7539_0', gap=-4.34, time=25848.00 stage=move.
+Warning: Teleporting vehicle '13749'; waited too long (yield), lane='7547_1', time=25849.00.
+Warning: Vehicle '13749' ends teleporting on edge '7548', time=25849.00.
+Warning: Teleporting vehicle '13414'; waited too long (yield), lane='7560_1', time=25851.00.
+Warning: Vehicle '13414' ends teleporting on edge '7555', time=25851.00.
+Warning: Teleporting vehicle '18892'; waited too long (yield), lane='7591_1', time=25853.00.
+Warning: Vehicle '18892' ends teleporting on edge '6041', time=25853.00.
+Warning: Teleporting vehicle '18402'; waited too long (yield), lane='7547_2', time=25854.00.
+Warning: Vehicle '18686' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25854.00.
+Warning: Removing junction collision participants: vehicle '15978', vehicle '18980', lane=':7734_4_0', gap=-1.00, time=25854.00 stage=move.
+Warning: Vehicle '18402' ends teleporting on edge '7548', time=25854.00.
+Warning: Removing junction collision participants: vehicle '18685', vehicle '17296', lane=':7734_0_0', gap=-1.00, time=25856.00 stage=move.
+Warning: Teleporting vehicle '12282'; waited too long (yield), lane='6044_0', time=25857.00.
+Warning: Vehicle '12282' ends teleporting on edge '6039', time=25857.00.
+Warning: Teleporting vehicle '11487'; waited too long (yield), lane='6042_1', time=25860.00.
+Warning: Teleporting vehicle '13564'; waited too long (jam), lane=':6316_1_1', time=25860.00.
+Warning: Removing junction collision participants: vehicle '19023', vehicle '18696', lane=':7253_2_0', gap=-1.00, time=25860.00 stage=move.
+Warning: Vehicle '11487' ends teleporting on edge '6045', time=25860.00.
+Warning: Removing collision participants: vehicle '14601', vehicle '14435', lane='7539_0', gap=-4.71, time=25861.00 stage=move.
+Warning: Vehicle '15591' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25866.00.
+Warning: Removing collision participants: vehicle '15591', vehicle '15726', lane='7539_1', gap=-2.08, time=25866.00 stage=move.
+Warning: Teleporting vehicle '11552'; waited too long (yield), lane='7562_2', time=25868.00.
+Warning: Vehicle '11552' ends teleporting on edge '7553', time=25868.00.
+Warning: Teleporting vehicle '12130'; waited too long (yield), lane='7544_2', time=25872.00.
+Warning: Removing junction collision participants: vehicle '17418', vehicle '17968', lane=':7734_0_2', gap=-1.00, time=25872.00 stage=move.
+Warning: Vehicle '12130' ends teleporting on edge '7671', time=25872.00.
+Warning: Teleporting vehicle '12701'; waited too long (yield), lane='7560_2', time=25874.00.
+Warning: Vehicle '12701' ends teleporting on edge '7555', time=25874.00.
+Warning: Vehicle '15417' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25875.00.
+Warning: Teleporting vehicle '12327'; waited too long (yield), lane='7560_2', time=25879.00.
+Warning: Removing junction collision participants: vehicle '16420', vehicle '17173', lane=':7734_0_2', gap=-1.00, time=25879.00 stage=move.
+Warning: Vehicle '12327' ends teleporting on edge '7555', time=25879.00.
+Warning: Removing junction collision participants: vehicle '17007', vehicle '17233', lane=':7734_4_1', gap=-1.00, time=25882.00 stage=move.
+Warning: Teleporting vehicle '12647'; waited too long (jam), lane=':6316_1_2', time=25883.00.
+Warning: Vehicle '18819' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25884.00.
+Warning: Teleporting vehicle '11879'; waited too long (jam), lane='7562_2', time=25885.00.
+Warning: Vehicle '11879' ends teleporting on edge '7553', time=25885.00.
+Warning: Removing junction collision participants: vehicle '12260', vehicle '14513', lane=':7253_2_0', gap=-1.00, time=25886.00 stage=move.
+Warning: Vehicle '17736' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25887.00.
+Warning: Vehicle '10555' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25888.00.
+Warning: Vehicle '17164' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=25889.00.
+Warning: Teleporting vehicle '19164'; waited too long (yield), lane='7591_2', time=25890.00.
+Warning: Vehicle '19164' ends teleporting on edge '7593', time=25890.00.
+Warning: Teleporting vehicle '14625'; waited too long (yield), lane='7591_0', time=25891.00.
+Warning: Removing junction collision participants: vehicle '18390', vehicle '15138', lane=':7734_4_1', gap=-1.00, time=25891.00 stage=move.
+Warning: Vehicle '14625' ends teleporting on edge '6041', time=25891.00.
+Warning: Vehicle '13476' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25894.00.
+Warning: Vehicle '16436' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25895.00.
+Warning: Vehicle '13564' ends teleporting on edge '7555', time=25895.00.
+Warning: Teleporting vehicle '10161'; waited too long (yield), lane='6040_0', time=25896.00.
+Warning: Removing junction collision participants: vehicle '19198', vehicle '13822', lane=':7253_2_0', gap=-1.00, time=25896.00 stage=move.
+Warning: Vehicle '10161' ends teleporting on edge '7593', time=25896.00.
+Warning: Vehicle '18967' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25897.00.
+Warning: Vehicle '15304' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=25898.00.
+Warning: Teleporting vehicle '10457'; waited too long (yield), lane='6040_0', time=25899.00.
+Warning: Vehicle '10457' ends teleporting on edge '7593', time=25899.00.
+Warning: Removing junction collision participants: vehicle '18070', vehicle '18082', lane=':7734_4_1', gap=-1.00, time=25900.00 stage=move.
+Warning: Teleporting vehicle '12712'; waited too long (jam), lane='6124_2', time=25901.00.
+Warning: Removing junction collision participants: vehicle '10078', vehicle '11289', lane=':7749_4_0', gap=-1.00, time=25904.00 stage=move.
+Warning: Teleporting vehicle '10640'; waited too long (yield), lane='6040_2', time=25910.00.
+Warning: Vehicle '10640' ends teleporting on edge '7593', time=25910.00.
+Warning: Teleporting vehicle '10300'; waited too long (yield), lane='6040_3', time=25912.00.
+Warning: Vehicle '10300' ends teleporting on edge '7593', time=25912.00.
+Warning: Removing junction collision participants: vehicle '19150', vehicle '10948', lane=':7749_4_0', gap=-1.00, time=25913.00 stage=move.
+Warning: Removing collision participants: vehicle '14727', vehicle '13745', lane='7539_0', gap=-3.90, time=25913.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16462', vehicle '13772', lane=':7734_4_0', gap=-1.00, time=25914.00 stage=move.
+Warning: Vehicle '12647' ends teleporting on edge '7555', time=25918.00.
+Warning: Vehicle '15222' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=25920.00.
+Warning: Teleporting vehicle '12343'; waited too long (jam), lane='7560_2', time=25920.00.
+Warning: Vehicle '12343' ends teleporting on edge '7555', time=25920.00.
+Warning: Removing junction collision participants: vehicle '16734', vehicle '13738', lane=':7734_4_0', gap=-1.00, time=25924.00 stage=move.
+Warning: Removing collision participants: vehicle '13693', vehicle '16811', lane='7539_0', gap=-1.14, time=25926.00 stage=move.
+Warning: Teleporting vehicle '10769'; waited too long (yield), lane='7574_0', time=25929.00.
+Warning: Teleporting vehicle '10523'; waited too long (yield), lane='7574_2', time=25929.00.
+Warning: Vehicle '10769' ends teleporting on edge '7550', time=25929.00.
+Warning: Vehicle '10523' ends teleporting on edge '7550', time=25929.00.
+Warning: Vehicle '12701' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25931.00.
+Warning: Vehicle '14321' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25936.00.
+Warning: Teleporting vehicle '19167'; waited too long (yield), lane='7574_2', time=25936.00.
+Warning: Removing junction collision participants: vehicle '12842', vehicle '11339', lane=':2410__6_0', gap=-1.00, time=25936.00 stage=move.
+Warning: Vehicle '19167' ends teleporting on edge '7550', time=25936.00.
+Warning: Vehicle '12712' ends teleporting on edge '7555', time=25936.00.
+Warning: Teleporting vehicle '11983'; waited too long (yield), lane='7544_2', time=25937.00.
+Warning: Removing junction collision participants: vehicle '15616', vehicle '13673', lane=':7734_4_0', gap=-1.00, time=25937.00 stage=move.
+Warning: Vehicle '11983' ends teleporting on edge '7671', time=25937.00.
+Warning: Removing collision participants: vehicle '18675', vehicle '14605', lane='7539_0', gap=-1.98, time=25941.00 stage=move.
+Warning: Teleporting vehicle '13370'; waited too long (yield), lane='12527_2', time=25945.00.
+Warning: Vehicle '13370' ends teleporting on edge '7680', time=25945.00.
+Warning: Teleporting vehicle '13036'; waited too long (yield), lane='12527_2', time=25950.00.
+Warning: Vehicle '15534' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=25950.00.
+Warning: Vehicle '13036' ends teleporting on edge '7680', time=25950.00.
+Warning: Vehicle '17427' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25951.00.
+Warning: Removing collision participants: vehicle '16386', vehicle '17933', lane='7539_1', gap=-4.54, time=25953.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11465', vehicle '10910', lane=':7749_1_0', gap=-1.00, time=25955.00 stage=move.
+Warning: Teleporting vehicle '11510'; waited too long (yield), lane='7562_2', time=25956.00.
+Warning: Vehicle '11510' ends teleporting on edge '7553', time=25956.00.
+Warning: Vehicle '11589' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=25957.00.
+Warning: Removing junction collision participants: vehicle '15072', vehicle '18688', lane=':7734_4_0', gap=-1.00, time=25957.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16622', vehicle '15993', lane=':7734_4_1', gap=-1.00, time=25960.00 stage=move.
+Warning: Vehicle '16279' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=25963.00.
+Warning: Removing junction collision participants: vehicle '16701', vehicle '18310', lane=':7734_0_2', gap=-1.00, time=25968.00 stage=move.
+Warning: Teleporting vehicle '11884'; waited too long (yield), lane='7562_1', time=25970.00.
+Warning: Vehicle '11884' ends teleporting on edge '7553', time=25970.00.
+Warning: Teleporting vehicle '18541'; waited too long (yield), lane='7547_2', time=25979.00.
+Warning: Vehicle '18541' ends teleporting on edge '7548', time=25979.00.
+Warning: Removing junction collision participants: vehicle '18752', vehicle '15708', lane=':7734_0_0', gap=-1.00, time=25983.00 stage=move.
+Warning: Vehicle '12915' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=25984.00.
+Warning: Teleporting vehicle '10991'; waited too long (yield), lane='10342.32_0', time=25986.00.
+Warning: Vehicle '10991' ends teleporting on edge '6039', time=25986.00.
+Warning: Removing junction collision participants: vehicle '13166', vehicle '13559', lane=':6281_1_0', gap=-1.00, time=25988.00 stage=move.
+Warning: Teleporting vehicle '12296'; waited too long (yield), lane='7544_2', time=25991.00.
+Warning: Vehicle '12296' ends teleporting on edge '7671', time=25991.00.
+Warning: Vehicle '17551' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=25994.00.
+Warning: Removing collision participants: vehicle '17551', vehicle '16798', lane='7539_1', gap=-4.32, time=25994.00 stage=move.
+Warning: Vehicle '13694' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=25998.00.
+Warning: Removing collision participants: vehicle '15870', vehicle '13694', lane='7539_0', gap=-1.50, time=25999.00 stage=move.
+Warning: Teleporting vehicle '12327'; waited too long (yield), lane='7591_0', time=26001.00.
+Warning: Vehicle '12327' ends teleporting on edge '6041', time=26001.00.
+Warning: Vehicle '10431' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26004.00.
+Warning: Vehicle '17733' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26005.00.
+Warning: Removing junction collision participants: vehicle '11347', vehicle '19177', lane=':7749_1_0', gap=-1.00, time=26005.00 stage=move.
+Warning: Vehicle '17778' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=26006.00.
+Warning: Teleporting vehicle '12912'; waited too long (yield), lane='7560_1', time=26006.00.
+Warning: Vehicle '12912' ends teleporting on edge '7555', time=26006.00.
+Warning: Removing junction collision participants: vehicle '11408', vehicle '11035', lane=':7749_1_0', gap=-1.00, time=26007.00 stage=move.
+Warning: Vehicle '14485' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26008.00.
+Warning: Vehicle '18586' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26009.00.
+Warning: Vehicle '10485' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26010.00.
+Warning: Teleporting vehicle '17870'; waited too long (jam), lane='7535_1', time=26013.00.
+Warning: Vehicle '17870' ends teleporting on edge '6123', time=26013.00.
+Warning: Teleporting vehicle '11989'; waited too long (yield), lane='7544_2', time=26014.00.
+Warning: Removing junction collision participants: vehicle '13777', vehicle '16083', lane=':7734_0_0', gap=-1.00, time=26014.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12164', vehicle '12290', lane=':6316_0_0', gap=-1.00, time=26014.00 stage=move.
+Warning: Vehicle '11989' ends teleporting on edge '7671', time=26014.00.
+Warning: Removing junction collision participants: vehicle '13588', vehicle '14558', lane=':7253_2_0', gap=-1.00, time=26016.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11382', vehicle '19164', lane=':7749_1_0', gap=-1.00, time=26017.00 stage=move.
+Warning: Teleporting vehicle '11859'; waited too long (yield), lane='7562_2', time=26022.00.
+Warning: Removing junction collision participants: vehicle '11443', vehicle '11362', lane=':7749_1_0', gap=-1.00, time=26022.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11443', vehicle '11452', lane=':7749_1_0', gap=-1.00, time=26022.00 stage=move.
+Warning: Vehicle '11859' ends teleporting on edge '7553', time=26022.00.
+Warning: Teleporting vehicle '11527'; waited too long (yield), lane='6044_0', time=26023.00.
+Warning: Vehicle '11527' ends teleporting on edge '6039', time=26023.00.
+Warning: Removing junction collision participants: vehicle '12787', vehicle '13464', lane=':6281_1_0', gap=-1.00, time=26024.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11062', vehicle '11241', lane=':7749_4_0', gap=-1.00, time=26024.00 stage=move.
+Warning: Teleporting vehicle '12923'; waited too long (jam), lane=':6316_1_1', time=26028.00.
+Warning: Vehicle '19135' performs emergency braking on lane '7585_0' with decel=9.00, wished=4.50, severity=1.00, time=26028.00.
+Warning: Vehicle '13732' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26029.00.
+Warning: Vehicle '18805' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26029.00.
+Warning: Teleporting vehicle '13481'; waited too long (yield), lane='7560_2', time=26031.00.
+Warning: Removing collision participants: vehicle '18722', vehicle '15929', lane='7539_0', gap=-4.73, time=26031.00 stage=move.
+Warning: Vehicle '13481' ends teleporting on edge '7555', time=26031.00.
+Warning: Vehicle '10312' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26032.00.
+Warning: Removing collision participants: vehicle '18759', vehicle '18585', lane='7539_0', gap=-2.18, time=26033.00 stage=move.
+Warning: Vehicle '14291' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26035.00.
+Warning: Teleporting vehicle '13003'; waited too long (yield), lane='7560_2', time=26036.00.
+Warning: Vehicle '13003' ends teleporting on edge '7555', time=26036.00.
+Warning: Teleporting vehicle '11517'; waited too long (yield), lane='7562_2', time=26038.00.
+Warning: Vehicle '11173' performs emergency braking on lane '10324_0' with decel=9.00, wished=4.50, severity=1.00, time=26038.00.
+Warning: Removing junction collision participants: vehicle '11173', vehicle '10783', lane=':7749_1_0', gap=-1.00, time=26038.00 stage=move.
+Warning: Vehicle '11517' ends teleporting on edge '7553', time=26038.00.
+Warning: Removing collision participants: vehicle '15342', vehicle '13875', lane='7539_0', gap=-3.09, time=26039.00 stage=move.
+Warning: Teleporting vehicle '12301'; waited too long (jam), lane=':6316_1_2', time=26040.00.
+Warning: Removing collision participants: vehicle '13862', vehicle '14951', lane='7539_0', gap=-4.68, time=26041.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13646', vehicle '17405', lane=':7734_0_0', gap=-1.00, time=26042.00 stage=move.
+Warning: Vehicle '10470' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26045.00.
+Warning: Teleporting vehicle '10546'; waited too long (yield), lane='6040_2', time=26047.00.
+Warning: Vehicle '10546' ends teleporting on edge '7593', time=26047.00.
+Warning: Removing junction collision participants: vehicle '18927', vehicle '18589', lane=':7734_0_2', gap=-1.00, time=26048.00 stage=move.
+Warning: Teleporting vehicle '10819'; waited too long (yield), lane='6040_0', time=26054.00.
+Warning: Vehicle '10819' ends teleporting on edge '7593', time=26054.00.
+Warning: Teleporting vehicle '10420'; waited too long (yield), lane='6040_3', time=26055.00.
+Warning: Vehicle '10420' ends teleporting on edge '7593', time=26055.00.
+Warning: Removing junction collision participants: vehicle '16457', vehicle '16654', lane=':7734_0_2', gap=-1.00, time=26056.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14030', vehicle '14129', lane=':6521_0_0', gap=-1.00, time=26056.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13902', vehicle '14099', lane=':6521_0_0', gap=-1.00, time=26058.00 stage=move.
+Warning: Removing junction collision participants: vehicle '14752', vehicle '12680', lane=':7746_3_0', gap=-1.00, time=26059.00 stage=move.
+Warning: Removing junction collision participants: vehicle '19185', vehicle '14409', lane=':7253_2_0', gap=-1.00, time=26060.00 stage=move.
+Warning: Teleporting vehicle '13035'; waited too long (yield), lane='12527_2', time=26062.00.
+Warning: Vehicle '13035' ends teleporting on edge '7680', time=26062.00.
+Warning: Vehicle '12923' ends teleporting on edge '7555', time=26063.00.
+Warning: Teleporting vehicle '10132'; waited too long (yield), lane='6040_1', time=26066.00.
+Warning: Vehicle '10132' ends teleporting on edge '7593', time=26066.00.
+Warning: Removing collision participants: vehicle '18592', vehicle '16763', lane='7539_0', gap=-4.67, time=26067.00 stage=move.
+Warning: Teleporting vehicle '13143'; waited too long (yield), lane='12527_2', time=26068.00.
+Warning: Vehicle '13143' ends teleporting on edge '7680', time=26068.00.
+Warning: Removing collision participants: vehicle '17025', vehicle '14502', lane='7539_0', gap=-0.78, time=26069.00 stage=move.
+Warning: Teleporting vehicle '12227'; waited too long (jam), lane='6124_2', time=26070.00.
+Warning: Vehicle '18886' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26071.00.
+Warning: Removing junction collision participants: vehicle '13317', vehicle '13500', lane=':6316_0_0', gap=-1.00, time=26075.00 stage=move.
+Warning: Vehicle '13481' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26076.00.
+Warning: Teleporting vehicle '12617'; waited too long (yield), lane='7560_2', time=26076.00.
+Warning: Vehicle '12301' ends teleporting on edge '7555', time=26077.00.
+Warning: Vehicle '12617' ends teleporting on edge '7556', time=26078.00.
+Warning: Removing junction collision participants: vehicle '12456', vehicle '13367', lane=':6316_0_0', gap=-1.00, time=26079.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12456', vehicle '12557', lane=':6316_0_0', gap=-1.00, time=26079.00 stage=move.
+Warning: Teleporting vehicle '12028'; waited too long (jam), lane='7560_2', time=26080.00.
+Warning: Teleporting vehicle '12477'; waited too long (yield), lane='7544_2', time=26080.00.
+Warning: Vehicle '12028' ends teleporting on edge '7555', time=26080.00.
+Warning: Vehicle '12477' ends teleporting on edge '7671', time=26080.00.
+Warning: Teleporting vehicle '10763'; waited too long (jam), lane='6040_1', time=26082.00.
+Warning: Vehicle '10763' ends teleporting on edge '7593', time=26082.00.
+Warning: Teleporting vehicle '10951'; waited too long (yield), lane='7574_1', time=26084.00.
+Warning: Vehicle '10951' ends teleporting on edge '7550', time=26084.00.
+Warning: Teleporting vehicle '10402'; waited too long (yield), lane='7574_2', time=26085.00.
+Warning: Vehicle '10402' ends teleporting on edge '7550', time=26085.00.
+Warning: Vehicle '12227' ends teleporting on edge '7560', time=26086.00.
+Warning: Vehicle '13868' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26088.00.
+Warning: Teleporting vehicle '15055'; waited too long (yield), lane='8111_2', time=26089.00.
+Warning: Vehicle '16521' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26089.00.
+Warning: Vehicle '15055' ends teleporting on edge '7539', time=26089.00.
+Warning: Vehicle '18674' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26090.00.
+Warning: Removing junction collision participants: vehicle '12189', vehicle '13515', lane=':6316_0_0', gap=-1.00, time=26090.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10171', vehicle '10806', lane=':7749_4_0', gap=-1.00, time=26091.00 stage=move.
+Warning: Teleporting vehicle '16526'; waited too long (yield), lane='7535_1', time=26093.00.
+Warning: Vehicle '16526' ends teleporting on edge '6123', time=26093.00.
+Warning: Removing junction collision participants: vehicle '11442', vehicle '10968', lane=':7749_1_0', gap=-1.00, time=26094.00 stage=move.
+Warning: Removing collision participants: vehicle '16137', vehicle '13864', lane='7539_0', gap=-0.32, time=26095.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10151', vehicle '10839', lane=':7749_4_0', gap=-1.00, time=26095.00 stage=move.
+Warning: Teleporting vehicle '16193'; waited too long (yield), lane='8111_2', time=26096.00.
+Warning: Vehicle '16193' ends teleporting on edge '7539', time=26096.00.
+Warning: Teleporting vehicle '10857'; waited too long (yield), lane='7574_0', time=26098.00.
+Warning: Removing junction collision participants: vehicle '10084', vehicle '10774', lane=':7749_4_0', gap=-1.00, time=26098.00 stage=move.
+Warning: Vehicle '10857' ends teleporting on edge '7550', time=26098.00.
+Warning: Vehicle '10402' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26102.00.
+Warning: Removing junction collision participants: vehicle '10101', vehicle '10871', lane=':7749_4_0', gap=-1.00, time=26103.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13775', vehicle '18411', lane=':6411_0_0', gap=-1.00, time=26104.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11070', vehicle '10813', lane=':7749_4_0', gap=-1.00, time=26112.00 stage=move.
+Warning: Teleporting vehicle '18436'; waited too long (yield), lane='7547_2', time=26115.00.
+Warning: Removing junction collision participants: vehicle '18480', vehicle '18961', lane=':6411_1_0', gap=-1.00, time=26115.00 stage=move.
+Warning: Vehicle '18436' ends teleporting on edge '7548', time=26115.00.
+Warning: Teleporting vehicle '10985'; waited too long (yield), lane='7618_1', time=26116.00.
+Warning: Vehicle '10985' ends teleporting on edge '6045', time=26116.00.
+Warning: Removing junction collision participants: vehicle '16526', vehicle '18232', lane=':7734_0_2', gap=-1.00, time=26117.00 stage=move.
+Warning: Vehicle '18674' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26119.00.
+Warning: Vehicle '14363' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26120.00.
+Warning: Removing junction collision participants: vehicle '13890', vehicle '18504', lane=':6411_0_0', gap=-1.00, time=26120.00 stage=move.
+Warning: Teleporting vehicle '12271'; waited too long (yield), lane='7544_2', time=26121.00.
+Warning: Vehicle '12271' ends teleporting on edge '7671', time=26121.00.
+Warning: Vehicle '18868' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26122.00.
+Warning: Vehicle '13747' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26122.00.
+Warning: Vehicle '15081' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26123.00.
+Warning: Teleporting vehicle '11287'; waited too long (jam), lane='10324_0', time=26125.00.
+Warning: Removing junction collision participants: vehicle '15479', vehicle '18747', lane=':7734_4_0', gap=-1.00, time=26130.00 stage=move.
+Warning: Removing collision participants: vehicle '15922', vehicle '15576', lane='7539_1', gap=-4.31, time=26135.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10161', vehicle '11313', lane=':7749_4_0', gap=-1.00, time=26137.00 stage=move.
+Warning: Vehicle '17086' performs emergency braking on lane ':7734_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26138.00.
+Warning: Vehicle '14357' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26139.00.
+Warning: Vehicle '14703' performs emergency braking on lane ':7746_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26143.00.
+Warning: Removing junction collision participants: vehicle '16886', vehicle '16923', lane=':7734_4_1', gap=-1.00, time=26144.00 stage=move.
+Warning: Removing junction collision participants: vehicle '15092', vehicle '15279', lane=':7734_4_1', gap=-1.00, time=26148.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10183', vehicle '10733', lane=':7749_4_0', gap=-1.00, time=26148.00 stage=move.
+Warning: Vehicle '14611' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26152.00.
+Warning: Vehicle '16883' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26153.00.
+Warning: Vehicle '18691' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26154.00.
+Warning: Teleporting vehicle '19079'; waited too long (yield), lane='7591_0', time=26155.00.
+Warning: Removing collision participants: vehicle '16208', vehicle '18691', lane='7539_0', gap=-3.70, time=26155.00 stage=move.
+Warning: Vehicle '19079' ends teleporting on edge '6041', time=26155.00.
+Warning: Teleporting vehicle '18415'; waited too long (yield), lane='7547_2', time=26156.00.
+Warning: Vehicle '18415' ends teleporting on edge '7548', time=26156.00.
+Warning: Teleporting vehicle '11500'; waited too long (yield), lane='6042_1', time=26157.00.
+Warning: Vehicle '11500' ends teleporting on edge '6045', time=26157.00.
+Warning: Vehicle '14876' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26158.00.
+Warning: Removing junction collision participants: vehicle '16659', vehicle '17501', lane=':7734_0_2', gap=-1.00, time=26159.00 stage=move.
+Warning: Teleporting vehicle '14690'; waited too long (yield), lane='8111_2', time=26160.00.
+Warning: Vehicle '14690' ends teleporting on edge '7539', time=26160.00.
+Warning: Teleporting vehicle '16545'; waited too long (yield), lane='8111_2', time=26161.00.
+Warning: Vehicle '19042' performs emergency braking on lane '7585_0' with decel=9.00, wished=4.50, severity=1.00, time=26161.00.
+Warning: Removing junction collision participants: vehicle '10108', vehicle '10776', lane=':7749_4_0', gap=-1.00, time=26161.00 stage=move.
+Warning: Vehicle '16545' ends teleporting on edge '7539', time=26161.00.
+Warning: Teleporting vehicle '11574'; waited too long (yield), lane='7562_2', time=26164.00.
+Warning: Vehicle '11574' ends teleporting on edge '7553', time=26164.00.
+Warning: Removing junction collision participants: vehicle '11371', vehicle '10254', lane=':7749_1_0', gap=-1.00, time=26167.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12438', vehicle '13434', lane=':6316_0_0', gap=-1.00, time=26168.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10164', vehicle '10929', lane=':7749_4_0', gap=-1.00, time=26169.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11365', vehicle '10744', lane=':7749_1_0', gap=-1.00, time=26171.00 stage=move.
+Warning: Teleporting vehicle '12516'; waited too long (yield), lane='7560_1', time=26172.00.
+Warning: Vehicle '12516' ends teleporting on edge '7555', time=26172.00.
+Warning: Removing junction collision participants: vehicle '11273', vehicle '10441', lane=':7749_1_0', gap=-1.00, time=26176.00 stage=move.
+Warning: Vehicle '17469' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26177.00.
+Warning: Teleporting vehicle '13581'; waited too long (yield), lane='7560_2', time=26183.00.
+Warning: Vehicle '13581' ends teleporting on edge '7555', time=26183.00.
+Warning: Teleporting vehicle '12898'; waited too long (jam), lane=':6316_1_1', time=26184.00.
+Warning: Teleporting vehicle '12443'; waited too long (yield), lane='7544_2', time=26187.00.
+Warning: Vehicle '18702' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26187.00.
+Warning: Vehicle '12443' ends teleporting on edge '7671', time=26187.00.
+Warning: Teleporting vehicle '19088'; waited too long (yield), lane='7591_0', time=26188.00.
+Warning: Vehicle '19088' ends teleporting on edge '6041', time=26188.00.
+Warning: Vehicle '10627' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26190.00.
+Warning: Teleporting vehicle '18531'; waited too long (jam), lane='7547_2', time=26190.00.
+Warning: Vehicle '18531' ends teleporting on edge '7548', time=26190.00.
+Warning: Teleporting vehicle '11588'; waited too long (yield), lane='7562_2', time=26192.00.
+Warning: Teleporting vehicle '13115'; waited too long (jam), lane=':6316_1_2', time=26192.00.
+Warning: Vehicle '11588' ends teleporting on edge '7553', time=26192.00.
+Warning: Vehicle '13701' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26196.00.
+Warning: Vehicle '15835' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26197.00.
+Warning: Vehicle '17380' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26197.00.
+Warning: Teleporting vehicle '12718'; waited too long (yield), lane='7560_2', time=26200.00.
+Warning: Vehicle '13115' ends teleporting on edge '7560', time=26200.00.
+Warning: Vehicle '12718' ends teleporting on edge '7555', time=26200.00.
+Warning: Removing junction collision participants: vehicle '12140', vehicle '12266', lane=':6316_0_0', gap=-1.00, time=26201.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10927', vehicle '11368', lane=':7749_5_0', gap=-1.00, time=26201.00 stage=laneChange.
+Warning: Teleporting vehicle '11849'; waited too long (jam), lane='7562_2', time=26205.00.
+Warning: Teleporting vehicle '12360'; waited too long (yield), lane='7544_2', time=26205.00.
+Warning: Vehicle '12360' ends teleporting on edge '7671', time=26205.00.
+Warning: Vehicle '11849' ends teleporting on edge '7553', time=26205.00.
+Warning: Teleporting vehicle '18674'; waited too long (yield), lane='6044_0', time=26206.00.
+Warning: Vehicle '18674' ends teleporting on edge '6039', time=26206.00.
+Warning: Teleporting vehicle '10303'; waited too long (yield), lane='6040_1', time=26208.00.
+Warning: Vehicle '10303' ends teleporting on edge '7593', time=26208.00.
+Warning: Teleporting vehicle '10568'; waited too long (yield), lane='6040_3', time=26209.00.
+Warning: Removing junction collision participants: vehicle '13581', vehicle '18951', lane=':7739_3_1', gap=-1.00, time=26209.00 stage=move.
+Warning: Vehicle '10568' ends teleporting on edge '7593', time=26209.00.
+Warning: Teleporting vehicle '10103'; waited too long (yield), lane='6040_1', time=26210.00.
+Warning: Removing collision participants: vehicle '16419', vehicle '13651', lane='7539_0', gap=-3.42, time=26210.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10132', vehicle '11282', lane=':7749_4_0', gap=-1.00, time=26210.00 stage=move.
+Warning: Vehicle '10103' ends teleporting on edge '7593', time=26210.00.
+Warning: Removing junction collision participants: vehicle '11262', vehicle '10763', lane=':7749_1_0', gap=-1.00, time=26213.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10746', vehicle '11263', lane=':7749_5_0', gap=-1.00, time=26215.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11136', vehicle '10120', lane=':7749_0_0', gap=-1.00, time=26217.00 stage=move.
+Warning: Teleporting vehicle '10481'; waited too long (yield), lane='6040_0', time=26218.00.
+Warning: Removing collision participants: vehicle '18055', vehicle '18334', lane='7539_1', gap=-4.30, time=26218.00 stage=move.
+Warning: Vehicle '10481' ends teleporting on edge '7593', time=26218.00.
+Warning: Vehicle '12898' ends teleporting on edge '7555', time=26219.00.
+Warning: Vehicle '15848' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26222.00.
+Warning: Removing junction collision participants: vehicle '10137', vehicle '10819', lane=':7749_4_0', gap=-1.00, time=26229.00 stage=move.
+Warning: Removing junction collision participants: vehicle '17159', vehicle '17119', lane=':7734_4_1', gap=-1.00, time=26238.00 stage=move.
+Warning: Teleporting vehicle '13453'; waited too long (jam), lane='7560_2', time=26240.00.
+Warning: Vehicle '14370' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26240.00.
+Warning: Vehicle '13453' ends teleporting on edge '7555', time=26240.00.
+Warning: Removing junction collision participants: vehicle '15496', vehicle '16009', lane=':7734_4_1', gap=-1.00, time=26241.00 stage=move.
+Warning: Teleporting vehicle '12993'; waited too long (yield), lane='12527_2', time=26242.00.
+Warning: Vehicle '12993' ends teleporting on edge '7680', time=26242.00.
+Warning: Removing junction collision participants: vehicle '15464', vehicle '16578', lane=':7734_4_1', gap=-1.00, time=26243.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12659', vehicle '13566', lane=':6281_1_0', gap=-1.00, time=26243.00 stage=move.
+Warning: Teleporting vehicle '10530'; waited too long (yield), lane='7574_1', time=26244.00.
+Warning: Vehicle '10530' ends teleporting on edge '7550', time=26244.00.
+Warning: Vehicle '15949' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26246.00.
+Warning: Vehicle '18887' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26246.00.
+Warning: Removing junction collision participants: vehicle '10126', vehicle '10796', lane=':7749_4_0', gap=-1.00, time=26246.00 stage=move.
+Warning: Teleporting vehicle '13369'; waited too long (yield), lane='12527_1', time=26249.00.
+Warning: Removing collision participants: vehicle '15333', vehicle '18377', lane='7539_0', gap=-4.23, time=26249.00 stage=move.
+Warning: Vehicle '13369' ends teleporting on edge '7680', time=26249.00.
+Warning: Teleporting vehicle '11449'; waited too long (yield), lane='7574_0', time=26250.00.
+Warning: Teleporting vehicle '10488'; waited too long (yield), lane='7574_2', time=26250.00.
+Warning: Removing collision participants: vehicle '15593', vehicle '18639', lane='7539_1', gap=-4.74, time=26250.00 stage=move.
+Warning: Vehicle '11449' ends teleporting on edge '7550', time=26250.00.
+Warning: Vehicle '10488' ends teleporting on edge '7550', time=26250.00.
+Warning: Vehicle '11287' ends teleporting on edge '7574', time=26250.00.
+Warning: Vehicle '16753' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26254.00.
+Warning: Vehicle '18975' performs emergency braking on lane '7523_0' with decel=9.00, wished=4.50, severity=1.00, time=26263.00.
+Warning: Teleporting vehicle '18555'; waited too long (yield), lane='7547_2', time=26264.00.
+Warning: Vehicle '18555' ends teleporting on edge '7548', time=26264.00.
+Warning: Vehicle '16635' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26266.00.
+Warning: Teleporting vehicle '18868'; waited too long (yield), lane='7547_0', time=26267.00.
+Warning: Vehicle '18868' ends teleporting on edge '7548', time=26267.00.
+Warning: Teleporting vehicle '13869'; waited too long (yield), lane='7547_2', time=26268.00.
+Warning: Vehicle '13869' ends teleporting on edge '7548', time=26268.00.
+Warning: Teleporting vehicle '12452'; waited too long (yield), lane='7544_2', time=26270.00.
+Warning: Vehicle '12452' ends teleporting on edge '7671', time=26270.00.
+Warning: Removing junction collision participants: vehicle '19149', vehicle '19173', lane=':7749_4_0', gap=-1.00, time=26272.00 stage=move.
+Warning: Teleporting vehicle '11524'; waited too long (yield), lane='7562_2', time=26276.00.
+Warning: Teleporting vehicle '10670'; waited too long (jam), lane=':7749_5_2', time=26276.00.
+Warning: Vehicle '11524' ends teleporting on edge '7553', time=26276.00.
+Warning: Vehicle '18857' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26277.00.
+Warning: Vehicle '18816' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26281.00.
+Warning: Teleporting vehicle '11385'; waited too long (jam), lane='10324_0', time=26282.00.
+Warning: Removing junction collision participants: vehicle '11587', vehicle '14677', lane=':7746_0_2', gap=-1.00, time=26282.00 stage=move.
+Warning: Teleporting vehicle '16162'; waited too long (yield), lane='8112_0', time=26284.00.
+Warning: Vehicle '16162' ends teleporting on edge '7535', time=26284.00.
+Warning: Teleporting vehicle '17486'; waited too long (yield), lane='8112_0', time=26285.00.
+Warning: Vehicle '17486' ends teleporting on edge '7535', time=26285.00.
+Warning: Vehicle '14441' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26287.00.
+Warning: Teleporting vehicle '18129'; waited too long (yield), lane='8112_0', time=26288.00.
+Warning: Vehicle '13653' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26288.00.
+Warning: Vehicle '18129' ends teleporting on edge '7535', time=26288.00.
+Warning: Teleporting vehicle '17707'; waited too long (yield), lane='8112_0', time=26290.00.
+Warning: Vehicle '17707' ends teleporting on edge '7535', time=26290.00.
+Warning: Teleporting vehicle '16221'; waited too long (yield), lane='8112_0', time=26291.00.
+Warning: Vehicle '16221' ends teleporting on edge '7535', time=26292.00.
+Warning: Teleporting vehicle '14444'; waited too long (yield), lane='8112_0', time=26293.00.
+Warning: Removing collision participants: vehicle '14840', vehicle '14294', lane='7539_0', gap=-3.82, time=26294.00 stage=move.
+Warning: Vehicle '14444' ends teleporting on edge '7535', time=26294.00.
+Warning: Teleporting vehicle '16813'; waited too long (yield), lane='8112_0', time=26295.00.
+Warning: Teleporting vehicle '10335'; waited too long (jam), lane='7574_2', time=26295.00.
+Warning: Vehicle '10335' ends teleporting on edge '7550', time=26295.00.
+Warning: Vehicle '16813' ends teleporting on edge '7535', time=26295.00.
+Warning: Teleporting vehicle '11867'; waited too long (yield), lane='7562_1', time=26296.00.
+Warning: Vehicle '11867' ends teleporting on edge '7553', time=26296.00.
+Warning: Teleporting vehicle '17680'; waited too long (yield), lane='8112_0', time=26297.00.
+Warning: Vehicle '17680' ends teleporting on edge '7535', time=26297.00.
+Warning: Vehicle '18698' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26298.00.
+Warning: Teleporting vehicle '17443'; waited too long (yield), lane='8112_0', time=26299.00.
+Warning: Vehicle '17443' ends teleporting on edge '7535', time=26299.00.
+Warning: Teleporting vehicle '16748'; waited too long (yield), lane='8112_0', time=26301.00.
+Warning: Removing junction collision participants: vehicle '10113', vehicle '10966', lane=':7749_4_0', gap=-1.00, time=26301.00 stage=move.
+Warning: Vehicle '16748' ends teleporting on edge '7535', time=26301.00.
+Warning: Teleporting vehicle '18593'; waited too long (yield), lane='8112_0', time=26303.00.
+Warning: Vehicle '18593' ends teleporting on edge '7535', time=26303.00.
+Warning: Teleporting vehicle '17872'; waited too long (yield), lane='8112_0', time=26305.00.
+Warning: Vehicle '17872' ends teleporting on edge '7535', time=26305.00.
+Warning: Teleporting vehicle '15858'; waited too long (yield), lane='8112_0', time=26306.00.
+Warning: Vehicle '15084' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26307.00.
+Warning: Vehicle '17151' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26308.00.
+Warning: Teleporting vehicle '15631'; waited too long (yield), lane='8112_0', time=26308.00.
+Warning: Vehicle '15858' ends teleporting on edge '7535', time=26308.00.
+Warning: Removing collision participants: vehicle '17987', vehicle '17151', lane='7539_1', gap=-0.59, time=26309.00 stage=move.
+Warning: Teleporting vehicle '15460'; waited too long (yield), lane='8112_0', time=26310.00.
+Warning: Vehicle '15631' ends teleporting on edge '7535', time=26310.00.
+Warning: Teleporting vehicle '14394'; waited too long (yield), lane='8112_0', time=26311.00.
+Warning: Removing junction collision participants: vehicle '10112', vehicle '10721', lane=':7749_4_0', gap=-1.00, time=26311.00 stage=move.
+Warning: Removing collision participants: vehicle '18203', vehicle '16814', lane='7539_1', gap=-3.81, time=26312.00 stage=move.
+Warning: Removing collision participants: vehicle '14542', vehicle '15205', lane='7539_0', gap=-3.49, time=26313.00 stage=move.
+Warning: Vehicle '15460' ends teleporting on edge '7535', time=26313.00.
+Warning: Vehicle '17872' performs emergency braking on lane ':6404_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26315.00.
+Warning: Vehicle '14394' ends teleporting on edge '7535', time=26316.00.
+Warning: Teleporting vehicle '18884'; waited too long (yield), lane='7591_0', time=26319.00.
+Warning: Vehicle '10670' ends teleporting on edge '7574', time=26319.00.
+Warning: Vehicle '18884' ends teleporting on edge '6041', time=26319.00.
+Warning: Vehicle '11385' ends teleporting on edge '7574', time=26324.00.
+Warning: Removing junction collision participants: vehicle '16162', vehicle '17982', lane=':7734_0_2', gap=-1.00, time=26325.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11274', vehicle '10804', lane=':7749_1_0', gap=-1.00, time=26325.00 stage=move.
+Warning: Vehicle '14572' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26326.00.
+Warning: Vehicle '14442' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26327.00.
+Warning: Removing junction collision participants: vehicle '17067', vehicle '15560', lane=':7734_0_2', gap=-1.00, time=26327.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11415', vehicle '10955', lane=':7749_1_0', gap=-1.00, time=26328.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10076', vehicle '10955', lane=':7749_4_0', gap=-1.00, time=26328.00 stage=move.
+Warning: Removing collision participants: vehicle '14974', vehicle '14490', lane='7539_1', gap=-2.86, time=26329.00 stage=move.
+Warning: Teleporting vehicle '18702'; waited too long (yield), lane='7547_1', time=26330.00.
+Warning: Removing junction collision participants: vehicle '11029', vehicle '10056', lane=':7749_0_0', gap=-1.00, time=26330.00 stage=move.
+Warning: Vehicle '18702' ends teleporting on edge '7548', time=26330.00.
+Warning: Teleporting vehicle '18995'; waited too long (yield), lane='7547_0', time=26331.00.
+Warning: Vehicle '18995' ends teleporting on edge '7548', time=26331.00.
+Warning: Removing junction collision participants: vehicle '10977', vehicle '11221', lane=':7749_5_0', gap=-1.00, time=26332.00 stage=move.
+Warning: Removing collision participants: vehicle '17680', vehicle '18271', lane='7539_1', gap=-3.56, time=26333.00 stage=move.
+Warning: Teleporting vehicle '18371'; waited too long (yield), lane='7547_2', time=26334.00.
+Warning: Teleporting vehicle '10869'; waited too long (jam), lane=':7749_5_1', time=26334.00.
+Warning: Vehicle '18371' ends teleporting on edge '7548', time=26334.00.
+Warning: Teleporting vehicle '11891'; waited too long (yield), lane='7544_2', time=26335.00.
+Warning: Removing junction collision participants: vehicle '17873', vehicle '16554', lane=':7734_4_1', gap=-1.00, time=26335.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11218', vehicle '10788', lane=':7749_1_0', gap=-1.00, time=26335.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10107', vehicle '10865', lane=':7749_4_0', gap=-1.00, time=26335.00 stage=move.
+Warning: Vehicle '11891' ends teleporting on edge '7671', time=26335.00.
+Warning: Vehicle '10314' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26336.00.
+Warning: Removing collision participants: vehicle '19160', vehicle '13743', lane='7580_0', gap=-1.94, time=26336.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10153', vehicle '11244', lane=':7749_4_0', gap=-1.00, time=26336.00 stage=move.
+Warning: Vehicle '11256' performs emergency braking on lane ':7749_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26339.00.
+Warning: Removing junction collision participants: vehicle '11256', vehicle '10262', lane=':7749_1_0', gap=-1.00, time=26340.00 stage=move.
+Warning: Teleporting vehicle '11870'; waited too long (yield), lane='7562_2', time=26341.00.
+Warning: Vehicle '11870' ends teleporting on edge '7553', time=26341.00.
+Warning: Vehicle '14360' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26342.00.
+Warning: Removing junction collision participants: vehicle '10074', vehicle '11307', lane=':7749_4_0', gap=-1.00, time=26348.00 stage=move.
+Warning: Teleporting vehicle '14370'; waited too long (yield), lane='6044_0', time=26349.00.
+Warning: Vehicle '14370' ends teleporting on edge '6039', time=26349.00.
+Warning: Teleporting vehicle '13568'; waited too long (yield), lane='7560_1', time=26350.00.
+Warning: Removing junction collision participants: vehicle '10128', vehicle '11135', lane=':7749_4_0', gap=-1.00, time=26351.00 stage=move.
+Warning: Vehicle '13568' ends teleporting on edge '7555', time=26351.00.
+Warning: Removing junction collision participants: vehicle '10538', vehicle '11341', lane=':7749_5_1', gap=-1.00, time=26353.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16276', vehicle '14685', lane=':7734_4_1', gap=-1.00, time=26355.00 stage=move.
+Warning: Teleporting vehicle '13333'; waited too long (yield), lane='7560_2', time=26356.00.
+Warning: Vehicle '13333' ends teleporting on edge '7555', time=26356.00.
+Warning: Teleporting vehicle '12928'; waited too long (yield), lane='7560_2', time=26359.00.
+Warning: Vehicle '12928' ends teleporting on edge '7555', time=26359.00.
+Warning: Vehicle '13690' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26362.00.
+Warning: Vehicle '14441' performs emergency braking on lane ':6315_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26366.00.
+Warning: Vehicle '16565' performs emergency braking on lane ':6411_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26371.00.
+Warning: Teleporting vehicle '10792'; waited too long (yield), lane='6040_0', time=26371.00.
+Warning: Vehicle '10792' ends teleporting on edge '7593', time=26371.00.
+Warning: Vehicle '15858' performs emergency braking on lane ':6404_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26379.00.
+Warning: Vehicle '13809' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26380.00.
+Warning: Vehicle '16973' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26381.00.
+Warning: Removing collision participants: vehicle '13809', vehicle '19196', lane='7580_0', gap=-3.85, time=26381.00 stage=move.
+Warning: Teleporting vehicle '10683'; waited too long (yield), lane='6040_0', time=26384.00.
+Warning: Vehicle '10683' ends teleporting on edge '7593', time=26384.00.
+Warning: Removing junction collision participants: vehicle '10117', vehicle '10756', lane=':7749_4_0', gap=-1.00, time=26386.00 stage=move.
+Warning: Teleporting vehicle '10344'; waited too long (yield), lane='6040_2', time=26388.00.
+Warning: Vehicle '10344' ends teleporting on edge '7593', time=26388.00.
+Warning: Removing collision participants: vehicle '19194', vehicle '14300', lane='7580_0', gap=-3.20, time=26398.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18657', vehicle '13784', lane=':6411_1_0', gap=-1.00, time=26398.00 stage=move.
+Warning: Teleporting vehicle '10779'; waited too long (yield), lane='6040_2', time=26400.00.
+Warning: Vehicle '10779' ends teleporting on edge '7593', time=26400.00.
+Warning: Teleporting vehicle '11934'; waited too long (yield), lane='7544_2', time=26401.00.
+Warning: Vehicle '11934' ends teleporting on edge '7671', time=26401.00.
+Warning: Teleporting vehicle '10260'; waited too long (yield), lane='7574_1', time=26402.00.
+Warning: Vehicle '10260' ends teleporting on edge '7550', time=26402.00.
+Warning: Teleporting vehicle '10784'; waited too long (yield), lane='7574_0', time=26405.00.
+Warning: Vehicle '10784' ends teleporting on edge '7550', time=26405.00.
+Warning: Vehicle '10869' ends teleporting on edge '7574', time=26405.00.
+Warning: Vehicle '14544' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26406.00.
+Warning: Vehicle '15105' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26407.00.
+Warning: Teleporting vehicle '10204'; waited too long (yield), lane='7574_2', time=26409.00.
+Warning: Vehicle '10204' ends teleporting on edge '7550', time=26409.00.
+Warning: Removing junction collision participants: vehicle '10167', vehicle '10886', lane=':7749_4_0', gap=-1.00, time=26413.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10194', vehicle '10939', lane=':7749_4_0', gap=-1.00, time=26416.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16981', vehicle '15442', lane=':7734_4_1', gap=-1.00, time=26417.00 stage=move.
+Warning: Vehicle '11601' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26425.00.
+Warning: Vehicle '16714' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26427.00.
+Warning: Removing junction collision participants: vehicle '16248', vehicle '16575', lane=':7734_4_1', gap=-1.00, time=26427.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11048', vehicle '10847', lane=':7749_4_0', gap=-1.00, time=26428.00 stage=move.
+Warning: Removing collision participants: vehicle '19072', vehicle '14442', lane='7580_0', gap=-4.74, time=26429.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16819', vehicle '17415', lane=':7734_4_1', gap=-1.00, time=26437.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11157', vehicle '11306', lane=':7749_4_0', gap=-1.00, time=26438.00 stage=move.
+Warning: Teleporting vehicle '15825'; waited too long (yield), lane='8112_0', time=26440.00.
+Warning: Removing junction collision participants: vehicle '11154', vehicle '10699', lane=':7749_4_0', gap=-1.00, time=26441.00 stage=move.
+Warning: Teleporting vehicle '10995'; waited too long (yield), lane='10342.32_0', time=26444.00.
+Warning: Removing junction collision participants: vehicle '11039', vehicle '11321', lane=':7749_4_0', gap=-1.00, time=26444.00 stage=move.
+Warning: Vehicle '10995' ends teleporting on edge '6039', time=26444.00.
+Warning: Removing junction collision participants: vehicle '11119', vehicle '10859', lane=':7749_4_0', gap=-1.00, time=26447.00 stage=move.
+Warning: Vehicle '17999' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26450.00.
+Warning: Teleporting vehicle '16236'; waited too long (yield), lane='8112_0', time=26452.00.
+Warning: Teleporting vehicle '17928'; waited too long (yield), lane='7535_1', time=26455.00.
+Warning: Teleporting vehicle '10418'; waited too long (jam), lane='7574_0', time=26455.00.
+Warning: Vehicle '17928' ends teleporting on edge '6123', time=26455.00.
+Warning: Vehicle '10418' ends teleporting on edge '7550', time=26455.00.
+Warning: Removing collision participants: vehicle '19121', vehicle '12946', lane='7580_0', gap=-1.06, time=26458.00 stage=move.
+Warning: Teleporting vehicle '10702'; waited too long (jam), lane=':7749_5_0', time=26459.00.
+Warning: Removing junction collision participants: vehicle '11081', vehicle '10245', lane=':7749_4_0', gap=-1.00, time=26462.00 stage=move.
+Warning: Teleporting vehicle '12349'; waited too long (yield), lane='7544_2', time=26466.00.
+Warning: Vehicle '12349' ends teleporting on edge '7671', time=26466.00.
+Warning: Vehicle '15825' ends teleporting on edge '7535', time=26467.00.
+Warning: Removing junction collision participants: vehicle '11161', vehicle '10877', lane=':7749_4_0', gap=-1.00, time=26469.00 stage=move.
+Warning: Vehicle '16236' ends teleporting on edge '7535', time=26470.00.
+Warning: Removing junction collision participants: vehicle '13413', vehicle '12672', lane=':6281_0_0', gap=-1.00, time=26472.00 stage=move.
+Warning: Teleporting vehicle '14883'; waited too long (yield), lane='8111_2', time=26480.00.
+Warning: Vehicle '14883' ends teleporting on edge '7539', time=26480.00.
+Warning: Removing junction collision participants: vehicle '10160', vehicle '11433', lane=':7749_4_0', gap=-1.00, time=26483.00 stage=move.
+Warning: Vehicle '15382' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26488.00.
+Warning: Teleporting vehicle '11507'; waited too long (yield), lane='7562_2', time=26488.00.
+Warning: Vehicle '11507' ends teleporting on edge '7553', time=26488.00.
+Warning: Teleporting vehicle '18891'; waited too long (yield), lane='7591_0', time=26492.00.
+Warning: Removing junction collision participants: vehicle '17928', vehicle '18125', lane=':7734_0_2', gap=-1.00, time=26492.00 stage=move.
+Warning: Vehicle '18891' ends teleporting on edge '6041', time=26492.00.
+Warning: Vehicle '10702' ends teleporting on edge '7574', time=26493.00.
+Warning: Teleporting vehicle '12546'; waited too long (yield), lane='7560_1', time=26497.00.
+Warning: Vehicle '12546' ends teleporting on edge '7555', time=26497.00.
+Warning: Teleporting vehicle '11529'; waited too long (yield), lane='6044_0', time=26502.00.
+Warning: Vehicle '11529' ends teleporting on edge '6039', time=26502.00.
+Warning: Teleporting vehicle '19154'; waited too long (yield), lane='7591_2', time=26507.00.
+Warning: Vehicle '19154' ends teleporting on edge '7593', time=26507.00.
+Warning: Vehicle '10408' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26508.00.
+Warning: Removing junction collision participants: vehicle '17308', vehicle '15263', lane=':7734_4_1', gap=-1.00, time=26508.00 stage=move.
+Warning: Vehicle '10353' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26513.00.
+Warning: Teleporting vehicle '13457'; waited too long (yield), lane='7560_2', time=26514.00.
+Warning: Teleporting vehicle '13402'; waited too long (yield), lane='7560_1', time=26514.00.
+Warning: Vehicle '13457' ends teleporting on edge '7555', time=26514.00.
+Warning: Vehicle '10620' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26515.00.
+Warning: Vehicle '13402' ends teleporting on edge '7555', time=26515.00.
+Warning: Removing collision participants: vehicle '19092', vehicle '13750', lane='7580_0', gap=-0.96, time=26520.00 stage=move.
+Warning: Removing junction collision participants: vehicle '12477', vehicle '12614', lane=':6281_1_0', gap=-1.00, time=26522.00 stage=move.
+Warning: Removing collision participants: vehicle '14577', vehicle '19189', lane='7580_0', gap=-2.49, time=26529.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10172', vehicle '10794', lane=':7749_4_0', gap=-1.00, time=26530.00 stage=move.
+Warning: Teleporting vehicle '12297'; waited too long (yield), lane='7544_2', time=26531.00.
+Warning: Vehicle '12297' ends teleporting on edge '7671', time=26531.00.
+Warning: Teleporting vehicle '12982'; waited too long (jam), lane='7673_1', time=26532.00.
+Warning: Removing junction collision participants: vehicle '12655', vehicle '13482', lane=':6281_1_0', gap=-1.00, time=26532.00 stage=move.
+Warning: Vehicle '12982' ends teleporting on edge '7621', time=26532.00.
+Warning: Teleporting vehicle '13144'; waited too long (jam), lane='7673_1', time=26533.00.
+Warning: Removing junction collision participants: vehicle '10053', vehicle '11478', lane=':7749_4_0', gap=-1.00, time=26533.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18651', vehicle '16034', lane=':7734_0_0', gap=-1.00, time=26538.00 stage=move.
+Warning: Teleporting vehicle '10057'; waited too long (yield), lane='6040_1', time=26540.00.
+Warning: Vehicle '13144' ends teleporting on edge '7621', time=26540.00.
+Warning: Vehicle '10057' ends teleporting on edge '7593', time=26540.00.
+Warning: Teleporting vehicle '10965'; waited too long (yield), lane='6040_0', time=26541.00.
+Warning: Removing junction collision participants: vehicle '10129', vehicle '11432', lane=':7749_4_0', gap=-1.00, time=26541.00 stage=move.
+Warning: Vehicle '10965' ends teleporting on edge '7593', time=26541.00.
+Warning: Removing junction collision participants: vehicle '15953', vehicle '16057', lane=':7734_0_2', gap=-1.00, time=26542.00 stage=move.
+Warning: Vehicle '13802' performs emergency braking on lane '7546_0' with decel=9.00, wished=4.50, severity=1.00, time=26547.00.
+Warning: Teleporting vehicle '10612'; waited too long (yield), lane='6040_1', time=26549.00.
+Warning: Vehicle '10612' ends teleporting on edge '7593', time=26549.00.
+Warning: Removing junction collision participants: vehicle '10174', vehicle '10946', lane=':7749_4_0', gap=-1.00, time=26552.00 stage=move.
+Warning: Teleporting vehicle '10544'; waited too long (yield), lane='6040_3', time=26557.00.
+Warning: Vehicle '10544' ends teleporting on edge '7593', time=26557.00.
+Warning: Vehicle '15099' performs emergency braking on lane ':6404_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26560.00.
+Warning: Removing junction collision participants: vehicle '11095', vehicle '11424', lane=':7749_4_0', gap=-1.00, time=26562.00 stage=move.
+Warning: Teleporting vehicle '12324'; waited too long (yield), lane='7544_2', time=26566.00.
+Warning: Vehicle '12324' ends teleporting on edge '7671', time=26566.00.
+Warning: Teleporting vehicle '15688'; waited too long (yield), lane='8112_0', time=26567.00.
+Warning: Vehicle '15688' ends teleporting on edge '7535', time=26567.00.
+Warning: Teleporting vehicle '19162'; waited too long (yield), lane='7574_0', time=26568.00.
+Warning: Vehicle '19162' ends teleporting on edge '7550', time=26568.00.
+Warning: Teleporting vehicle '10642'; waited too long (yield), lane='7574_1', time=26571.00.
+Warning: Vehicle '10642' ends teleporting on edge '7550', time=26571.00.
+Warning: Teleporting vehicle '10568'; waited too long (yield), lane='7574_1', time=26572.00.
+Warning: Vehicle '10568' ends teleporting on edge '7550', time=26572.00.
+Warning: Removing junction collision participants: vehicle '10123', vehicle '11300', lane=':7749_4_0', gap=-1.00, time=26573.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11059', vehicle '10918', lane=':7749_4_0', gap=-1.00, time=26576.00 stage=move.
+Warning: Vehicle '11578' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26577.00.
+Warning: Vehicle '14394' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26578.00.
+Warning: Removing collision participants: vehicle '14394', vehicle '19124', lane='7580_0', gap=-3.67, time=26579.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11040', vehicle '11436', lane=':7749_4_0', gap=-1.00, time=26579.00 stage=move.
+Warning: Teleporting vehicle '17398'; waited too long (yield), lane='8112_0', time=26581.00.
+Warning: Vehicle '17398' ends teleporting on edge '7535', time=26581.00.
+Warning: Teleporting vehicle '16222'; waited too long (yield), lane='8112_0', time=26582.00.
+Warning: Vehicle '16222' ends teleporting on edge '7535', time=26582.00.
+Warning: Teleporting vehicle '16808'; waited too long (yield), lane='8112_0', time=26583.00.
+Warning: Vehicle '16808' ends teleporting on edge '7535', time=26583.00.
+Warning: Teleporting vehicle '16651'; waited too long (yield), lane='8112_0', time=26584.00.
+Warning: Teleporting vehicle '14468'; waited too long (yield), lane='8112_0', time=26585.00.
+Warning: Vehicle '18231' performs emergency braking on lane ':6411_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26585.00.
+Warning: Vehicle '16651' ends teleporting on edge '7535', time=26586.00.
+Warning: Vehicle '12296' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=26591.00.
+Warning: Removing junction collision participants: vehicle '11046', vehicle '11304', lane=':7749_4_0', gap=-1.00, time=26594.00 stage=move.
+Warning: Vehicle '19068' performs emergency braking on lane ':7751_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26597.00.
+Warning: Removing junction collision participants: vehicle '16013', vehicle '14383', lane=':6411_0_0', gap=-1.00, time=26597.00 stage=move.
+Warning: Teleporting vehicle '11559'; waited too long (yield), lane='7562_2', time=26598.00.
+Warning: Vehicle '11559' ends teleporting on edge '7553', time=26598.00.
+Warning: Teleporting vehicle '11537'; waited too long (yield), lane='7562_2', time=26599.00.
+Warning: Vehicle '11537' ends teleporting on edge '7553', time=26599.00.
+Warning: Vehicle '14716' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26602.00.
+Warning: Removing junction collision participants: vehicle '10057', vehicle '11427', lane=':7749_4_0', gap=-1.00, time=26604.00 stage=move.
+Warning: Vehicle '18430' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26613.00.
+Warning: Removing junction collision participants: vehicle '13181', vehicle '12880', lane=':6281_1_0', gap=-1.00, time=26615.00 stage=move.
+Warning: Teleporting vehicle '14989'; waited too long (yield), lane='7535_1', time=26621.00.
+Warning: Removing junction collision participants: vehicle '14973', vehicle '17936', lane=':7734_4_1', gap=-1.00, time=26621.00 stage=move.
+Warning: Vehicle '14989' ends teleporting on edge '6123', time=26621.00.
+Warning: Vehicle '14468' ends teleporting on edge '6123', time=26623.00.
+Warning: Vehicle '14468' performs emergency braking on lane '6123_0' with decel=9.00, wished=4.50, severity=1.00, time=26625.00.
+Warning: Vehicle '18965' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26625.00.
+Warning: Vehicle '13820' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26628.00.
+Warning: Teleporting vehicle '12216'; waited too long (yield), lane='7544_2', time=26631.00.
+Warning: Vehicle '12216' ends teleporting on edge '7671', time=26631.00.
+Warning: Removing collision participants: vehicle '18687', vehicle '14598', lane='7539_0', gap=-2.48, time=26632.00 stage=move.
+Warning: Teleporting vehicle '18950'; waited too long (yield), lane='7547_2', time=26638.00.
+Warning: Vehicle '18950' ends teleporting on edge '7548', time=26638.00.
+Warning: Vehicle '10303' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26639.00.
+Warning: Teleporting vehicle '14644'; waited too long (yield), lane='7591_0', time=26641.00.
+Warning: Vehicle '14644' ends teleporting on edge '6041', time=26641.00.
+Warning: Vehicle '10547' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26648.00.
+Warning: Removing collision participants: vehicle '13778', vehicle '16406', lane='7539_0', gap=-3.67, time=26648.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11243', vehicle '10306', lane=':7749_1_0', gap=-1.00, time=26648.00 stage=move.
+Warning: Removing collision participants: vehicle '13735', vehicle '16519', lane='7539_0', gap=-1.35, time=26651.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11324', vehicle '11245', lane=':7749_1_0', gap=-1.00, time=26651.00 stage=move.
+Warning: Teleporting vehicle '13370'; waited too long (yield), lane='7560_1', time=26652.00.
+Warning: Vehicle '13370' ends teleporting on edge '7555', time=26652.00.
+Warning: Removing collision participants: vehicle '17667', vehicle '13680', lane='7539_0', gap=-4.92, time=26654.00 stage=move.
+Warning: Vehicle '16887' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26656.00.
+Warning: Removing junction collision participants: vehicle '14309', vehicle '12979', lane=':7253_2_0', gap=-1.00, time=26658.00 stage=move.
+Warning: Teleporting vehicle '18893'; waited too long (yield), lane='7591_0', time=26659.00.
+Warning: Vehicle '18893' ends teleporting on edge '6041', time=26659.00.
+Warning: Teleporting vehicle '12203'; waited too long (yield), lane='7544_2', time=26660.00.
+Warning: Removing junction collision participants: vehicle '10131', vehicle '10807', lane=':7749_4_0', gap=-1.00, time=26660.00 stage=move.
+Warning: Vehicle '12203' ends teleporting on edge '7671', time=26660.00.
+Warning: Vehicle '18862' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26661.00.
+Warning: Removing junction collision participants: vehicle '13385', vehicle '13820', lane=':7253_2_0', gap=-1.00, time=26661.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11296', vehicle '10349', lane=':7749_1_0', gap=-1.00, time=26661.00 stage=move.
+Warning: Teleporting vehicle '11498'; waited too long (yield), lane='6042_1', time=26664.00.
+Warning: Teleporting vehicle '11525'; waited too long (yield), lane='7562_2', time=26664.00.
+Warning: Teleporting vehicle '14819'; waited too long (yield), lane='8112_0', time=26664.00.
+Warning: Removing junction collision participants: vehicle '13723', vehicle '18139', lane=':7734_0_0', gap=-1.00, time=26664.00 stage=move.
+Warning: Vehicle '14819' ends teleporting on edge '7535', time=26664.00.
+Warning: Vehicle '11525' ends teleporting on edge '7553', time=26664.00.
+Warning: Vehicle '11498' ends teleporting on edge '6045', time=26664.00.
+Warning: Removing junction collision participants: vehicle '18808', vehicle '17091', lane=':7734_0_0', gap=-1.00, time=26666.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10195', vehicle '19166', lane=':7749_4_0', gap=-1.00, time=26667.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18859', vehicle '17775', lane=':7734_0_0', gap=-1.00, time=26668.00 stage=move.
+Warning: Vehicle '16865' performs emergency braking on lane '7545_0' with decel=9.00, wished=4.50, severity=1.00, time=26669.00.
+Warning: Removing junction collision participants: vehicle '13805', vehicle '15153', lane=':7734_0_0', gap=-1.00, time=26670.00 stage=move.
+Warning: Teleporting vehicle '11508'; waited too long (yield), lane='6044_0', time=26672.00.
+Warning: Removing collision participants: vehicle '18748', vehicle '14382', lane='7539_0', gap=-4.58, time=26672.00 stage=move.
+Warning: Vehicle '11508' ends teleporting on edge '6039', time=26672.00.
+Warning: Teleporting vehicle '12313'; waited too long (yield), lane='7560_2', time=26673.00.
+Warning: Vehicle '12313' ends teleporting on edge '7555', time=26673.00.
+Warning: Removing junction collision participants: vehicle '12270', vehicle '13790', lane=':7253_2_0', gap=-1.00, time=26674.00 stage=move.
+Warning: Vehicle '15578' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26675.00.
+Warning: Teleporting vehicle '13165'; waited too long (yield), lane='7560_2', time=26677.00.
+Warning: Removing junction collision participants: vehicle '10146', vehicle '10965', lane=':7749_4_0', gap=-1.00, time=26677.00 stage=move.
+Warning: Teleporting vehicle '13170'; waited too long (yield), lane='7621_0', time=26679.00.
+Warning: Vehicle '13165' ends teleporting on edge '7556', time=26679.00.
+Warning: Vehicle '18862' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26687.00.
+Warning: Teleporting vehicle '14699'; waited too long (yield), lane='8112_0', time=26687.00.
+Warning: Vehicle '14699' ends teleporting on edge '7535', time=26687.00.
+Warning: Teleporting vehicle '16297'; waited too long (yield), lane='8112_0', time=26688.00.
+Warning: Vehicle '16297' ends teleporting on edge '7535', time=26689.00.
+Warning: Teleporting vehicle '10757'; waited too long (yield), lane='6040_0', time=26692.00.
+Warning: Vehicle '10757' ends teleporting on edge '7593', time=26692.00.
+Warning: Teleporting vehicle '14646'; waited too long (jam), lane='7591_0', time=26697.00.
+Warning: Removing junction collision participants: vehicle '19187', vehicle '13802', lane=':7253_2_0', gap=-1.00, time=26697.00 stage=move.
+Warning: Vehicle '14646' ends teleporting on edge '6041', time=26697.00.
+Warning: Removing junction collision participants: vehicle '14895', vehicle '18764', lane=':7734_4_0', gap=-1.00, time=26699.00 stage=move.
+Warning: Vehicle '11559' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26700.00.
+Warning: Teleporting vehicle '10440'; waited too long (yield), lane='6040_0', time=26700.00.
+Warning: Vehicle '10440' ends teleporting on edge '7593', time=26700.00.
+Warning: Removing junction collision participants: vehicle '10158', vehicle '10978', lane=':7749_4_0', gap=-1.00, time=26708.00 stage=move.
+Warning: Removing junction collision participants: vehicle '17172', vehicle '18940', lane=':7734_4_1', gap=-1.00, time=26710.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10082', vehicle '10801', lane=':7749_4_0', gap=-1.00, time=26711.00 stage=move.
+Warning: Teleporting vehicle '10690'; waited too long (yield), lane='6040_2', time=26714.00.
+Warning: Removing junction collision participants: vehicle '11045', vehicle '10945', lane=':7749_4_0', gap=-1.00, time=26714.00 stage=move.
+Warning: Vehicle '10690' ends teleporting on edge '7593', time=26714.00.
+Warning: Removing junction collision participants: vehicle '14736', vehicle '18921', lane=':7734_4_1', gap=-1.00, time=26720.00 stage=move.
+Warning: Removing collision participants: vehicle '11525', vehicle '19046', lane='7580_0', gap=-3.82, time=26720.00 stage=move.
+Warning: Teleporting vehicle '10919'; waited too long (yield), lane='7574_0', time=26725.00.
+Warning: Teleporting vehicle '10519'; waited too long (yield), lane='7574_1', time=26725.00.
+Warning: Vehicle '10919' ends teleporting on edge '7550', time=26725.00.
+Warning: Vehicle '10519' ends teleporting on edge '7550', time=26725.00.
+Warning: Removing junction collision participants: vehicle '19005', vehicle '14495', lane=':7734_0_0', gap=-1.00, time=26726.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10156', vehicle '10825', lane=':7749_4_0', gap=-1.00, time=26727.00 stage=move.
+Warning: Teleporting vehicle '10497'; waited too long (yield), lane='7574_2', time=26728.00.
+Warning: Vehicle '10497' ends teleporting on edge '7550', time=26728.00.
+Warning: Removing junction collision participants: vehicle '11885', vehicle '19162', lane=':2410__6_0', gap=-1.00, time=26729.00 stage=move.
+Warning: Vehicle '13700' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26733.00.
+Warning: Vehicle '18075' performs emergency braking on lane ':6404_1_0' with decel=9.00, wished=4.50, severity=1.00, time=26738.00.
+Warning: Removing junction collision participants: vehicle '10069', vehicle '11261', lane=':7749_4_0', gap=-1.00, time=26738.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18590', vehicle '14274', lane=':7734_4_0', gap=-1.00, time=26742.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10190', vehicle '11366', lane=':7749_4_0', gap=-1.00, time=26742.00 stage=move.
+Warning: Vehicle '10519' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26744.00.
+Warning: Teleporting vehicle '18676'; waited too long (yield), lane='7547_0', time=26744.00.
+Warning: Vehicle '18676' ends teleporting on edge '7548', time=26744.00.
+Warning: Removing junction collision participants: vehicle '17339', vehicle '13860', lane=':7734_4_1', gap=-1.00, time=26746.00 stage=move.
+Warning: Removing collision participants: vehicle '14809', vehicle '13687', lane='7539_0', gap=-1.72, time=26746.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11609', vehicle '14706', lane=':7746_0_2', gap=-1.00, time=26747.00 stage=move.
+Warning: Teleporting vehicle '13071'; waited too long (yield), lane='7621_0', time=26748.00.
+Warning: Teleporting vehicle '18527'; waited too long (yield), lane='7547_2', time=26752.00.
+Warning: Vehicle '18527' ends teleporting on edge '7548', time=26752.00.
+Warning: Teleporting vehicle '12729'; waited too long (jam), lane=':6281_1_0', time=26754.00.
+Warning: Teleporting vehicle '13724'; waited too long (yield), lane='7547_0', time=26755.00.
+Warning: Vehicle '13724' ends teleporting on edge '7548', time=26755.00.
+Warning: Teleporting vehicle '10895'; waited too long (jam), lane=':7749_5_1', time=26756.00.
+Warning: Removing junction collision participants: vehicle '17303', vehicle '18801', lane=':7734_4_0', gap=-1.00, time=26758.00 stage=move.
+Warning: Removing junction collision participants: vehicle '15950', vehicle '18930', lane=':7734_4_1', gap=-1.00, time=26760.00 stage=move.
+Warning: Vehicle '18986' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=26761.00.
+Warning: Teleporting vehicle '10997'; waited too long (yield), lane='10342.32_0', time=26761.00.
+Warning: Vehicle '13170' ends teleporting on edge '7560', time=26761.00.
+Warning: Vehicle '10997' ends teleporting on edge '6039', time=26761.00.
+Warning: Vehicle '15437' performs emergency braking on lane '8111_0' with decel=9.00, wished=4.50, severity=1.00, time=26762.00.
+Warning: Teleporting vehicle '18353'; waited too long (yield), lane='8111_2', time=26765.00.
+Warning: Vehicle '18353' ends teleporting on edge '7539', time=26765.00.
+Warning: Vehicle '12729' ends teleporting on edge '6124', time=26766.00.
+Warning: Teleporting vehicle '16072'; waited too long (yield), lane='8111_2', time=26767.00.
+Warning: Vehicle '16072' ends teleporting on edge '7539', time=26767.00.
+Warning: Teleporting vehicle '11542'; waited too long (yield), lane='7562_2', time=26768.00.
+Warning: Teleporting vehicle '18090'; waited too long (yield), lane='8111_2', time=26768.00.
+Warning: Vehicle '18090' ends teleporting on edge '7539', time=26768.00.
+Warning: Vehicle '11542' ends teleporting on edge '7553', time=26768.00.
+Warning: Removing collision participants: vehicle '13664', vehicle '14402', lane='7539_0', gap=-4.80, time=26770.00 stage=move.
+Warning: Vehicle '13071' ends teleporting on edge '6124', time=26774.00.
+Warning: Vehicle '12666' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26777.00.
+Warning: Teleporting vehicle '11970'; waited too long (yield), lane='7591_0', time=26787.00.
+Warning: Vehicle '11970' ends teleporting on edge '6041', time=26787.00.
+Warning: Teleporting vehicle '12030'; waited too long (yield), lane='7544_2', time=26790.00.
+Warning: Removing junction collision participants: vehicle '11106', vehicle '11360', lane=':7749_4_0', gap=-1.00, time=26790.00 stage=move.
+Warning: Vehicle '12030' ends teleporting on edge '7671', time=26790.00.
+Warning: Teleporting vehicle '18874'; waited too long (yield), lane='7591_1', time=26795.00.
+Warning: Vehicle '18874' ends teleporting on edge '6041', time=26795.00.
+Warning: Removing junction collision participants: vehicle '13064', vehicle '12541', lane=':6281_1_0', gap=-1.00, time=26798.00 stage=move.
+Warning: Vehicle '14381' performs emergency braking on lane '7558_0' with decel=9.00, wished=4.50, severity=1.00, time=26799.00.
+Warning: Vehicle '18733' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26800.00.
+Warning: Removing collision participants: vehicle '18733', vehicle '15361', lane='7539_0', gap=-1.16, time=26800.00 stage=move.
+Warning: Vehicle '10399' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26804.00.
+Warning: Vehicle '10895' ends teleporting on edge '7574', time=26806.00.
+Warning: Teleporting vehicle '17684'; waited too long (yield), lane='8111_2', time=26807.00.
+Warning: Vehicle '17684' ends teleporting on edge '7539', time=26807.00.
+Warning: Vehicle '18838' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26808.00.
+Warning: Teleporting vehicle '18877'; waited too long (yield), lane='7547_1', time=26808.00.
+Warning: Vehicle '18877' ends teleporting on edge '7548', time=26808.00.
+Warning: Vehicle '10417' performs emergency braking on lane ':7746_0_2' with decel=9.00, wished=4.50, severity=1.00, time=26809.00.
+Warning: Removing junction collision participants: vehicle '17679', vehicle '18956', lane=':7734_4_0', gap=-1.00, time=26811.00 stage=move.
+Warning: Vehicle '18877' performs emergency braking on lane '7557_0' with decel=9.00, wished=4.50, severity=1.00, time=26816.00.
+Warning: Teleporting vehicle '18503'; waited too long (yield), lane='7547_2', time=26818.00.
+Warning: Vehicle '18503' ends teleporting on edge '7548', time=26818.00.
+Warning: Teleporting vehicle '18735'; waited too long (yield), lane='7547_0', time=26820.00.
+Warning: Vehicle '18735' ends teleporting on edge '7548', time=26820.00.
+Warning: Vehicle '13631' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26821.00.
+Warning: Removing junction collision participants: vehicle '13716', vehicle '16385', lane=':7734_0_0', gap=-1.00, time=26824.00 stage=move.
+Warning: Vehicle '14381' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=26827.00.
+Warning: Teleporting vehicle '12497'; waited too long (yield), lane='7544_2', time=26829.00.
+Warning: Vehicle '12497' ends teleporting on edge '7671', time=26829.00.
+Warning: Vehicle '13755' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26830.00.
+Warning: Teleporting vehicle '13753'; waited too long (jam), lane='7547_0', time=26830.00.
+Warning: Vehicle '13753' ends teleporting on edge '7548', time=26830.00.
+Warning: Teleporting vehicle '12303'; waited too long (yield), lane='7560_1', time=26831.00.
+Warning: Vehicle '12303' ends teleporting on edge '7555', time=26831.00.
+Warning: Teleporting vehicle '12982'; waited too long (yield), lane='7560_2', time=26834.00.
+Warning: Removing junction collision participants: vehicle '18388', vehicle '18705', lane=':7734_4_0', gap=-1.00, time=26834.00 stage=move.
+Warning: Vehicle '12982' ends teleporting on edge '7555', time=26834.00.
+Warning: Removing junction collision participants: vehicle '19011', vehicle '17893', lane=':6404_0_0', gap=-1.00, time=26835.00 stage=move.
+Warning: Removing junction collision participants: vehicle '16054', vehicle '18800', lane=':7734_4_0', gap=-1.00, time=26837.00 stage=move.
+Warning: Teleporting vehicle '12717'; waited too long (yield), lane='7560_2', time=26838.00.
+Warning: Vehicle '12717' ends teleporting on edge '7555', time=26838.00.
+Warning: Teleporting vehicle '19069'; waited too long (yield), lane='6044_0', time=26839.00.
+Warning: Removing collision participants: vehicle '17065', vehicle '19024', lane='7539_0', gap=-2.82, time=26839.00 stage=move.
+Warning: Vehicle '19069' ends teleporting on edge '6039', time=26839.00.
+Warning: Teleporting vehicle '11573'; waited too long (yield), lane='7562_2', time=26844.00.
+Warning: Vehicle '11573' ends teleporting on edge '7553', time=26844.00.
+Warning: Vehicle '14301' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26845.00.
+Warning: Teleporting vehicle '12313'; waited too long (yield), lane='7591_0', time=26852.00.
+Warning: Vehicle '12313' ends teleporting on edge '6041', time=26852.00.
+Warning: Teleporting vehicle '10228'; waited too long (yield), lane='6040_0', time=26853.00.
+Warning: Vehicle '10228' ends teleporting on edge '7593', time=26853.00.
+Warning: Removing junction collision participants: vehicle '14413', vehicle '13708', lane=':7734_4_0', gap=-1.00, time=26854.00 stage=move.
+Warning: Vehicle '17658' performs emergency braking on lane '7539_0' with decel=9.00, wished=4.50, severity=1.00, time=26860.00.
+Warning: Teleporting vehicle '12101'; waited too long (yield), lane='7544_2', time=26860.00.
+Warning: Vehicle '12101' ends teleporting on edge '7671', time=26860.00.
+Warning: Teleporting vehicle '10731'; waited too long (yield), lane='6040_1', time=26864.00.
+Warning: Removing junction collision participants: vehicle '14304', vehicle '14375', lane=':6411_1_0', gap=-1.00, time=26864.00 stage=laneChange.
+Warning: Vehicle '10731' ends teleporting on edge '7593', time=26864.00.
+Warning: Removing junction collision participants: vehicle '15156', vehicle '18968', lane=':7734_4_0', gap=-1.00, time=26866.00 stage=move.
+Warning: Vehicle '14335' performs emergency braking on lane ':7734_4_0' with decel=9.00, wished=4.50, severity=1.00, time=26869.00.
+Warning: Removing junction collision participants: vehicle '11066', vehicle '11455', lane=':7749_4_0', gap=-1.00, time=26872.00 stage=move.
+Warning: Teleporting vehicle '10318'; waited too long (yield), lane='6040_1', time=26876.00.
+Warning: Vehicle '10318' ends teleporting on edge '7593', time=26876.00.
+Warning: Vehicle '17369' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26877.00.
+Warning: Teleporting vehicle '10232'; waited too long (yield), lane='6040_3', time=26878.00.
+Warning: Vehicle '10232' ends teleporting on edge '7593', time=26878.00.
+Warning: Removing junction collision participants: vehicle '10189', vehicle '11268', lane=':7749_4_0', gap=-1.00, time=26880.00 stage=move.
+Warning: Removing junction collision participants: vehicle '18834', vehicle '16418', lane=':7734_0_0', gap=-1.00, time=26881.00 stage=move.
+Warning: Removing collision participants: vehicle '18760', vehicle '15202', lane='7539_0', gap=-3.76, time=26886.00 stage=move.
+Warning: Teleporting vehicle '10256'; waited too long (yield), lane='7574_2', time=26890.00.
+Warning: Removing junction collision participants: vehicle '17687', vehicle '16528', lane=':7734_0_2', gap=-1.00, time=26890.00 stage=move.
+Warning: Vehicle '10256' ends teleporting on edge '7550', time=26890.00.
+Warning: Teleporting vehicle '10683'; waited too long (yield), lane='7574_1', time=26893.00.
+Warning: Vehicle '10683' ends teleporting on edge '7550', time=26893.00.
+Warning: Removing junction collision participants: vehicle '18644', vehicle '18727', lane=':7734_4_0', gap=-1.00, time=26895.00 stage=move.
+Warning: Teleporting vehicle '10770'; waited too long (yield), lane='7574_1', time=26897.00.
+Warning: Vehicle '10770' ends teleporting on edge '7550', time=26897.00.
+Warning: Teleporting vehicle '16558'; waited too long (yield), lane='8112_0', time=26900.00.
+Warning: Vehicle '16558' ends teleporting on edge '7535', time=26900.00.
+Warning: Teleporting vehicle '14508'; waited too long (yield), lane='7547_1', time=26903.00.
+Warning: Vehicle '14508' ends teleporting on edge '7548', time=26903.00.
+Warning: Teleporting vehicle '14587'; waited too long (yield), lane='7547_0', time=26904.00.
+Warning: Teleporting vehicle '17958'; waited too long (yield), lane='8111_2', time=26904.00.
+Warning: Vehicle '14587' ends teleporting on edge '7548', time=26904.00.
+Warning: Vehicle '17958' ends teleporting on edge '7539', time=26904.00.
+Warning: Teleporting vehicle '18952'; waited too long (yield), lane='7547_2', time=26912.00.
+Warning: Removing junction collision participants: vehicle '12349', vehicle '13586', lane=':6281_1_0', gap=-1.00, time=26912.00 stage=move.
+Warning: Vehicle '18952' ends teleporting on edge '7548', time=26912.00.
+Warning: Vehicle '10683' performs emergency braking on lane '7559_1' with decel=9.00, wished=4.50, severity=1.00, time=26914.00.
+Warning: Removing junction collision participants: vehicle '15485', vehicle '13800', lane=':7734_4_0', gap=-1.00, time=26915.00 stage=move.
+Warning: Teleporting vehicle '11301'; waited too long (jam), lane=':7749_5_1', time=26916.00.
+Warning: Vehicle '11301' ends teleporting on edge '7574', time=26916.00.
+Warning: Removing junction collision participants: vehicle '11420', vehicle '10913', lane=':7749_1_0', gap=-1.00, time=26918.00 stage=move.
+Warning: Teleporting vehicle '11532'; waited too long (yield), lane='7562_2', time=26920.00.
+Warning: Teleporting vehicle '10854'; waited too long (jam), lane=':7749_5_1', time=26920.00.
+Warning: Vehicle '11532' ends teleporting on edge '7553', time=26920.00.
+Warning: Teleporting vehicle '10781'; waited too long (jam), lane=':7749_5_1', time=26921.00.
+Warning: Teleporting vehicle '11614'; waited too long (yield), lane='7562_2', time=26925.00.
+Warning: Vehicle '11614' ends teleporting on edge '7553', time=26925.00.
+Warning: Teleporting vehicle '11890'; waited too long (yield), lane='7544_2', time=26926.00.
+Warning: Vehicle '11890' ends teleporting on edge '7671', time=26926.00.
+Warning: Removing junction collision participants: vehicle '16494', vehicle '18939', lane=':7734_4_1', gap=-1.00, time=26927.00 stage=move.
+Warning: Teleporting vehicle '17944'; waited too long (yield), lane='8111_2', time=26928.00.
+Warning: Vehicle '17944' ends teleporting on edge '7539', time=26928.00.
+Warning: Teleporting vehicle '16970'; waited too long (yield), lane='8111_2', time=26929.00.
+Warning: Removing collision participants: vehicle '17714', vehicle '18964', lane='7539_0', gap=-4.16, time=26929.00 stage=move.
+Warning: Vehicle '16970' ends teleporting on edge '7539', time=26929.00.
+Warning: Teleporting vehicle '16141'; waited too long (yield), lane='8111_2', time=26930.00.
+Warning: Vehicle '16141' ends teleporting on edge '7539', time=26930.00.
+Warning: Teleporting vehicle '16879'; waited too long (yield), lane='8111_2', time=26931.00.
+Warning: Vehicle '16879' ends teleporting on edge '7539', time=26931.00.
+Warning: Teleporting vehicle '14467'; waited too long (yield), lane='8111_2', time=26934.00.
+Warning: Removing collision participants: vehicle '18037', vehicle '18928', lane='7539_1', gap=-0.92, time=26934.00 stage=move.
+Warning: Vehicle '14467' ends teleporting on edge '7539', time=26934.00.
+Warning: Teleporting vehicle '17964'; waited too long (yield), lane='8111_2', time=26935.00.
+Warning: Vehicle '17964' ends teleporting on edge '7539', time=26935.00.
+Warning: Teleporting vehicle '19140'; waited too long (yield), lane='7591_0', time=26949.00.
+Warning: Removing collision participants: vehicle '15457', vehicle '18059', lane='7539_1', gap=-4.33, time=26949.00 stage=move.
+Warning: Vehicle '10854' ends teleporting on edge '7574', time=26949.00.
+Warning: Vehicle '19140' ends teleporting on edge '6041', time=26949.00.
+Warning: Removing junction collision participants: vehicle '13117', vehicle '13103', lane=':6281_1_0', gap=-1.00, time=26952.00 stage=move.
+Warning: Vehicle '16929' performs emergency braking on lane '7540_1' with decel=9.00, wished=4.50, severity=1.00, time=26954.00.
+Warning: Removing junction collision participants: vehicle '16929', vehicle '18306', lane=':7734_0_2', gap=-1.00, time=26954.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10077', vehicle '10883', lane=':7749_4_0', gap=-1.00, time=26954.00 stage=move.
+Warning: Removing junction collision participants: vehicle '17072', vehicle '17804', lane=':7734_4_1', gap=-1.00, time=26964.00 stage=move.
+Warning: Vehicle '15660' performs emergency braking on lane ':7746_3_1' with decel=9.00, wished=4.50, severity=1.00, time=26965.00.
+Warning: Vehicle '10781' ends teleporting on edge '7574', time=26966.00.
+Warning: Teleporting vehicle '18794'; waited too long (yield), lane='7547_1', time=26967.00.
+Warning: Teleporting vehicle '10951'; waited too long (yield), lane='7544_2', time=26967.00.
+Warning: Removing junction collision participants: vehicle '11467', vehicle '10805', lane=':7749_1_0', gap=-1.00, time=26967.00 stage=move.
+Warning: Vehicle '10951' ends teleporting on edge '7671', time=26967.00.
+Warning: Vehicle '18794' ends teleporting on edge '7548', time=26967.00.
+Warning: Teleporting vehicle '19026'; waited too long (yield), lane='7547_0', time=26970.00.
+Warning: Vehicle '19026' ends teleporting on edge '7548', time=26970.00.
+Warning: Teleporting vehicle '12637'; waited too long (yield), lane='7560_1', time=26974.00.
+Warning: Removing junction collision participants: vehicle '11386', vehicle '10954', lane=':7749_1_0', gap=-1.00, time=26976.00 stage=move.
+Warning: Vehicle '12637' ends teleporting on edge '7556', time=26976.00.
+Warning: Teleporting vehicle '18362'; waited too long (yield), lane='7547_2', time=26978.00.
+Warning: Vehicle '18362' ends teleporting on edge '7548', time=26978.00.
+Warning: Removing junction collision participants: vehicle '17723', vehicle '16081', lane=':7734_4_1', gap=-1.00, time=26981.00 stage=move.
+Warning: Teleporting vehicle '19147'; waited too long (yield), lane='7591_1', time=26982.00.
+Warning: Vehicle '19147' ends teleporting on edge '6041', time=26982.00.
+Warning: Removing junction collision participants: vehicle '16788', vehicle '15490', lane=':7734_0_2', gap=-1.00, time=26984.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11412', vehicle '10894', lane=':7749_1_0', gap=-1.00, time=26984.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10149', vehicle '10894', lane=':7749_4_0', gap=-1.00, time=26984.00 stage=move.
+Warning: Teleporting vehicle '11556'; waited too long (yield), lane='7562_1', time=26987.00.
+Warning: Vehicle '11556' ends teleporting on edge '7553', time=26987.00.
+Warning: Removing junction collision participants: vehicle '11398', vehicle '10727', lane=':7749_1_0', gap=-1.00, time=26988.00 stage=move.
+Warning: Vehicle '14307' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=26989.00.
+Warning: Removing junction collision participants: vehicle '11138', vehicle '11144', lane=':7749_4_0', gap=-1.00, time=26989.00 stage=move.
+Warning: Teleporting vehicle '11539'; waited too long (yield), lane='7562_2', time=26990.00.
+Warning: Vehicle '11539' ends teleporting on edge '7553', time=26990.00.
+Warning: Teleporting vehicle '13096'; waited too long (yield), lane='7560_2', time=26992.00.
+Warning: Teleporting vehicle '13071'; waited too long (jam), lane=':6316_1_1', time=26992.00.
+Warning: Removing junction collision participants: vehicle '11337', vehicle '11213', lane=':7749_5_0', gap=-1.00, time=26992.00 stage=move.
+Warning: Vehicle '13096' ends teleporting on edge '7555', time=26992.00.
+Warning: Vehicle '13096' performs emergency braking on lane '7555_0' with decel=9.00, wished=4.50, severity=1.00, time=26993.00.
+Warning: Teleporting vehicle '11531'; waited too long (yield), lane='6044_0', time=26993.00.
+Warning: Removing junction collision participants: vehicle '18789', vehicle '15700', lane=':7734_0_0', gap=-1.00, time=26993.00 stage=move.
+Warning: Vehicle '11531' ends teleporting on edge '6039', time=26993.00.
+Warning: Teleporting vehicle '12424'; waited too long (yield), lane='7544_2', time=26996.00.
+Warning: Vehicle '11064' performs emergency braking on lane '10324_0' with decel=9.00, wished=4.50, severity=1.00, time=26996.00.
+Warning: Removing junction collision participants: vehicle '11064', vehicle '11025', lane=':7749_0_0', gap=-1.00, time=26996.00 stage=move.
+Warning: Vehicle '12424' ends teleporting on edge '7671', time=26996.00.
+Warning: Removing junction collision participants: vehicle '15938', vehicle '13877', lane=':7734_4_0', gap=-1.00, time=26998.00 stage=move.
+Warning: Removing junction collision participants: vehicle '11406', vehicle '11309', lane=':7749_1_0', gap=-1.00, time=26998.00 stage=move.
+Warning: Teleporting vehicle '12372'; waited too long (yield), lane='7560_2', time=26999.00.
+Warning: Vehicle '12372' ends teleporting on edge '7555', time=26999.00.
+Warning: Removing junction collision participants: vehicle '10440', vehicle '14797', lane=':7746_0_2', gap=-1.00, time=27000.00 stage=move.
+Warning: Teleporting vehicle '12621'; waited too long (jam), lane=':6316_1_2', time=27001.00.
+Warning: Removing junction collision participants: vehicle '11128', vehicle '11257', lane=':7749_4_0', gap=-1.00, time=27002.00 stage=move.
+Warning: Vehicle '18738' performs emergency braking on lane '7540_0' with decel=9.00, wished=4.50, severity=1.00, time=27004.00.
+Warning: Removing junction collision participants: vehicle '18712', vehicle '18622', lane=':7734_0_0', gap=-1.00, time=27006.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10143', vehicle '11431', lane=':7749_4_0', gap=-1.00, time=27006.00 stage=move.
+Warning: Vehicle '14456' performs emergency braking on lane ':6315_3_0' with decel=9.00, wished=4.50, severity=1.00, time=27008.00.
+Warning: Removing collision participants: vehicle '14339', vehicle '19025', lane='7539_0', gap=-0.04, time=27008.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10141', vehicle '11251', lane=':7749_4_0', gap=-1.00, time=27010.00 stage=move.
+Warning: Teleporting vehicle '10193'; waited too long (yield), lane='6040_0', time=27013.00.
+Warning: Removing junction collision participants: vehicle '11311', vehicle '10875', lane=':7749_1_0', gap=-1.00, time=27013.00 stage=move.
+Warning: Vehicle '10193' ends teleporting on edge '7593', time=27013.00.
+Warning: Vehicle '13123' performs emergency braking on lane '7559_0' with decel=9.00, wished=4.50, severity=1.00, time=27014.00.
+Warning: Teleporting vehicle '10591'; waited too long (yield), lane='6040_0', time=27014.00.
+Warning: Vehicle '10591' ends teleporting on edge '7593', time=27014.00.
+Warning: Teleporting vehicle '12591'; waited too long (yield), lane='7591_0', time=27015.00.
+Warning: Vehicle '18985' performs emergency braking on lane ':6404_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27015.00.
+Warning: Vehicle '12591' ends teleporting on edge '6041', time=27015.00.
+Warning: Teleporting vehicle '10953'; waited too long (yield), lane='6040_2', time=27024.00.
+Warning: Vehicle '10953' ends teleporting on edge '7593', time=27024.00.
+Warning: Removing junction collision participants: vehicle '11284', vehicle '10795', lane=':7749_1_0', gap=-1.00, time=27026.00 stage=move.
+Warning: Vehicle '13071' ends teleporting on edge '7555', time=27027.00.
+Warning: Removing junction collision participants: vehicle '14498', vehicle '14731', lane=':6411_0_0', gap=-1.00, time=27030.00 stage=move.
+Warning: Vehicle '14588' performs emergency braking on lane ':7734_0_0' with decel=9.00, wished=4.50, severity=1.00, time=27032.00.
+Warning: Removing junction collision participants: vehicle '11353', vehicle '10940', lane=':7749_1_0', gap=-1.00, time=27032.00 stage=move.
+Warning: Teleporting vehicle '10851'; waited too long (yield), lane='6040_3', time=27033.00.
+Warning: Vehicle '10851' ends teleporting on edge '7593', time=27033.00.
+Warning: Removing junction collision participants: vehicle '10790', vehicle '11418', lane=':7749_5_1', gap=-1.00, time=27034.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13497', vehicle '11979', lane=':7232_1_0', gap=-1.00, time=27034.00 stage=move.
+Warning: Vehicle '18867' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=27035.00.
+Warning: Vehicle '12621' ends teleporting on edge '7555', time=27036.00.
+Warning: Removing junction collision participants: vehicle '10085', vehicle '10936', lane=':7749_4_0', gap=-1.00, time=27037.00 stage=move.
+Warning: Teleporting vehicle '10540'; waited too long (yield), lane='7574_1', time=27044.00.
+Warning: Vehicle '10540' ends teleporting on edge '7550', time=27044.00.
+Warning: Teleporting vehicle '10554'; waited too long (yield), lane='7574_2', time=27047.00.
+Warning: Vehicle '10554' ends teleporting on edge '7550', time=27047.00.
+Warning: Teleporting vehicle '11472'; waited too long (yield), lane='7574_0', time=27050.00.
+Warning: Vehicle '11472' ends teleporting on edge '7550', time=27050.00.
+Warning: Removing junction collision participants: vehicle '14853', vehicle '17299', lane=':7734_4_1', gap=-1.00, time=27055.00 stage=move.
+Warning: Removing collision participants: vehicle '18123', vehicle '16951', lane='7539_1', gap=-4.78, time=27058.00 stage=move.
+Warning: Removing junction collision participants: vehicle '17951', vehicle '18882', lane=':7734_4_0', gap=-1.00, time=27060.00 stage=move.
+Warning: Teleporting vehicle '12228'; waited too long (yield), lane='7544_2', time=27061.00.
+Warning: Vehicle '12228' ends teleporting on edge '7671', time=27061.00.
+Warning: Teleporting vehicle '14642'; waited too long (yield), lane='7547_0', time=27063.00.
+Warning: Teleporting vehicle '13663'; waited too long (yield), lane='7547_1', time=27063.00.
+Warning: Vehicle '14642' ends teleporting on edge '7548', time=27063.00.
+Warning: Vehicle '13663' ends teleporting on edge '7548', time=27063.00.
+Warning: Removing junction collision participants: vehicle '15041', vehicle '16881', lane=':7734_4_1', gap=-1.00, time=27064.00 stage=move.
+Warning: Removing junction collision participants: vehicle '13619', vehicle '10854', lane=':2410__3_0', gap=-1.00, time=27066.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10180', vehicle '10943', lane=':7749_4_0', gap=-1.00, time=27069.00 stage=move.
+Warning: Teleporting vehicle '12635'; waited too long (jam), lane='7623_0', time=27073.00.
+Warning: Removing junction collision participants: vehicle '10110', vehicle '10884', lane=':7749_4_0', gap=-1.00, time=27073.00 stage=move.
+Warning: Removing junction collision participants: vehicle '10193', vehicle '10707', lane=':7749_4_0', gap=-1.00, time=27075.00 stage=move.
+Warning: Vehicle '18627' performs emergency braking on lane '7580_0' with decel=9.00, wished=4.50, severity=1.00, time=27076.00.
+Warning: Vehicle '12635' ends teleporting on edge '6124', time=27078.00.
+Warning: Teleporting vehicle '11860'; waited too long (yield), lane='7562_2', time=27083.00.
+Warning: Vehicle '11860' ends teleporting on edge '7553', time=27083.00.
+Warning: Vehicle '13663' performs emergency braking on lane '7579_0' with decel=9.00, wished=4.50, severity=1.00, time=27087.00.
+Warning: Removing collision participants: vehicle '13663', vehicle '19084', lane='7580_0', gap=-2.87, time=27087.00 stage=move.
+Warning: Vehicle '14709' performs emergency braking on lane ':7746_3_0' with decel=9.00, wished=4.50, severity=1.00, time=27091.00.
+Simulation ended at time: 27096.00
+Performance: 
+ Duration: 47.44s
+ TraCI-Duration: 5.57s
+ Real time factor: 39.968
+ UPS: 31009.001223
+Vehicles: 
+ Inserted: 4447 (Loaded: 5087)
+ Running: 1065
+ Waiting: 364
+ Teleports: 374 (Collisions: 349, Jam: 39, Yield: 335)
+
+DijkstraRouter answered 2160 queries and explored 76.95 edges on average.
+DijkstraRouter spent 0.09s answering queries (0.04ms on average).
+DijkstraRouter answered 1806 queries and explored 78.66 edges on average.
+DijkstraRouter spent 0.05s answering queries (0.03ms on average).
+DijkstraRouter answered 1189 queries and explored 77.35 edges on average.
+DijkstraRouter spent 0.02s answering queries (0.02ms on average).
+DijkstraRouter answered 772 queries and explored 83.33 edges on average.
+DijkstraRouter spent 0.02s answering queries (0.03ms on average).
+DijkstraRouter answered 721 queries and explored 66.26 edges on average.
+DijkstraRouter spent 0.01s answering queries (0.02ms on average).
+DijkstraRouter answered 311 queries and explored 70.34 edges on average.
+DijkstraRouter spent 0.00s answering queries (0.01ms on average).

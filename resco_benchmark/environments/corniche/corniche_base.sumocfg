@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="Corniche_base.net.xml"/>
+        <route-files value="trips_31_01_2018.xml"/>
+        <gui-settings-file value="gui.settings.xml"/>
+		<additional-files value="Corniche_edge_in_districts.taz.xml"/>
+		<start value="false"/> 
+    </input>
+    <time>
+        <begin value="1400"/>
+        <end value="5000"/>
+        <step-length value='1'/>
+    </time>
+    <processing>
+        <device.rerouting.with-taz/>
+		<collision.action value="remove"/>
+        <collision.check-junctions value="true"/>
+		<collision.mingap-factor value="0"/>
+        <time-to-teleport value="-1"/>
+        <ignore-junction-blocker value="3"/>
+        <ignore-route-errors value="true"/>
+        <default.action-step-length value="1"/>
+        <scale value="1"/>
+    </processing>
+    <traci_server>
+  	<remote-port value="8813"/>
+    </traci_server>
+
+  </configuration>
