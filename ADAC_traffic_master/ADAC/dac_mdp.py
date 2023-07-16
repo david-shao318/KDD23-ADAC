@@ -655,6 +655,17 @@ if __name__ == "__main__":
     # NON-CORE STATES TO EVALUATE
     eval_state = [[1., 4.]]
 
+    # set to discrete_BCQ.FC_Q for deep learning
+    q_model = None
+
+    # set to -1 for ADAC
+    cost = 0
+
+    k = 3
+    gamma = 0.99
+    epsilon = 0.01
+
+
     buffer = ReplayBuffer(state_dim=len(state[0]),
                           is_atari=False,
                           atari_preprocessing=None,
@@ -663,16 +674,6 @@ if __name__ == "__main__":
                           device=device)
     for (s, a, n, r, d) in zip(state, action, next_state, reward, done):
         buffer.add(s, a, n, r, d, 0, 0)
-
-    # set to discrete_BCQ.FC_Q for deep learning
-    q_model = None
-
-    # set to -1 for ADAC
-    cost = -1
-
-    k = 3
-    gamma = 0.99
-    epsilon = 0.01
 
     dac = dac_builder(num_actions=len(set(action)),  # number of possible actions (2)
                       state_dim=len(state[0]),  # dimension of each state vector (2)
