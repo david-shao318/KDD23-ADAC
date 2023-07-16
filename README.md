@@ -1,4 +1,4 @@
-# ADAC-traffic
+# ADAC Traffic Signal Control
 
 ## Offline Model-based Reinforcement Learning for Traffic Signal Control
 
@@ -23,17 +23,48 @@ evaluated on a complex signalised roundabout and a large multi-
 intersection environment, demonstrating that highly performant
 traffic control policies can be built in a data-efficient manner.
 
-## Installation
-1. Use [gharaffanobuild.yml](https://github.com/siddarth-c/KDD23-ADAC/blob/main/gharaffanobuild.yml) to create a conda environment.
+### Installation
+1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) to create a conda environment.
 2. Install [sumo library](https://www.eclipse.org/sumo/) for traffic simulation.
-3. Unzip [TrafQ.zip](https://github.com/siddarth-c/KDD23-ADAC/blob/main/TrafQ.zip) file in the same directory as _gharaffaEnv.py_.
 
-## Data
+## Multi-Intersection
 
-Folder 'buffers' provides a small data set collected from cyclic traffic signal control policy.
+Testing a multi-intersection environment involves the [RESCO](https://github.com/Pi-Star-Lab/RESCO) benchmark.
 
-To generate data sets with different sizes and behavioral policy, check the functionality provided in run-offline-rl.py program.
+We test primarily on the cologne3, cologne8, and custom-defined corniche environments part of our version of RESCO.
 
-## Policy building and evaluation
+The current files and buffer data are configured to run the corniche environment at 10x traffic.
 
-Use the script eval-dac-policies.sh to try out model-based offline RL solutions using the data set provided in folder buffers.
+### Data
+
+Use either the generated stochastic buffer [data](./resco_benchmark/Buffer/) or a separately generated buffer with [resco_buffer_generator.py](./resco_buffer_generator.py).
+
+The pre-generated [buffer](./resco_benchmark/Buffer/) has 24 hours worth of stochastic data (using the STOCHASTICWAVE agent) between the times 1400 and 5000 in the corniche environment.
+
+### Policy Building and Evaluation
+
+After generating a compatible buffer or using the pre-generated buffer, use the configurable [resco_adac_v4.0.py](./resco_adac_v4.0.py) script to test various behavioral and RL algorithms, including CYCLIC, STOCHASTIC, MAXPRESSURE, IDQN, and ADAC, on standard RESCO maps and the corniche environment.
+
+## Single-Intersection
+
+Files for testing a single-intersection environment using ADAC can be found in the [ADAC_traffic_master](./ADAC_traffic_master/) folder. The [ADAC](./ADAC_traffic_master/ADAC/) and [TrafQ](./ADAC_traffic_master/TrafQ/) folders contain the core functionality of ADAC.
+
+The complex single-intersection environment we test is based on Al Gharrafa roundabout in Doha.
+
+### Data
+
+Folder [ADAC_traffic_master/buffers](./ADAC_traffic_master/buffers/) provides a small data set collected from cyclic traffic signal control policy.
+
+To generate data sets with different sizes and behavioral policy, check the functionality provided in [run_offline_rl.py](./ADAC_traffic_master/run_offline_rl.py) program.
+
+### Policy Building and Evaluation
+
+Use the script [eval-dac-policies.sh](./ADAC_traffic_master/eval-dac-policies.sh) to test model-based offline RL solutions using the data set provided in folder buffers.
+
+## Note on Pickling
+
+On both the single- and multi-intersection environments, upon the completion of model training for ADAC, the models are automatically serialized into the [ADAC_traffic_master/pickled_ADAC](./ADAC_traffic_master/pickled_ADAC/) (for single-intersection) and [resco_benchmark/pickled_ADAC](./resco_benchmark/pickled_ADAC/) (for multi-intersection) folders respectively.
+
+Without deleting the '.pickle' files, upon re-rerunning the same agent and configuration, the trained model is deserialized automatically. In this way, changes to, e.g., traffic scale and time can be made without retraining the models from buffer data. ANNOY objects from Spotify's ANNOY library are serialized and deserialized separately in '.ann' files.
+
+_Please note that pickled files can execute arbitrary code. It may be advisable to remove the '.pickle' and '.ann' files to retrain the models from the buffer data._
