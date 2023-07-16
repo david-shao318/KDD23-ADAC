@@ -24,7 +24,7 @@ multi-intersection environment, demonstrating that highly performant
 traffic control policies can be built in a data-efficient manner.
 
 ### Installation
-1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) to create a conda environment.
+1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) (Linux) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) (MacOS) to create a conda environment.
 2. Install [sumo library](https://www.eclipse.org/sumo/) for traffic simulation.
 
 ## Multi-Intersection
