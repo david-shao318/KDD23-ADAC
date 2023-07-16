@@ -65,6 +65,6 @@ Use the script [eval-dac-policies.sh](./ADAC_traffic_master/eval-dac-policies.sh
 
 On both the single- and multi-intersection environments, upon the completion of model training for ADAC, the models are automatically serialized into the [ADAC_traffic_master/pickled_ADAC](./ADAC_traffic_master/pickled_ADAC/) (for single-intersection) and [resco_benchmark/pickled_ADAC](./resco_benchmark/pickled_ADAC/) (for multi-intersection) folders respectively.
 
-Without deleting the '.pickle' files, upon re-rerunning the same agent and configuration, the trained model is deserialized automatically. In this way, changes to, e.g., traffic scale and time can be made without retraining the models from buffer data. ANNOY objects from Spotify's ANNOY library are serialized and deserialized separately in '.ann' files.
+Without deleting the '.pickle' files, upon re-rerunning the same agent and configuration, the trained model is deserialized automatically. In this way, changes to, e.g., traffic scale and time can be made without retraining the models from buffer data. AnnoyIndex objects from Spotify's [Annoy](https://github.com/spotify/annoy) library are serialized and deserialized separately in '.ann' files.
 
 _Please note that pickled files can execute arbitrary code. It may be advisable to remove all '.pickle' and '.ann' files to retrain the models from the buffer data._
