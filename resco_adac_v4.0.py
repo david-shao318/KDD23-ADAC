@@ -35,7 +35,7 @@ for settings in [
                     choices=['STOCHASTIC', 'MAXWAVE', 'MAXPRESSURE', 'IDQN', 'IPPO', 'MPLight', 'MA2C', 'FMA2C',
                              'MPLightFULL', 'FMA2CFull', 'FMA2CVAL', 'STOCHASTICWAVE', 'CYCLIC'])
     ap.add_argument("--trials", type=int, default=1)
-    ap.add_argument("--eps", type=int, default=7)
+    ap.add_argument("--eps", type=int, default=7)       # number of episodes (different random seed each time)
     ap.add_argument("--procs", type=int, default=1)
     ap.add_argument("--map", type=str, default='corniche',
                     choices=['grid4x4', 'arterial4x4', 'ingolstadt1', 'ingolstadt7', 'ingolstadt21',
@@ -43,15 +43,30 @@ for settings in [
                              ])
     ap.add_argument("--pwd", type=str, default='./resco_benchmark')
     ap.add_argument("--log_dir", type=str, default=os.path.join('./resco_benchmark', 'results' + os.sep))
-    ap.add_argument("--gui", type=bool, default=False)
-    ap.add_argument("--libsumo", type=bool, default=False)
-    ap.add_argument("--tr", type=int, default=0)  # Can't multi-thread with libsumo, provide a trial number
 
+    # SET TO TRUE FOR GUI
+    ap.add_argument("--gui", type=bool, default=False)
+
+    ap.add_argument("--libsumo", type=bool, default=False)
+    ap.add_argument("--tr", type=int, default=0)  # can't multi-thread with libsumo, provide a trial number
+
+    # configurations to enable ADAC and method of considering for neighboring intersections
     ap.add_argument("--which", type=str, default=s2, choices=['ADAC', 'NotADAC'])
     ap.add_argument("--how", type=str, default=s3, choices=['Nil', 'Average', 'Average_Cat'])
+
+    # scaling factor for traffic in SUMO
+    # (note that in the corniche environment, the traffic trip files only include taxi data)
     ap.add_argument("--traffic", type=int, default=10)
+
+    # set > 0 to enforce a maximum wait time for all vehicles at an intersection (ADAC ONLY)
+    # for example, if max_wait == 60, all vehicles will wait <= 60 seconds before its light turns green
     ap.add_argument("--max_wait", type=int, default=0)
-    ap.add_argument("--cost", type=float, default=-0.5)  # < 0 for ADAC
+
+    # set < 0 for ADAC, otherwise set to custom cost value
+    ap.add_argument("--cost", type=float, default=-0.5)
+
+    # set True to generate emissions file (use resco_benchmark/results/emissions_stats.ipynb to parse:
+    # requires BeautifulSoup4)
     ap.add_argument("--emissions", type=bool, default=False)
 
     args = ap.parse_args()
@@ -66,6 +81,7 @@ for settings in [
     ADAC_specific_S = time.time()
     if args.which == 'ADAC':
 
+        # given an observation tensor, include neighboring states if --how is configured to Average or Average_Cat
         def process_obs(obs):
             if args.how != 'Nil' and args.which == 'ADAC':
                 what_type = 'list'
@@ -101,6 +117,8 @@ for settings in [
             else:
                 return obs
 
+
+        # LOAD BUFFER FILES FOR ADAC
 
         jn_names = [intersection for intersection in signal_configs[args.map] if
                     intersection not in ['phase_pairs', 'valid_acts']]
@@ -166,10 +184,17 @@ for settings in [
 
             num_actions = len(np.unique(actions))
             state_dim = states.shape[-1]
-            buffer = ReplayBuffer(state_dim=state_dim, is_atari=False, atari_preprocessing=None, batch_size=128,
-                                  buffer_size=len(states), device='cpu')
+            buffer = ReplayBuffer(state_dim=state_dim,
+                                  is_atari=False,
+                                  atari_preprocessing=None,
+                                  batch_size=128,
+                                  buffer_size=len(states),
+                                  device='cpu')
             for (s, a, n, r, d) in zip(states, actions, next_states, rewards, dones):
                 buffer.add(s, a, n, r, d, 0, 0)
+
+            # set to 1 for ADAC (determine cost based on max reward)
+            # set to 0 for manually configured DAC (manually specified cost)
             specific_config = 1 if args.cost < 0 else 0
 
             dac = dac_builder(num_actions,
@@ -276,7 +301,7 @@ for settings in [
                 if args.which == 'ADAC':
                     act = sample_action(obs)
 
-                    # include w parameter for MAX WAIT TIME
+                    # include w parameter for MAX WAIT TIME for any vehicle
                     if args.max_wait != 0:
                         longest_wait_lanes = env.lane_with_max_wait(args.max_wait)
                         for ts in longest_wait_lanes:
@@ -310,6 +335,7 @@ for settings in [
         return path
 
 
+    # RUN TRIALS
     if args.procs == 1 or args.libsumo:
         path = run_trial(args, args.tr)
     else:
@@ -321,6 +347,7 @@ for settings in [
 
     time_per_setting_E = time.time()
 
+    # STATS
     if args.procs == 1 or args.libsumo:
         with open(args.log_dir + '/stats/' + path + 'stats_rebuttal.txt', 'w') as file:
             file.write('Total test run hours:' + str(args.eps) + '\n')

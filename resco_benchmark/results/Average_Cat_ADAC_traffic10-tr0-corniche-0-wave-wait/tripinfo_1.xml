@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-13 18:26:38 by Eclipse SUMO sumo Version 1.17.0
+<!-- generated on 2023-07-16 15:10:38 by Eclipse SUMO sumo Version 1.17.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
@@ -10,6 +10,7 @@
     </input>
 
     <output>
+        <emission-output value="./resco_benchmark/results/Average_Cat_ADAC_traffic10-tr0-corniche-0-wave-wait/emissions_1.xml"/>
         <tripinfo-output.write-unfinished value="true"/>
         <statistic-output value="./resco_benchmark/results/Average_Cat_ADAC_traffic10-tr0-corniche-0-wave-wait/tripinfo_1.xml"/>
     </output>
@@ -38,7 +39,7 @@
     </report>
 
     <traci_server>
-        <remote-port value="64429"/>
+        <remote-port value="53686"/>
     </traci_server>
 
     <random_number>
@@ -54,4 +55,14 @@
 -->
 
 <statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
+    <performance clockBegin="1689509438.21" clockEnd="1689509482.10" clockDuration="43.89" traciDuration="32.97" realTimeFactor="82.03" vehicleUpdatesPerSecond="18213.40" personUpdatesPerSecond="0.00" begin="1400.00" end="5000.00" duration="3600.00"/>
+    <vehicles loaded="3360" inserted="3336" running="262" waiting="4"/>
+    <teleports total="0" jam="0" yield="0" wrongLane="0"/>
+    <safety collisions="12" emergencyStops="2"/>
+    <persons loaded="0" running="0" jammed="0"/>
+    <personTeleports total="0" abortWait="0" wrongDest="0"/>
+    <vehicleTripStatistics count="3336" routeLength="2830.63" speed="11.21" duration="239.60" waitingTime="44.72" timeLoss="102.63" departDelay="29.41" departDelayWaiting="31.00" totalTravelTime="799295.00" totalDepartDelay="98232.00"/>
+    <pedestrianStatistics number="0" routeLength="0.00" duration="0.00" timeLoss="0.00"/>
+    <rideStatistics number="0"/>
+    <transportStatistics number="0"/>
 </statistics>
