@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-16 15:10:38 by Eclipse SUMO sumo Version 1.17.0
+<!-- generated on 2023-07-16 15:59:29 by Eclipse SUMO GUI Version 1.17.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
@@ -10,7 +10,6 @@
     </input>
 
     <output>
-        <emission-output value="./resco_benchmark/results/Average_Cat_ADAC_traffic10-tr0-corniche-0-wave-wait/emissions_1.xml"/>
         <tripinfo-output.write-unfinished value="true"/>
         <statistic-output value="./resco_benchmark/results/Average_Cat_ADAC_traffic10-tr0-corniche-0-wave-wait/tripinfo_1.xml"/>
     </output>
@@ -39,7 +38,7 @@
     </report>
 
     <traci_server>
-        <remote-port value="53686"/>
+        <remote-port value="54713"/>
     </traci_server>
 
     <random_number>
@@ -48,14 +47,14 @@
 
     <gui_only>
         <gui-settings-file value="./resco_benchmark/environments/corniche/gui.settings.xml"/>
-        <start value="false"/>
+        <start value="true"/>
     </gui_only>
 
 </configuration>
 -->
 
 <statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
-    <performance clockBegin="1689509438.21" clockEnd="1689509482.10" clockDuration="43.89" traciDuration="32.97" realTimeFactor="82.03" vehicleUpdatesPerSecond="18213.40" personUpdatesPerSecond="0.00" begin="1400.00" end="5000.00" duration="3600.00"/>
+    <performance clockBegin="1689512369.34" clockEnd="1689512416.21" clockDuration="46.87" traciDuration="33.40" realTimeFactor="76.80" vehicleUpdatesPerSecond="17052.35" personUpdatesPerSecond="0.00" begin="1400.00" end="5000.00" duration="3600.00"/>
     <vehicles loaded="3360" inserted="3336" running="262" waiting="4"/>
     <teleports total="0" jam="0" yield="0" wrongLane="0"/>
     <safety collisions="12" emergencyStops="2"/>

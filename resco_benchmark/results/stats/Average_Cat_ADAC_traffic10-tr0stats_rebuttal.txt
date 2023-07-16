@@ -1,0 +1,4 @@
+Total test run hours:1
+Total run time for this setting:52.85033893585205
+ADAC specific time (loading + building MDPs):2.0533599853515625
+Time taken to build ADAC MDPs (only building MDPs):1.8628218173980713
