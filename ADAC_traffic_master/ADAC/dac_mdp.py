@@ -1,11 +1,11 @@
 import pickle
 import random
-
 import hiive.mdptoolbox.mdp as mbox
 import numpy as np
 import pandas as pd
 import torch
 import xxhash
+
 from annoy import AnnoyIndex
 from scipy import stats
 from scipy.sparse import lil_matrix, coo_matrix
@@ -95,7 +95,8 @@ class dac_policy(object):
                  gamma=0.96,
                  epsilon=0.01,
                  nn_mode='distance',
-                 diameter=1
+                 diameter=1,
+                 alpha=0.9
                  ):
         self.num_actions = num_actions
         self.state_dim = state_dim
@@ -112,23 +113,27 @@ class dac_policy(object):
         self.diameter = diameter
         assert self.diameter > 0
         self.rmax = self.replay_df['reward'].max()
-        self.alpha = 0.9  # The maximum distance threshold to avoid far-off neighbors
+        self.alpha = alpha  # The maximum distance threshold to avoid far-off neighbors
 
         self.q_model = q_model
         self.device = device
         self.nn_indexes = nn_indexes
         self.activation = {}
-        if self.q_model: self.q_model.q2.register_forward_hook(self._get_activation('q2'))
+        if self.q_model:
+            self.q_model.q2.register_forward_hook(self._get_activation('q2'))
 
         self.transitions, self.rewards = self._build_finite_mdp()
 
         self.action_value_stat = []
         self.action_stat = [0] * self.num_actions  # store the number of occurrences of each action in an eval episode
         self.known_policy_stat = 0
+        self.all_values_considered = None
 
     # input is nn distances d, convert to sims = 1/(d+\small_number) first, then normalize the sims
     def _distance_to_alpha(self, indexes, distances, next_state):
-        if len(distances) == 0: return np.zeros(0)
+        if len(distances) == 0:
+            return np.zeros(0)
+
         ## weighted sum version
         # delta_d = np.float64(1e-15)
         # sims = np.array([np.float64(1.0) / (d + delta_d) for d in distances])
@@ -188,12 +193,12 @@ class dac_policy(object):
 
             for action in range(self.num_actions):
 
-                if rewards[state_core_index, action] != 0:  ## handled before
+                if rewards[state_core_index, action] != 0:  # handled before
                     continue
 
                 nn_indexes, nn_distances = self.nn_indexes[action].topn_nn(state_rep, self.k,
-                                                                           self.alpha * self.diameter) if self.nn_mode == 'number' else \
-                    self.nn_indexes[action].topd_nn(state_rep, self.k)
+                                                                           self.alpha * self.diameter) \
+                    if self.nn_mode == 'number' else self.nn_indexes[action].topd_nn(state_rep, self.k)
                 stat_distances.extend(nn_distances)  # for statistical purpose
                 if len(nn_distances) > 0 and max(nn_distances) < self.alpha * self.diameter:
                     stat_max_distance.append(max(nn_distances))
@@ -219,7 +224,7 @@ class dac_policy(object):
                             f'Incosistent row: {action}, {state_core_index} for which value: {transitions[action][state_core_index, next_state_core_index]}, df index: {index}')
                     r_i = self.replay_df['reward'][idx]
                     reward = r_i
-                    # Look here !!!
+
                     if self.cost >= 0:  # distance factor from DAC-MDP paper
                         # DAC
                         reward -= self.cost * d / self.diameter
@@ -227,7 +232,7 @@ class dac_policy(object):
                         # ADAC
                         reward = reward - max_r * d / self.diameter  # normalizing distance before penalizing
                     stat_rewards.append(reward)
-                    rewards[state_core_index, action] += alpha * (reward)
+                    rewards[state_core_index, action] += alpha * reward
                     # rewards[action][state_core_index] += alpha * (r_i - self.cost * d)
 
         for action in range(self.num_actions):
@@ -363,6 +368,10 @@ class dac_policy(object):
                 action_value.append(a_val)
             # print(f'Considered actions with values: {action_value}')
             action = action_value.index(max(action_value))
+
+            # for testing: get all Q values considered
+            self.all_values_considered = action_value
+
             if max_distance <= self.alpha * self.diameter:  ## only for stats
                 self.known_policy_stat += 1  ## nearby neighbors found
             self.action_value_stat.append(action_value[action])
@@ -400,7 +409,8 @@ class dac_builder(object):
                  policy_number=0,
                  k=5,
                  build_from_file='',
-                 save_to_file=''
+                 save_to_file='',
+                 alpha=0.9
                  ):
 
         try:
@@ -444,7 +454,7 @@ class dac_builder(object):
                         self.replay_df, self.core_states,
                         self.q_model, device, self.ann_indexes,
                         k, cost, k_pi,
-                        gamma, epsilon, nn_mode, diameter
+                        gamma, epsilon, nn_mode, diameter, alpha
                     )
                 )
             elif num_configs == 6:
@@ -460,7 +470,7 @@ class dac_builder(object):
                         num_actions, state_dim,
                         self.replay_df, self.core_states,
                         q_model, device, self.ann_indexes,
-                        k, cost, k_pi
+                        k, cost, k_pi, alpha
                     )
                 )
             elif num_configs == 0:
@@ -471,7 +481,7 @@ class dac_builder(object):
                         self.replay_df, self.core_states,
                         self.q_model, device, self.ann_indexes,
                         k, cost, k_pi,
-                        gamma, epsilon, nn_mode, diameter
+                        gamma, epsilon, nn_mode, diameter, alpha
                     )
                 )
 
@@ -604,57 +614,93 @@ class dac_builder(object):
 
 if __name__ == "__main__":
 
-    from discrete_BCQ import FC_Q
-
-    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-    # state = [[0., 0.], [1., 0.], [0., 0.], [2., 2.], [0., 0.], [2., 2.]]
-    # action = [0, 0, 0, 0, 1, 1]
-    # next_state = [[1., 0.], [2., 2.], [1., 0.], [2., 2.], [2., 2.], [2., 2.]]
-    # reward = [0, 2, 0, 1, 2, 1]
-    # done = [0, 1, 0, 1, 1, 1]
-
-    ## Example from $3 in the paper
-    state = [[6., 1.], [2., 3.], [1., 5.], [3., 3.], [0., 5.], [2., 3.]]
-    action = [0, 1, 1, 0, 1, 0]
-    next_state = [[2., 3.], [6., 1.], [3., 3.], [1., 5.], [2., 3.], [0., 5.]]
-    reward = [4, 2, 2, 2, 2, 2]
-    done = [0, 1, 0, 1, 0, 1]
-
-    ## Example experience data from a two action cyclic policy for a fixed arrival rate
-    # state = [[3., 1.], [3., 2.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], \
-    #          [3., 1.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.], \
-    #          ]
-    # action = [0, 1, 0, 1, 0, 1, 0, 1, \
-    #           1, 0, 1, 0, 1, 0, 1, 0, \
-    #           ]
-    # next_state = [[3., 2.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.], \
-    #               [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.], [11., 2.], \
-    #               ]
-    # reward = [3, 2, 4, 2, 4, 2, 4, 2, \
-    #           1, 4, 2, 4, 2, 4, 2, 4, \
-    #           ]
-    # done = [0, 0, 0, 0, 0, 0, 0, 1, \
-    #         0, 0, 0, 0, 0, 0, 0, 1, \
-    #         ]
-
-    ## State(s) to evaluate trained policy built on the experience data above,
-    ## Use the following config: mode=number, k=2, diameter=7, alpha=0.8, state rep=counts
-    eval_state = [[4., 4.]]  ## sequence got: (3,1)->(6,1)->(5,2)->(4,3)->(7,1)->(6,2)->(5,3)->(4,4)->(7,1)
-
     from utils import ReplayBuffer
 
-    buffer = ReplayBuffer(state_dim=2, is_atari=False, atari_preprocessing=None, batch_size=4, buffer_size=len(state),
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
+    # Example from §3 in paper
+    state = [[1., 5.], [3., 3.],
+             [6., 1.], [2., 3.],
+             [0., 5.], [2., 3.]]
+    action = [1, 0,
+              0, 1,
+              1, 0]  # 0 = NS, 1 = EW
+    next_state = [[3., 3.], [1., 5.],
+                  [2., 3.], [6., 1.],
+                  [2., 3.], [0., 5.]]
+    reward = [2, 2,
+              4, 2,
+              2, 2]
+    done = [0, 1,
+            0, 1,
+            0, 1]
+
+    # Example experience data from a two action cyclic policy for a fixed arrival rate
+    # state = [[3., 1.], [3., 2.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.],
+    #          [3., 1.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.],
+    #          ]
+    # action = [0, 1, 0, 1, 0, 1, 0, 1,
+    #           1, 0, 1, 0, 1, 0, 1, 0,
+    #           ]
+    # next_state = [[3., 2.], [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.],
+    #               [6., 1.], [5., 2.], [8., 1.], [7., 2.], [10., 1.], [9., 2.], [12., 1.], [11., 2.],
+    #               ]
+    # reward = [3, 2, 4, 2, 4, 2, 4, 2,
+    #           1, 4, 2, 4, 2, 4, 2, 4,
+    #           ]
+    # done = [0, 0, 0, 0, 0, 0, 0, 1,
+    #         0, 0, 0, 0, 0, 0, 0, 1,
+    #         ]
+
+    # NON-CORE STATES TO EVALUATE
+    eval_state = [[1., 4.]]
+
+    buffer = ReplayBuffer(state_dim=len(state[0]),
+                          is_atari=False,
+                          atari_preprocessing=None,
+                          batch_size=4,
+                          buffer_size=len(state),
                           device=device)
     for (s, a, n, r, d) in zip(state, action, next_state, reward, done):
         buffer.add(s, a, n, r, d, 0, 0)
 
-    q_model = FC_Q(2, 2).to(device)
-    dac = dac_builder(2, 2, buffer, q_model, device, 1, 'number', 7, 0.99, 0.01)
-    policies = dac.get_policies()
-    for s in state:
-        a = policies[0].select_action(s)
-        print(f'Chose action {a} for state {s}')
-    for s in eval_state:
-        a = policies[0].select_action(s)
-        print(f'Chose action {a} for state {s}')
-    policies[0].print_stat()
+    # set to discrete_BCQ.FC_Q for deep learning
+    q_model = None
+
+    # set to -1 for ADAC
+    cost = -1
+
+    k = 3
+    gamma = 0.99
+    epsilon = 0.01
+
+    dac = dac_builder(num_actions=len(set(action)),  # number of possible actions (2)
+                      state_dim=len(state[0]),  # dimension of each state vector (2)
+                      buffer=buffer,
+                      q_model=q_model,
+                      device=device,
+                      num_configs=0 if cost >= 0 else 1,  # 0 for custom cost C, 1 for ADAC
+                      nn_mode='number',  # nearest neighbor mode ("number" for manual; "distance" for diameter-based)
+                      diameter=-1,  # diameter used in normalization (<= 0 for calculate based on core states)
+                      gamma=gamma,
+                      epsilon=epsilon,
+                      cost=cost,  # specified cost in DAC (< 0 and >= -1 for ADAC)
+                      k=k,  # k nearest neighbors
+                      alpha=0,  # max distance threshold for nearest neighbors to consider (0 = ignore alpha)
+                      )
+
+    policy = dac.get_policies()[0]  # we might have multiple optimal policies: select the first one
+
+    # evaluating all states
+    for s in state + eval_state:
+        a = policy.select_action(s)
+        print(f'\nFor {"core" if s in state else "non-core"} state {s}, '
+              f'chose action {a} with value {policy.action_value_stat[-1]}.')
+        if s not in state:
+            print(f'All values considered: {policy.all_values_considered}.')
+
+    # policy.print_stat()
+
+    print('\nCORE STATES and REWARDS')
+    for s, r in zip(set(tuple(s) for s in state), policy.get_rewards()):
+        print(f'STATE {s}, REWARDS {r}')
