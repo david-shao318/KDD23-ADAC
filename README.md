@@ -24,8 +24,13 @@ multi-intersection environment, demonstrating that highly performant
 traffic control policies can be built in a data-efficient manner.
 
 ### Installation
-1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) (Linux) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) (MacOS) to create a conda environment.
+1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) (Linux) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) (MacOS) to create a conda environment. (For example, `conda env create --name envADAC --file=ADAC_traffic_master/envBuild_1.yml`.)
 2. Install [sumo library](https://www.eclipse.org/sumo/) for traffic simulation.
+3. Run `python3 -m pip install .` to set up RESCO package.
+
+### Getting Started
+
+If properly installed, you should be able to run ADAC using a serialized model in a multi-intersection environment (Doha Corniche) with SUMO in a GUI interface. Run `python3 resco_adac_v4.0.py --eps=1 --gui=True`.
 
 ## Multi-Intersection
 
