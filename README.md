@@ -31,19 +31,21 @@ traffic control policies can be built in a data-efficient manner.
 
 Testing a multi-intersection environment involves the [RESCO](https://github.com/Pi-Star-Lab/RESCO) benchmark.
 
-We test primarily on the cologne3, cologne8, and custom-defined corniche environments part of our version of RESCO.
+We test primarily on the `cologne3`, `cologne8`, and custom-defined `corniche` environments part of our version of RESCO.
 
-The current files and buffer data are configured to run the corniche environment at 10x traffic.
+The current files and buffer data are configured to run the `corniche` environment at 10× traffic.
 
 ### Data
 
 Use either the generated stochastic buffer [data](./resco_benchmark/Buffer/) or a separately generated buffer with [resco_buffer_generator.py](./resco_buffer_generator.py).
 
-The pre-generated [buffer](./resco_benchmark/Buffer/) has 24 hours worth of stochastic data (using the STOCHASTICWAVE agent) between the times 1400 and 5000 in the corniche environment.
+The pre-generated [buffer](./resco_benchmark/Buffer/) has 24 hours worth of stochastic data (using the `STOCHASTICWAVE` agent) between the times `1400` and `5000` in the `corniche` environment.
 
 ### Policy Building and Evaluation
 
-After generating a compatible buffer or using the pre-generated buffer, use the configurable [resco_adac_v4.0.py](./resco_adac_v4.0.py) script to test various behavioral and RL algorithms, including CYCLIC, STOCHASTIC, MAXPRESSURE, IDQN, and ADAC, on standard RESCO maps and the corniche environment.
+After generating a compatible buffer or using the pre-generated buffer, use the configurable [resco_adac_v4.0.py](./resco_adac_v4.0.py) script to test various behavioral and RL algorithms, including `CYCLIC`, `STOCHASTIC`, `MAXPRESSURE`, `IDQN`, and ADAC, on standard RESCO maps and the corniche environment.
+
+For training ADAC, set the `--agent` to the behavioral agent used to train the buffer data. Set `--which` to `ADAC` (set to `NotADAC` for all other policies). Set `--how` to the chosen method of considering neighboring intersections (`Nil` does not consider neighbors, `Average_Cat` takes the average of all neighbors and concatenates their state to each intersection's state, as described in the paper).
 
 ## Single-Intersection
 
@@ -53,13 +55,15 @@ One standard single-intersection environment we test is based on Al Gharrafa rou
 
 ### Data
 
-Folder [ADAC_traffic_master/buffers](./ADAC_traffic_master/buffers/) provides a small data set collected from cyclic traffic signal control policy for the gharrafa environment.
+Folder [ADAC_traffic_master/buffers](./ADAC_traffic_master/buffers/) provides a small data set collected from cyclic traffic signal control policy for the `gharrafa` environment.
 
 To generate data sets with different sizes and behavioral policy, check the functionality provided in [run_offline_rl.py](./ADAC_traffic_master/run_offline_rl.py).
 
 ### Policy Building and Evaluation
 
 Use the script [eval-dac-policies.sh](./ADAC_traffic_master/eval-dac-policies.sh) to test model-based offline RL solutions using the data set provided in folder buffers.
+
+After generating the model files, use the script [test_ADAC_Model.py](./ADAC_traffic_master/test_ADAC_Model.py) to run a SUMO GUI simulation.
 
 ## Note on Pickling
 
