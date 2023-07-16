@@ -47,15 +47,15 @@ After generating a compatible buffer or using the pre-generated buffer, use the 
 
 ## Single-Intersection
 
-Files for testing a single-intersection environment using ADAC can be found in the [ADAC_traffic_master](./ADAC_traffic_master/) folder. The [ADAC](./ADAC_traffic_master/ADAC/) and [TrafQ](./ADAC_traffic_master/TrafQ/) folders contain the core functionality of ADAC.
+The [ADAC](./ADAC_traffic_master/ADAC/) and [TrafQ](./ADAC_traffic_master/TrafQ/) folders contain the core functionality of ADAC. The [ADAC_traffic_master](./ADAC_traffic_master/) folder contains other files for testing a single-intersection environment using ADAC.
 
-The complex single-intersection environment we test is based on Al Gharrafa roundabout in Doha.
+One standard single-intersection environment we test is based on Al Gharrafa roundabout in Doha.
 
 ### Data
 
-Folder [ADAC_traffic_master/buffers](./ADAC_traffic_master/buffers/) provides a small data set collected from cyclic traffic signal control policy.
+Folder [ADAC_traffic_master/buffers](./ADAC_traffic_master/buffers/) provides a small data set collected from cyclic traffic signal control policy for the gharrafa environment.
 
-To generate data sets with different sizes and behavioral policy, check the functionality provided in [run_offline_rl.py](./ADAC_traffic_master/run_offline_rl.py) program.
+To generate data sets with different sizes and behavioral policy, check the functionality provided in [run_offline_rl.py](./ADAC_traffic_master/run_offline_rl.py).
 
 ### Policy Building and Evaluation
 
