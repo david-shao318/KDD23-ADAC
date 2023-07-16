@@ -67,4 +67,4 @@ On both the single- and multi-intersection environments, upon the completion of 
 
 Without deleting the '.pickle' files, upon re-rerunning the same agent and configuration, the trained model is deserialized automatically. In this way, changes to, e.g., traffic scale and time can be made without retraining the models from buffer data. ANNOY objects from Spotify's ANNOY library are serialized and deserialized separately in '.ann' files.
 
-_Please note that pickled files can execute arbitrary code. It may be advisable to remove the '.pickle' and '.ann' files to retrain the models from the buffer data._
+_Please note that pickled files can execute arbitrary code. It may be advisable to remove all '.pickle' and '.ann' files to retrain the models from the buffer data._
