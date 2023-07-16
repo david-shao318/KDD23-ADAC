@@ -30,7 +30,7 @@ traffic control policies can be built in a data-efficient manner.
 
 ### Getting Started
 
-If properly installed, you should be able to run ADAC using a serialized model in a multi-intersection environment (Doha Corniche) with SUMO in a GUI interface. Run `python3 resco_adac_v4.0.py --eps=1 --gui=True`.
+If properly installed, you should be able to run ADAC using a serialized model in a multi-intersection environment (Doha Corniche) with SUMO in a GUI. Run `python3 resco_adac_v4.0.py --eps=1 --gui=True`.
 
 ## Multi-Intersection
 
