@@ -350,7 +350,7 @@ for settings in [
 
     # STATS
     if args.procs == 1 or args.libsumo:
-        with open(args.log_dir + '/stats/' + path + 'stats_rebuttal.txt', 'w') as file:
+        with open(args.log_dir + 'stats/' + path + 'stats_rebuttal.txt', 'w') as file:
             file.write('Total test run hours:' + str(args.eps) + '\n')
             file.write('Total run time for this setting:' + str(time_per_setting_E - time_per_setting_S) + '\n')
             file.write('ADAC specific time (loading + building MDPs):' + str(ADAC_specific_E - ADAC_specific_S) + '\n')
