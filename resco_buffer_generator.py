@@ -84,8 +84,9 @@ def run_trial(args, trial):
                       emissions=args.emissions)
 
     agt_config['episodes'] = int(args.eps * 0.8)  # schedulers decay over 80% of steps
-    # if agt_config['episodes'] <= 0:
-        # raise ValueError("agt_config['episodes'] should be greater than 0. Set args.eps >= 2.")
+    if agt_config['episodes'] <= 0 and args.agent in ['IDQN', 'IPPO', 'MPLight', 'MA2C', 'FMA2C', 'MPLightFULL',
+                                                      'FMA2CFull', 'FMA2CVAL']:
+        raise ValueError("agt_config['episodes'] should be greater than 0. Set args.eps >= 2.")
     agt_config['steps'] = agt_config['episodes'] * num_steps_eps
     agt_config['log_dir'] = os.path.join(args.log_dir, env.connection_name)
     agt_config['num_lights'] = len(env.all_ts_ids)
