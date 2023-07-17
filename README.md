@@ -30,11 +30,11 @@ traffic control policies can be built in a data-efficient manner.
 
 ### Getting Started
 
-If properly installed, you should be able to run ADAC using a serialized model in a multi-intersection environment (Doha Corniche) with SUMO in a GUI interface. Run `python3 resco_adac_v4.0.py --eps=1 --gui=True`.
+If properly installed, you should be able to run ADAC using a serialized model in a multi-intersection environment (Doha Corniche) with SUMO in a GUI. Run `python3 resco_adac_v4.0.py --eps=1 --gui=True`.
 
 ## Multi-Intersection
 
-Testing a multi-intersection environment involves the [RESCO](https://github.com/Pi-Star-Lab/RESCO) benchmark.
+Testing a multi-intersection environment involves the [RESCO](https://github.com/Pi-Star-Lab/RESCO) benchmarking tool (J. Ault & G. Sharon, Reinforcement Learning Benchmarks for Traffic Signal Control, CC BY-NC-SA 4.0). We have adapted several files to run the ADAC agent (along with other agents) and have introduced a new map, `corniche`, modeled from the Doha Corniche.
 
 We test primarily on the `cologne3`, `cologne8`, and custom-defined `corniche` environments part of our version of RESCO.
 
