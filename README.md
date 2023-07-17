@@ -24,7 +24,7 @@ multi-intersection environment, demonstrating that highly performant
 traffic control policies can be built in a data-efficient manner.
 
 ### Installation
-1. Use [envBuild_0.yml](./ADAC_traffic_master/envBuild_0.yml) (Linux) or [envBuild_1.yml](./ADAC_traffic_master/envBuild_1.yml) (MacOS) to create a conda environment. (For example, `conda env create --name envADAC --file=ADAC_traffic_master/envBuild_1.yml`.)
+1. Use [environment.yml](./environment.yml) to create a conda environment. (For example, `conda env create --name envADAC --file=environment.yml`.)
 2. Install [sumo library](https://www.eclipse.org/sumo/) for traffic simulation.
 3. Run `python3 -m pip install .` to set up RESCO package.
 
