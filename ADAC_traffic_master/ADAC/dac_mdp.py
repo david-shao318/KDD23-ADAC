@@ -658,8 +658,8 @@ if __name__ == "__main__":
     # set to discrete_BCQ.FC_Q for deep learning
     q_model = None
 
-    # set to -1 for ADAC
-    cost = 0
+    # set to -0.5 for ADAC
+    cost = -0.5
 
     k = 3
     gamma = 0.99
