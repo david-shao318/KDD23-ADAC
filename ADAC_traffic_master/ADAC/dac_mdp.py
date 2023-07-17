@@ -410,7 +410,8 @@ class dac_builder(object):
                  k=5,
                  build_from_file='',
                  save_to_file='',
-                 alpha=0.9
+                 alpha=0.9,
+                 get_exact_diameter=False
                  ):
 
         try:
@@ -436,7 +437,10 @@ class dac_builder(object):
             if self.q_model: self.q_model.q2.register_forward_hook(self._get_activation('q2'))
             self.ann_indexes = self._build_ann_indexes(save_to_file)
             if diameter <= 0:
-                diameter = self._get_core_diameter()  ## FIXME: very expensive operation
+                if get_exact_diameter:
+                    diameter = self._get_core_diameter_exact()
+                else:
+                    diameter = self._get_core_diameter()
 
             print('CREATING MDP OBJECTS...')
             self.solvers = []
@@ -543,21 +547,10 @@ class dac_builder(object):
         for index, row in tqdm(self.replay_df.iterrows()):
             if row['core_index'] == -1: continue  ## Indexing only the core states
             a = row['action']
-
-            # FIXME: SIDESTEP ERRORS
-            try:
-                ann_indexes[a].index(index, self._get_state_rep(row['state']))
-            except KeyError:
-                print('\nNEAREST NEIGHBORS INDEXING EXCEPTION IGNORED.')
-                ann_indexes[a] = ANN(state_rep_dim, False, f'{save_to_file}_{a}', 'euclidean')
-                ann_indexes[a].index(index, self._get_state_rep(row['state']))
+            ann_indexes[a].index(index, self._get_state_rep(row['state']))
 
         for a in range(self.num_actions):
             ann_indexes[a].build()  ## Building binary trees for NNs
-
-        # FIXME: SIDESTEP ERRORS
-        for a in range(len(ann_indexes)):
-            ann_indexes[a].build()
 
         return ann_indexes
 
@@ -577,6 +570,24 @@ class dac_builder(object):
         # set of random points from within the core states used to find diameter
         test_points = random.sample(core, 3)
         diameter = np.amax(cdist(test_points, core, 'euclidean'))
+        tqdm.write(f'The diameter approximately = {diameter} from a core set of size: {len(core)}')
+        return diameter
+
+    ## find EXACT diameter (= longest distance between any two points) of the core states
+    def _get_core_diameter_exact(self):
+        tqdm.write('Finding exact diameter of the core states')
+        # core = [self._get_state_rep(row['next_state']).cpu().detach().numpy() for index, row in tqdm(self.replay_df.iterrows())]
+
+        core = []
+        core_idx = []
+        for index, row in tqdm(self.replay_df.iterrows()):
+            if row['core_index'] != -1 and index not in core_idx:
+                core_idx.append(index)
+                # core.append(self._get_state_rep(row['state']).cpu().detach().numpy())
+                core.append(self._get_state_rep(row['state']))
+
+        # set of random points from within the core states used to find diameter
+        diameter = np.amax(cdist(core, core, 'euclidean'))
         tqdm.write(f'The diameter = {diameter} from a core set of size: {len(core)}')
         return diameter
 
@@ -658,8 +669,8 @@ if __name__ == "__main__":
     # set to discrete_BCQ.FC_Q for deep learning
     q_model = None
 
-    # set to -0.5 for ADAC
-    cost = -0.5
+    # set to -1 for ADAC
+    cost = -1
 
     k = 3
     gamma = 0.99
@@ -688,6 +699,7 @@ if __name__ == "__main__":
                       cost=cost,  # specified cost in DAC (< 0 and >= -1 for ADAC)
                       k=k,  # k nearest neighbors
                       alpha=0,  # max distance threshold for nearest neighbors to consider (0 = ignore alpha)
+                      get_exact_diameter=True  # get exact diameter (small dataset)
                       )
 
     policy = dac.get_policies()[0]  # we might have multiple optimal policies: select the first one

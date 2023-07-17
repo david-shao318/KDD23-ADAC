@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-07-17 12:19:33 by Eclipse SUMO sumo Version 1.17.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="./resco_benchmark/environments/corniche/Corniche_base.net.xml"/>
+        <route-files value="./resco_benchmark/environments/corniche/trips_31_01_2018.xml"/>
+        <additional-files value="./resco_benchmark/environments/corniche/Corniche_edge_in_districts.taz.xml"/>
+    </input>
+
+    <output>
+        <tripinfo-output.write-unfinished value="true"/>
+        <statistic-output value="./resco_benchmark/results/Average_Cat_ADAC_traffic10-tr0-corniche-0-wave-wait/tripinfo_1.xml"/>
+    </output>
+
+    <time>
+        <begin value="1400"/>
+        <end value="5000"/>
+        <step-length value="1"/>
+    </time>
+
+    <processing>
+        <ignore-junction-blocker value="3"/>
+        <ignore-route-errors value="true"/>
+        <collision.action value="remove"/>
+        <collision.check-junctions value="true"/>
+        <collision.mingap-factor value="0"/>
+        <scale value="10"/>
+        <time-to-teleport value="-1"/>
+        <default.action-step-length value="1"/>
+    </processing>
+
+    <report>
+        <no-warnings value="True"/>
+        <duration-log.statistics value="True"/>
+        <no-step-log value="True"/>
+    </report>
+
+    <traci_server>
+        <remote-port value="63604"/>
+    </traci_server>
+
+    <random_number>
+        <seed value="3000"/>
+    </random_number>
+
+    <gui_only>
+        <gui-settings-file value="./resco_benchmark/environments/corniche/gui.settings.xml"/>
+        <start value="false"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<statistics xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/statistic_file.xsd">
+</statistics>
