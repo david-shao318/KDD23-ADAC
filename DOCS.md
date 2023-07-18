@@ -12,6 +12,25 @@ Please refer to the documentation provided for troubleshooting the relevant piec
 Please refer to [SUMO Documentation](https://sumo.dlr.de/docs/Installing/index.html) for issues
 with SUMO (Simulation of Urban Mobility).
 
+## Table of Contents
+
+1. [Troubleshooting SUMO](#troubleshooting-sumo)
+2. [A-DAC](#a-dac)
+   1. [Manually Inputted Data](#testing-adac-with-manually-inputted-data)
+   2. [`dac_builder` Construction](#parameters-of-dac_builder)
+   3. [Troubleshooting](#troubleshooting)
+      1. [Serialization (Pickle)](#issues-with-serialization-and-deserialization-pickle-and-ann-files)
+      2. [Value Iteration Error](#issue-with-value-iteration-cannot-cast-infinity-to-integer)
+3. [Single-Intersection Testing](#testing-a-single-intersection-map)
+   1. [Buffer Generation](#generate-a-buffer)
+   2. [Running A-DAC](#running-an-adac-simulation)
+   3. [Running a Visual Demo: Cyclic and A-DAC](#running-a-fast-cyclic-and-adac-visual-comparison-for-gharrafa)
+   4. [I Want to](#i-want-to-)
+      1. [Alter My Current Map or Simulation Configuration](#alter-my-current-map-or-simulation-configuration)
+      2. [Create a New Map](#create-a-new-map)
+      3. [Create a New Policy](#create-a-new-policy-for-an-existing-map)
+4. [Multi-Intersection Testing](#testing-a-multi-intersection-map)
+
 ## Troubleshooting SUMO
 
 Please refer to [SUMO Documentation](https://sumo.dlr.de/docs/Installing/index.html) for installation
@@ -37,7 +56,7 @@ Running any ADAC agent requires several steps.
 2. Filling the buffer with data. Each piece of data is in the form of a 5-tuple: (state, action, next_state, reward, done).
 3. With the buffer and other configuration parameters, a `dac_builder` object is constructed, which processes the buffer,
 creates a `dac_policy` object, builds the MDP stored by `dac_policy`, and solves it.
-4. At this stage, we are done training ADAC. Calling `select_action` with a state tensor on the `dac_policy` will return
+4. At this stage, we are done training ADAC. Calling `select_action` with a state vector on the `dac_policy` will return
 the action selected by ADAC.
 
 ### Testing ADAC with Manually Inputted Data
