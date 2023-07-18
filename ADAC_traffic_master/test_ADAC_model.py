@@ -5,6 +5,7 @@ import numpy as np
 import torch
 
 from ADAC import discrete_BCQ, dac_mdp, utils
+from gharaffaPolicies import gharaffaConstantCyclePolicy
 
 sys.path.append("./TrafQ/Environments/gym_gharrafa/")
 import gymGharrafa
@@ -44,8 +45,11 @@ os.system('clear')
 env.reset()
 obs = env.reset()
 steps = 360
+cyclic_policy = gharaffaConstantCyclePolicy()
 for s in range(steps):
-    action = (s // 3) % 11  # CYCLIC: switch phases every 3 steps (configure as necessary)
+    # current cycle: [1, 9, 2, 7, 6, 10, 0, 8, 3, 5]
+    # CONFIGURE by setting self.cycle in gharaffaConstantCyclePolicy
+    action = cyclic_policy.select_action(None)
     obs, reward, episode_over, additional = env.step(action)
     print((action, reward))
 env.close()

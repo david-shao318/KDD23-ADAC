@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<!-- generated on 2023-07-13 18:10:09 by Eclipse SUMO GUI Version 1.17.0
+<!-- generated on 2023-07-18 11:51:54 by Eclipse SUMO GUI Version 1.17.0
 <configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
 
     <input>
-        <net-file value="/Users/d.shao/Documents/IIP/QCRI/ADAC MASTER/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./SIMULATION/gharrafa.net.xml"/>
-        <route-files value="/Users/d.shao/Documents/IIP/QCRI/ADAC MASTER/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./MATOD/gha_tripsH24_jun2021.rou.xml"/>
-        <additional-files value="/Users/d.shao/Documents/IIP/QCRI/ADAC MASTER/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/e1test.xml"/>
+        <net-file value="/Users/d.shao/Documents/IIP/QCRI/ADAC FINAL/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./SIMULATION/gharrafa.net.xml"/>
+        <route-files value="/Users/d.shao/Documents/IIP/QCRI/ADAC FINAL/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./MATOD/gha_tripsH24_jun2021.rou.xml"/>
+        <additional-files value="/Users/d.shao/Documents/IIP/QCRI/ADAC FINAL/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/e1test.xml"/>
     </input>
 
     <time>
@@ -27,11 +27,11 @@
     </report>
 
     <traci_server>
-        <remote-port value="64291"/>
+        <remote-port value="55989"/>
     </traci_server>
 
     <gui_only>
-        <gui-settings-file value="/Users/d.shao/Documents/IIP/QCRI/ADAC MASTER/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./SIMULATION/gui.settings.xml"/>
+        <gui-settings-file value="/Users/d.shao/Documents/IIP/QCRI/ADAC FINAL/KDD23-ADAC/ADAC_traffic_master/./TrafQ/Environments/gym_gharrafa/gymGharrafa/assets/./SIMULATION/gui.settings.xml"/>
         <start value="true"/>
         <window-size value="1000,1000"/>
     </gui_only>

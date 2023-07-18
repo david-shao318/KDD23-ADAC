@@ -422,8 +422,15 @@ def train_ensemble(env, replay_buffer, is_atari, num_actions, state_dim, device,
 # Runs policy for X episodes and returns average reward
 # A fixed seed is used for the eval environment
 def eval_policy(policy, env_name, seed, gui=False, eval_episodes=6):
+
+    # GHARRAFA
     eval_env = gharaffaEnv({"GUI": gui, "Mode": "eval",
-                            "Play": "action"})  # eval_env, _, _, _ = utils.make_env(env_name, atari_preprocessing)
+                            "Play": "action"})
+
+    # FOR ALL ENVIRONMENTS:
+    # ensure that env_name is registered in Environments/gym_{ENV}/gym{ENV}/__init__.py
+    # eval_env, _, _, _ = utils.make_env(env_name, atari_preprocessing)
+
     eval_env.seed(seed + 50)
 
     avg_reward = 0.

@@ -1,5 +1,14 @@
 
-class gharaffaConstantCyclePolicy:
+# BASE CLASS for defining new policies
+class CustomPolicy:
+    def select_action(self, state, eval=False) -> int:
+        raise NotImplementedError
+
+    def reset(self):
+        raise NotImplementedError
+
+
+class gharaffaConstantCyclePolicy(CustomPolicy):
     def __init__(self, all_red_frequency=1):
         self.all_red_frequency = all_red_frequency
         self.PHASES = {0: "G E", 1: "G N", 2: "G W", 3: "G S", 4: "ALL RED", 5: "G EW", 6: "G NS", 7: "G E BY W",
