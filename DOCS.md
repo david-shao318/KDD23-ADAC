@@ -281,3 +281,4 @@ In the multi-intersection scenario, we use RESCO to bundle together multiple tra
 In running ADAC on maps like `cologne3`, `cologne8`, or `corniche`, multiple `dac_policy` objects
 are bundled together, one for each intersection.
 
+_FULL DOCUMENTATION TO BE COMPLETED_
