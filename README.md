@@ -1,5 +1,4 @@
 # ADAC Traffic Signal Control
-<video src="corniche.mp4" width=400></video>
 
 ## Offline Model-based Reinforcement Learning for Traffic Signal Control
 
