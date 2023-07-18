@@ -10,7 +10,7 @@ This codebase makes use of code from two other sources:
 Please refer to the documentation provided for troubleshooting the relevant pieces of code above.
 
 Please refer to [SUMO Documentation](https://sumo.dlr.de/docs/Installing/index.html) for issues
-with SUMO (Simulation of Urban Mobility).
+with SUMO (Simulation of Urban MObility).
 
 ## Table of Contents
 
