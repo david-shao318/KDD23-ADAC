@@ -236,7 +236,7 @@ constructed, solved, and pickled (for future unpickling).
 The script then runs two simulations: cyclic and BCQ ADAC, one after the other, on the same map and
 scenario. This allows for ease of comparison.
 
-Moreover, the serialized objects have been generated (in the [pickled_ADAC](ADAC_traffic_master/pickled_ADAC) directory),
+Moreover, once the serialized objects have been generated (in the [pickled_ADAC](ADAC_traffic_master/pickled_ADAC) directory),
 running `python test_ADAC_model.py` allows you to very quickly generate a SUMO GUI simulation for
 both the cyclic and ADAC policies.
 
@@ -245,10 +245,11 @@ both the cyclic and ADAC policies.
 In the [ADAC_traffic_master](ADAC_traffic_master) directory, run `python test_ADAC_model.py`.
 
 There are two requirements:
-* buffers matching `stationary-NTFT20_gharaffa-NTFT20_20` in the [buffers](ADAC_traffic_master/buffers)
-directory. (Missing? Generate new buffer with this name, or edit the `test_ADAC_model.py` script.)
-* model files matching `BCQ_gharaffa-NTFT20_20` in the [models](ADAC_traffic_master/models) directory.
-  (Missing? Run `eval-dac-policies.sh`.)
+* Buffers matching `stationary-NTFT20_gharaffa-NTFT20_20` in the [buffers](ADAC_traffic_master/buffers)
+directory.
+  * Missing? Generate new buffer with this name, or edit the `test_ADAC_model.py` script.
+* Model files matching `BCQ_gharaffa-NTFT20_20` in the [models](ADAC_traffic_master/models) directory. 
+  * Missing? Run `eval-dac-policies.sh`.
 
 If the pickled `dac_policy` is not present in [pickled_ADAC](ADAC_traffic_master/pickled_ADAC),
 the object will be constructed, solved, and serialized for fast future unpickling.
