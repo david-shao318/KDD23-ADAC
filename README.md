@@ -34,7 +34,7 @@ If properly installed, you should be able to run ADAC using a serialized model i
 
 ### Full Documentation
 
-Please read [DOCS.md](DOCS.md) for more detailed documentation.
+**Please read [DOCS.md](DOCS.md) for more detailed documentation.**
 
 ## Multi-Intersection
 
