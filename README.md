@@ -25,7 +25,7 @@ traffic control policies can be built in a data-efficient manner.
 
 ### Installation
 1. Use [environment.yml](./environment.yml) to create a conda environment. (For example, `conda env create --name ADAC --file=environment.yml`.)
-2. Install [sumo library](https://www.eclipse.org/sumo/) for traffic simulation.
+2. Install [SUMO (Simulation of Urban MObility)](https://www.eclipse.org/sumo/) for traffic simulation. (Also visit [this page](https://sumo.dlr.de/docs/Installing/index.html).)
 3. Run `python3 -m pip install .` to set up RESCO package.
 
 ### Getting Started
