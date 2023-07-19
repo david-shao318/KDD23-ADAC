@@ -28,8 +28,6 @@ for settings in [
 
     time_per_setting_S = time.time()
 
-    print('<<' * 10, settings, '>>' * 10)
-
     ap = argparse.ArgumentParser()
     ap.add_argument("--agent", type=str, default=s1,
                     choices=['STOCHASTIC', 'MAXWAVE', 'MAXPRESSURE', 'IDQN', 'IPPO', 'MPLight', 'MA2C', 'FMA2C',
@@ -74,6 +72,8 @@ for settings in [
     if args.libsumo and 'LIBSUMO_AS_TRACI' not in os.environ:
         raise EnvironmentError("Set LIBSUMO_AS_TRACI to nonempty value to enable libsumo")
 
+    print('<<' * 10, f"{args.agent}, {args.eps} Episodes, {args.map}, {args.which}, {args.how}, Traffic {args.traffic}",
+          '>>' * 10)
 
 
     ### BEGIN ADAC SPECIFIC

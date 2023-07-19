@@ -1,6 +1,10 @@
 from resco_benchmark.agents.agent import IndependentAgent, Agent
 import numpy as np
 
+# THIS AGENT IS CURRENTLY NOT IN USE
+# Not fully implemented
+
+# RUN ADAC USING --which=ADAC ARGUMENT
 
 class ADAC(IndependentAgent):
     def __init__(self, config, obs_act, map_name, thread_number):
@@ -16,7 +20,7 @@ class ADACAgent(Agent):
         self.num_actions = num_actions
 
     def act(self, observation):
-        return  # TODO: move sample_action to here
+        return  # TODO: move sample_action from resco_adac_4.0.py to here for closer RESCO integration
 
     def observe(self, observation, reward, done, info):
         pass
