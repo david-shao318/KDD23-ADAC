@@ -463,6 +463,9 @@ the settings for building the MDPs are specified, including `device`, `gamma`, a
 `dac_policy` objects. By default, the pickled `dac_policy` objects are stored in the [resco_benchmark/pickled_ADAC](resco_benchmark/pickled_ADAC)
 directory.
 
+The pre-serialized model provided in [resco_benchmark/pickled_ADAC](resco_benchmark/pickled_ADAC) is trained on the
+buffer data (`corniche` at 10x traffic) using `STOCHASTICWAVE` for the time `1400` to `5000`.
+
 When running the trials, each intersection is processed with its state vector, and returns some action selected (given
 the possible actions for each intersection) as an index from `0` to `n_i - 1`, where `n_i` is the number of possible
 actions for intersection `i`.
