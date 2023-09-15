@@ -4,6 +4,12 @@ https://github.com/david-shao318/KDD23-ADAC/assets/57266876/569aef7e-f481-4211-a
 
 ## Offline Model-Based Reinforcement Learning for Traffic Signal Control
 
+### Associated Paper
+
+Mayuresh Kunjir, Sanjay Chawla, Siddarth Chandrasekar, Devika Jay, and Balaraman Ravindran. 2023. "Optimizing Traffic Control with Model-Based Learning: A Pessimistic Approach to Data-Efficient Policy Inference." In *Proceedings of the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD '23)*. Association for Computing Machinery, New York, NY, USA, 1176–1187. [https://doi.org/10.1145/3580305.3599459](https://doi.org/10.1145/3580305.3599459)
+
+### Abstract
+
 Traffic signal control is an important problem in urban mobility
 with a significant potential for economic and environmental impact.
 While there is a growing interest in Reinforcement Learning (RL)
